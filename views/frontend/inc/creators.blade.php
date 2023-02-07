@@ -5,22 +5,22 @@
             <div class="offset-2"></div>
             <div class="col-md-2">
                 <div class="boxesWrap">
-                    <img src="markup/img/Rectangle 40.png" alt="">
+                    <img src="public/markup/img/Rectangle 40.png" alt="">
                 </div>
             </div>
             <div class="col-md-2">
                 <div class="boxesWrap">
-                    <img src="markup/img/Rectangle 40.png" alt="">
+                    <img src="public/markup/img/Rectangle 40.png" alt="">
                 </div>
             </div>
             <div class="col-md-2">
                 <div class="boxesWrap">
-                    <img src="markup/img/Rectangle 40.png" alt="">
+                    <img src="public/markup/img/Rectangle 40.png" alt="">
                 </div>
             </div>
             <div class="col-md-2">
                 <div class="boxesWrap">
-                    <img src="markup/img/Rectangle 40.png" alt="">
+                    <img src="public/markup/img/Rectangle 40.png" alt="">
                 </div>
             </div>
             <div class="offset-2"></div>

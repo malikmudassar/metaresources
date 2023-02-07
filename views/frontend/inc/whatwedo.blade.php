@@ -16,7 +16,7 @@
             </div>
             <div class="col-md-6">
                 <div class="video-img text-right">
-                    <img src="markup/img/yt.svg" alt="">
+                    <img src="public/markup/img/yt.svg" alt="">
                 </div>
             </div>
         </div>

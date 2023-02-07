@@ -6,7 +6,7 @@
                     <div class="row">
                         <div class="col-md-5">
                             <div class="slideImages">
-                                <img src="markup/img/Group 3830.png" alt="">
+                                <img src="public/markup/img/Group 3830.png" alt="">
                             </div>
                         </div>
                         <div class="col-md-7">
@@ -27,7 +27,7 @@
                     <div class="row">
                         <div class="col-md-5">
                             <div class="slideImages">
-                                <img src="markup/img/Frame 434 (1).png" alt="">
+                                <img src="public/markup/img/Frame 434 (1).png" alt="">
                             </div>
                         </div>
                         <div class="col-md-7">
@@ -45,7 +45,7 @@
                     <div class="row">
                         <div class="col-md-5">
                             <div class="slideImages">
-                                <img src="markup/img/Group 3653.png" alt="">
+                                <img src="public/markup/img/Group 3653.png" alt="">
                             </div>
                         </div>
                         <div class="col-md-7">
@@ -64,7 +64,7 @@
                     <div class="row">
                         <div class="col-md-5">
                             <div class="slideImages">
-                                <img src="markup/img/Group 3657.png" alt="">
+                                <img src="public/markup/img/Group 3657.png" alt="">
                             </div>
                         </div>
                         <div class="col-md-7">
@@ -83,7 +83,7 @@
                     <div class="row">
                         <div class="col-md-5">
                             <div class="slideImages">
-                                <img src="markup/img/Group 3666.png" alt="">
+                                <img src="public/markup/img/Group 3666.png" alt="">
                             </div>
                         </div>
                         <div class="col-md-7">
@@ -102,7 +102,7 @@
                     <div class="row">
                         <div class="col-md-5">
                             <div class="slideImages">
-                                <img src="markup/img/Group 3669.png" alt="">
+                                <img src="public/markup/img/Group 3669.png" alt="">
                             </div>
                         </div>
                         <div class="col-md-7">

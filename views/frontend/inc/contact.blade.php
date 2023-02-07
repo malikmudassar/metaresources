@@ -43,7 +43,7 @@
                             <textarea class="form-control" id="inputMessage" rows="6" placeholder="Description" required></textarea>
                         </div>
                         <div class="recapchaimg text-center pt-3">
-                            <img src="markup/img/Rectangle 528.png" alt="">
+                            <img src="public/markup/img/Rectangle 528.png" alt="">
                         </div>
                         <input type="submit" class="btn-primary m-auto" value="Submit">
                     </form>

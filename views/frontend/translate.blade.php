@@ -21,8 +21,8 @@
                         <button type="submit" class="btn-primary">Subscribe Now</button>
                     </form>
                     <div class="heroImages mt-3">
-                        <img src="markup/img//Group 3601.png" alt="">
-                        <img src="markup/img//Group 3602.png" alt="">
+                        <img src="public/markup/img//Group 3601.png" alt="">
+                        <img src="public/markup/img//Group 3602.png" alt="">
                     </div>
                 </div>
             </div>
@@ -37,7 +37,7 @@
         <div class="row cout-inner">
         <div class="col">
             <div class="media">
-                <img src="markup/img//Rectangle 43.png" class="mr-3">
+                <img src="public/markup/img//Rectangle 43.png" class="mr-3">
                 <div class="media-body">
                     <h2><span class="counter">10.5</span>M</h2>
                     <div class="mediaWrapText d-flex align-items-center">
@@ -61,7 +61,7 @@
         </div>
         <div class="col">
             <div class="media">
-                <img src="markup/img//Rectangle 43.png" class="mr-3">
+                <img src="public/markup/img//Rectangle 43.png" class="mr-3">
                 <div class="media-body">
                     <h2><span class="counter">2.8</span>M</h2>
                     <div class="mediaWrapText d-flex align-items-center">
@@ -84,7 +84,7 @@
         </div>
         <div class="col">
             <div class="media">
-                <img src="markup/img//Rectangle 43.png" class="mr-3">
+                <img src="public/markup/img//Rectangle 43.png" class="mr-3">
                 <div class="media-body">
                     <h2><span class="counter">20</span>+</h2>
                     <div class="mediaWrapText d-flex align-items-center">
@@ -113,35 +113,35 @@
             <h4>Most popular</h4>
             <div class="most-pop-inner">
             <button class="most-popular-box">
-                <img src="markup/img//Rectangle 542.png">
+                <img src="public/markup/img//Rectangle 542.png">
                 <p>english</p>
             </button>
             <button class="most-popular-box">
-                <img src="markup/img//Rectangle 542 (1).png">
+                <img src="public/markup/img//Rectangle 542 (1).png">
                 <p>hindi</p>
             </button>
             <button class="most-popular-box">
-                <img src="markup/img//Rectangle 542 (2).png">
+                <img src="public/markup/img//Rectangle 542 (2).png">
                 <p>spanish</p>
             </button>
             <button class="most-popular-box">
-                <img src="markup/img//Rectangle 542 (3).png">
+                <img src="public/markup/img//Rectangle 542 (3).png">
                 <p>French</p>
             </button>
             <button class="most-popular-box">
-                <img src="markup/img//Rectangle 542 (4).png">
+                <img src="public/markup/img//Rectangle 542 (4).png">
                 <p>Indonesian</p>
             </button>
             <button class="most-popular-box">
-                <img src="markup/img//Rectangle 542 (5).png">
+                <img src="public/markup/img//Rectangle 542 (5).png">
                 <p>Portuguese</p>
             </button>
             <button class="most-popular-box">
-                <img src="markup/img//Rectangle 542 (6).png">
+                <img src="public/markup/img//Rectangle 542 (6).png">
                 <p>Russian</p>
             </button>
             <button class="most-popular-box">
-                <img src="markup/img//Rectangle 542 (7).png">
+                <img src="public/markup/img//Rectangle 542 (7).png">
                 <p>Arabic</p>
             </button>
         </div>
@@ -199,42 +199,42 @@
           <div class="row">
                <div class="col-md-3">
                    <div class="creator-Img">
-                       <img src="markup/img//Rectangle 529.png">
+                       <img src="public/markup/img//Rectangle 529.png">
                    </div>
                </div>
                <div class="col-md-3">
                    <div class="creator-Img">
-                       <img src="markup/img//Rectangle 529.png">
+                       <img src="public/markup/img//Rectangle 529.png">
                    </div>
                </div>
                <div class="col-md-3">
                    <div class="creator-Img">
-                       <img src="markup/img//Rectangle 529.png">
+                       <img src="public/markup/img//Rectangle 529.png">
                    </div>
                </div>
                <div class="col-md-3">
                    <div class="creator-Img">
-                       <img src="markup/img//Rectangle 529.png">
+                       <img src="public/markup/img//Rectangle 529.png">
                    </div>
                </div>
                <div class="col-md-3">
                    <div class="creator-Img">
-                       <img src="markup/img//Rectangle 529.png">
+                       <img src="public/markup/img//Rectangle 529.png">
                    </div>
                </div>
                <div class="col-md-3">
                    <div class="creator-Img">
-                       <img src="markup/img//Rectangle 529.png">
+                       <img src="public/markup/img//Rectangle 529.png">
                    </div>
                </div>
                <div class="col-md-3">
                    <div class="creator-Img">
-                       <img src="markup/img//Rectangle 529.png">
+                       <img src="public/markup/img//Rectangle 529.png">
                    </div>
                </div>
                <div class="col-md-3">
                    <div class="creator-Img">
-                       <img src="markup/img//Rectangle 529.png">
+                       <img src="public/markup/img//Rectangle 529.png">
                    </div>
                </div>
           </div>
@@ -248,16 +248,16 @@
         <h3>Our Translated work</h3>
         <div class="row our-tranlate-wrap">
             <div class="col-md-6">
-                <img src="markup/img//Rectangle 533.png">
+                <img src="public/markup/img//Rectangle 533.png">
             </div>
             <div class="col-md-6">
-                <img src="markup/img//Rectangle 533.png">
+                <img src="public/markup/img//Rectangle 533.png">
             </div>
             <div class="col-md-6">
-                <img src="markup/img//Rectangle 533.png">
+                <img src="public/markup/img//Rectangle 533.png">
             </div>
             <div class="col-md-6">
-                <img src="markup/img//Rectangle 533.png">
+                <img src="public/markup/img//Rectangle 533.png">
             </div>
         </div>
     </div>
@@ -276,7 +276,7 @@
             </div>
             <div class="col-lg-3">
                 <div class="analytics-box">
-                    <img src="markup/img//Rectangle 519.png" alt="">
+                    <img src="public/markup/img//Rectangle 519.png" alt="">
                     <h5>Analytics</h5>
                     <p> <strong>Curated </strong> promotional strategy</p>
                     <p> <strong> Select</strong>  the suitable content for translation.</p>
@@ -285,7 +285,7 @@
             </div>
             <div class="col-lg-3">
                 <div class="analytics-box">
-                    <img src="markup/img//Rectangle 519 (1).png" alt="">
+                    <img src="public/markup/img//Rectangle 519 (1).png" alt="">
                     <h5>Dubbing</h5>
                     <p> <strong>Get</strong>  the best native voice over artist for your content.</p>
                     <p> <strong> Choose</strong>  to work with only finest voices.</p>
@@ -294,7 +294,7 @@
             </div>
             <div class="col-lg-3">
                 <div class="analytics-box">
-                    <img src="markup/img//Rectangle 519 (2).png" alt="">
+                    <img src="public/markup/img//Rectangle 519 (2).png" alt="">
                     <h5>Translation</h5>
                     <p> <strong> Build </strong>transcript in your desired language</p>
                     <p> <strong> Translate </strong>  the scripts.</p>
@@ -303,7 +303,7 @@
             </div>
             <div class="col-lg-3">
                 <div class="analytics-box">
-                    <img src="markup/img//Rectangle 519 (3).png" alt="">
+                    <img src="public/markup/img//Rectangle 519 (3).png" alt="">
                     <h5>Strategy Development</h5>
                     <p> <strong>Explore</strong> the full potential of your content.</p>
                     <p> <strong> Discover</strong>  new relavant language markets.</p>
@@ -312,7 +312,7 @@
             </div>
             <div class="col-lg-3">
                 <div class="analytics-box">
-                    <img src="markup/img//Rectangle 519 (4).png" alt="">
+                    <img src="public/markup/img//Rectangle 519 (4).png" alt="">
                     <h5>Content Management</h5>
                     <p> <strong>Video</strong> editing & production.</p>
                     <p> <strong> Optimise </strong>  the metadata .</p>
@@ -321,7 +321,7 @@
             </div>
             <div class="col-lg-3">
                 <div class="analytics-box">
-                    <img src="markup/img//Rectangle 519 (5).png" alt="">
+                    <img src="public/markup/img//Rectangle 519 (5).png" alt="">
                     <h5>Editing</h5>
                     <p> <strong>voice-synced videos</strong> in new languages.</p>
                     <p> <strong> Edit </strong> your videos & changes in it as per the language</p>
@@ -330,7 +330,7 @@
             </div>
             <div class="col-lg-3">
                 <div class="analytics-box">
-                    <img src="markup/img//Rectangle 519 (6).png" alt="">
+                    <img src="public/markup/img//Rectangle 519 (6).png" alt="">
                     <h5>Promotion</h5>
                     <p> <strong>Create </strong>content to get the recommendations.</p>
                     <p> <strong> Divert </strong>  traffic from other youtube channels.</p>
@@ -407,7 +407,7 @@
             </div>
             <div class="col-md-6">
                 <div class="leader_img">
-                    <img src="markup/img//Group 3807.png" alt="">
+                    <img src="public/markup/img//Group 3807.png" alt="">
                 </div>
             </div>
         </div>
@@ -424,7 +424,7 @@
         <div class="row benefits_Wrap">
             <div class="col-md-4">
                 <div class="card">
-                    <img src="markup/img//Rectangle 538.png" class="card-img-top">
+                    <img src="public/markup/img//Rectangle 538.png" class="card-img-top">
                     <div class="card-body">
                         <h5 class="card-title">Increase Revenue</h5>
                         <p class="card-text">Build engagement with new followers by speaking their language</p>
@@ -433,7 +433,7 @@
             </div>
             <div class="col-md-4">
                 <div class="card">
-                    <img src="markup/img//Rectangle 538 (1).png" class="card-img-top">
+                    <img src="public/markup/img//Rectangle 538 (1).png" class="card-img-top">
                     <div class="card-body">
                         <h5 class="card-title">Increase Revenue</h5>
                         <p class="card-text">Build engagement with new followers by speaking their language</p>
@@ -442,7 +442,7 @@
             </div>
             <div class="col-md-4">
                 <div class="card">
-                    <img src="markup/img//Rectangle 538 (2).png" class="card-img-top">
+                    <img src="public/markup/img//Rectangle 538 (2).png" class="card-img-top">
                     <div class="card-body">
                         <h5 class="card-title">Increase Revenue</h5>
                         <p class="card-text">Build engagement with new followers by speaking their language</p>
@@ -512,7 +512,7 @@
                         </div>
                     </div>           
                     <div class="recapchaimg text-center pt-3">
-                        <img src="markup/img//Rectangle 528.png" alt="">
+                        <img src="public/markup/img//Rectangle 528.png" alt="">
                     </div>
                     <input type="submit" class="btn-primary m-auto" value="Submit">
                 </form>

@@ -14,8 +14,8 @@
                         </div>
                     <div class="card-body">
                         <h4 class="mb-4">Maria Smantha</h4>
-                        <img src="markup/img/ico-users.png"> 5M Subscribers <br>
-                        <img src="markup/img/ico-marker.png"> England
+                        <img src="public/markup/img/ico-users.png"> 5M Subscribers <br>
+                        <img src="public/markup/img/ico-marker.png"> England
                         <hr />
                         <p class="dark-grey-text mt-4">
                             </i>Lorem ipsum dolor sit amet eos adipisci,
@@ -33,8 +33,8 @@
                     </div>
                     <div class="card-body">
                         <h4 class="mb-4">Lisa Cudrow</h4>
-                        <img src="markup/img/ico-users.png"> 3.5M Subscribers <br>
-                        <img src="markup/img/ico-marker.png"> Spain
+                        <img src="public/markup/img/ico-users.png"> 3.5M Subscribers <br>
+                        <img src="public/markup/img/ico-marker.png"> Spain
                         <hr />
                         <p class="dark-grey-text mt-4">
                             </i>Neque cupiditate assumenda in maiores
@@ -52,8 +52,8 @@
                         </div>
                     <div class="card-body">
                         <h4 class="mb-4">John Smith</h4>
-                        <img src="markup/img/ico-users.png"> 2.1M Subscribers <br>
-                        <img src="markup/img/ico-marker.png"> Canada
+                        <img src="public/markup/img/ico-users.png"> 2.1M Subscribers <br>
+                        <img src="public/markup/img/ico-marker.png"> Canada
                         <hr />
                         <p class="dark-grey-text mt-4">
                             Delectus impedit saepe officiis ab
@@ -73,8 +73,8 @@
                         </div>
                     <div class="card-body">
                         <h4 class="mb-4">John Smith</h4>
-                        <img src="markup/img/ico-users.png"> 2.1M Subscribers <br>
-                        <img src="markup/img/ico-marker.png"> Canada
+                        <img src="public/markup/img/ico-users.png"> 2.1M Subscribers <br>
+                        <img src="public/markup/img/ico-marker.png"> Canada
                         <hr />
                         <p class="dark-grey-text mt-4">
                             Delectus impedit saepe officiis ab
@@ -93,8 +93,8 @@
                         </div>
                     <div class="card-body">
                         <h4 class="mb-4">Maria Smantha</h4>
-                        <img src="markup/img/ico-users.png"> 5M Subscribers <br>
-                        <img src="markup/img/ico-marker.png"> England
+                        <img src="public/markup/img/ico-users.png"> 5M Subscribers <br>
+                        <img src="public/markup/img/ico-marker.png"> England
                         <hr />
                         <p class="dark-grey-text mt-4">
                             </i>Lorem ipsum dolor sit amet eos adipisci,
@@ -112,8 +112,8 @@
                     </div>
                     <div class="card-body">
                         <h4 class="mb-4">Lisa Cudrow</h4>
-                        <img src="markup/img/ico-users.png"> 3.5M Subscribers <br>
-                        <img src="markup/img/ico-marker.png"> Spain
+                        <img src="public/markup/img/ico-users.png"> 3.5M Subscribers <br>
+                        <img src="public/markup/img/ico-marker.png"> Spain
                         <hr />
                         <p class="dark-grey-text mt-4">
                             </i>Neque cupiditate assumenda in maiores

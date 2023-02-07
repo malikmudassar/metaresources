@@ -4,7 +4,7 @@
         <div class="row owl-carousel owl-theme">
             <div class="col-md-3 item">
                 <div class="card">
-                    <img src="markup/img/Rectangle 45.png" class="card-img-top">
+                    <img src="public/markup/img/Rectangle 45.png" class="card-img-top">
                     <div class="cardHeader">
                         <h6>Channel Name</h6>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
@@ -61,7 +61,7 @@
             </div>
             <div class="col-md-3 item">
                 <div class="card">
-                    <img src="markup/img/Rectangle 45.png" class="card-img-top">
+                    <img src="public/markup/img/Rectangle 45.png" class="card-img-top">
                     <div class="cardHeader">
                         <h6>Channel Name</h6>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
@@ -118,7 +118,7 @@
             </div>
             <div class="col-md-3 item">
                 <div class="card">
-                    <img src="markup/img/Rectangle 45.png" class="card-img-top">
+                    <img src="public/markup/img/Rectangle 45.png" class="card-img-top">
                     <div class="cardHeader">
                         <h6>Channel Name</h6>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
@@ -175,7 +175,7 @@
             </div>
             <div class="col-md-3 item">
                 <div class="card">
-                    <img src="markup/img/Rectangle 45.png" class="card-img-top">
+                    <img src="public/markup/img/Rectangle 45.png" class="card-img-top">
                     <div class="cardHeader">
                         <h6>Channel Name</h6>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>

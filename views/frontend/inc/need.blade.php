@@ -8,7 +8,7 @@
             <div class="col-md-4 ">
                 <div class="cards">
                     <div class="card-head">
-                        <span><img src="markup/img/wygi1.png"></span>
+                        <span><img src="public/markup/img/wygi1.png"></span>
                     </div>
                     <ul class="">
                         <li>Content-id Management & Copyright Strike Resolution</li>
@@ -26,7 +26,7 @@
             <div class="col-md-4 ">
             <div class="cards">
                     <div class="card-head">
-                        <span><img src="markup/img/wygi2.png"></span>
+                        <span><img src="public/markup/img/wygi2.png"></span>
                     </div>
                     <ul class="">
                         <li>Content-id Management & Copyright Strike Resolution</li>
@@ -44,7 +44,7 @@
             <div class="col-md-4 ">
             <div class="cards">
                     <div class="card-head">
-                        <span><img src="markup/img/wygi3.png"></span>
+                        <span><img src="public/markup/img/wygi3.png"></span>
                     </div>
                     <ul class="">
                         <li>Content-id Management & Copyright Strike Resolution</li>

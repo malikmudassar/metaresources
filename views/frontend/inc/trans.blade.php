@@ -3,7 +3,7 @@
         <div class="row mt-4">
             <div class="col-md-6">
                 <div class="video-img mt-5">
-                    <img src="markup/img/Group 3634.png" alt="">
+                    <img src="public/markup/img/Group 3634.png" alt="">
                 </div>
             </div>
             <div class="col-md-6">

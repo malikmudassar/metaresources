@@ -44,7 +44,7 @@
             </div>
             <div class="col-md-6">
                 <div class="focus-outer">
-                    <img src="markup/img/yt.svg" alt="">
+                    <img src="public/markup/img/yt.svg" alt="">
                 </div>
             </div>
         </div>
@@ -62,7 +62,7 @@
         <div class="row">
             <div class="col-md-4">
                 <div class="creator-box">
-                    <img src="markup/img//Group 3846.png" alt="">
+                    <img src="public/markup/img//Group 3846.png" alt="">
                     <h5>Audit & Analysis</h5>
                     <p>A channel audit
                         includes analysis by our Youtube Certified Expert on issues associated and how to
@@ -71,21 +71,21 @@
             </div>
             <div class="col-md-4">
                 <div class="creator-box">
-                    <img src="markup/img//Group 3847.png" alt="">
+                    <img src="public/markup/img//Group 3847.png" alt="">
                     <h5>Branding & Design</h5>
                     <p>Complete overhaul of your channel with re-design of video thumbnails, homepage banner, logo, intro and outro in an effective way to increase СTR, subscribers and revenue.</p>
                 </div>
             </div>
             <!-- <div class="col-md-4">
                 <div class="creator-box">
-                    <img src="markup/img//Group 3848.png" alt="">
+                    <img src="public/markup/img//Group 3848.png" alt="">
                     <h5>Channel Navigator</h5>
                     <p>Dedicated Manager who provides consultation on channel growth, resolves any channel issues and helps you receive the full benefits of our ecosystem.</p>
                 </div>
             </div> -->
             <div class="col-md-4">
                 <div class="creator-box">
-                    <img src="markup/img//Group 3849.png" alt="">
+                    <img src="public/markup/img//Group 3849.png" alt="">
                     <h5>101 Guidance</h5>
                     <p>Schedule one-on-one sessions with our Youtube Certified experts. Get practical recommendations on how to further improve your channel performance & key metrics.</p>
                 </div>
@@ -106,70 +106,70 @@
             </div>
             <div class="col-md-6">
                 <div class="meta-growth-outer">
-                    <img src="markup/img//Frame 445.png" alt="">
+                    <img src="public/markup/img//Frame 445.png" alt="">
                 </div>
             </div>
         </div>
         <div class="row">
             <div class="col-md-4">
                 <div class="creator-box">
-                    <img src="markup/img//Group 3850.png" alt="">
+                    <img src="public/markup/img//Group 3850.png" alt="">
                     <h5>Growth</h5>
                     <p>Organic growth on Youtube and other platforms and multi-platform distribution of your content to scale up in new regions and viewers.</p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="creator-box">
-                    <img src="markup/img//Group 3851.png" alt="">
+                    <img src="public/markup/img//Group 3851.png" alt="">
                     <h5>Ads & Promotion</h5>
                     <p>Increase subscribers base, viewership of your content through targeted advertising campaigns on various social media platforms and search engines.</p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="creator-box">
-                    <img src="markup/img//Group 3848.png" alt="">
+                    <img src="public/markup/img//Group 3848.png" alt="">
                     <h5>Channel Navigator</h5>
                     <p>Dedicated Managers who provide consultation on Channel Growth, resolves any channel issues and helps you receive the full benefits of our Metapher ecosystem.</p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="creator-box">
-                    <img src="markup/img//Group 3853.png" alt="">
+                    <img src="public/markup/img//Group 3853.png" alt="">
                     <h5>Stream 24*7</h5>
                     <p>Increase your channel metrics by streaming your content 24*7 through special platform like Gyre. Continuous streams on loop for audience and income growth.</p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="creator-box">
-                    <img src="markup/img//Group 3854.png" alt="">
+                    <img src="public/markup/img//Group 3854.png" alt="">
                     <h5>Content Localization</h5>
                     <p>Get your content translated into 21 plus languages. With our expertise, launch your content in new markets to increase audience and boost income.</p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="creator-box">
-                    <img src="markup/img//Group 3849.png" alt="">
+                    <img src="public/markup/img//Group 3849.png" alt="">
                     <h5>101 Guidance</h5>
                     <p>Schedule one-on-one sessions with our YouTube Certified experts. Get practical recommendations on how to further improve your channel performance & key metrics</p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="creator-box">
-                    <img src="markup/img//Group 3856.png" alt="">
+                    <img src="public/markup/img//Group 3856.png" alt="">
                     <h5>Multi-Platform Distribution</h5>
                     <p>Get revenue boost by distributing your content from YouTube to other video streaming platforms and music streaming services with minimal efforts.</p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="creator-box">
-                    <img src="markup/img//Group 3845.png" alt="">
+                    <img src="public/markup/img//Group 3845.png" alt="">
                     <h5>Meta Development Program</h5>
                     <p>Designed for creators, Focused on growth, Strategy development & Mentoring. Access our creator services and solutions for your channel growth.</p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="creator-box">
-                    <img src="markup/img//Group 3858.png" alt="">
+                    <img src="public/markup/img//Group 3858.png" alt="">
                     <h5>Partner with Creators </h5>
                     <p>Our channel managers will help you to collobrate with most promising projects by other creators to
                         maximize your influence & reach among large audience.</p>
@@ -191,70 +191,70 @@
             </div>
             <div class="col-md-6">
                 <div class="meta-income-outer">
-                    <img src="markup/img//Frame 448.png" alt="">
+                    <img src="public/markup/img//Frame 448.png" alt="">
                 </div>
             </div>
         </div>
         <div class="row mt-4">
             <div class="col-md-4">
                 <div class="creator-box">
-                    <img src="markup/img//Group 3839.png" alt="">
+                    <img src="public/markup/img//Group 3839.png" alt="">
                     <h5>Income  </h5>
                     <p>Income oppurtunities by multi-platform distribution of your content to find new revenure sources and monetization of your content on YouTube and other platforms</p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="creator-box">
-                    <img src="markup/img//Group 3837.png" alt="">
+                    <img src="public/markup/img//Group 3837.png" alt="">
                     <h5>Multi-Platform Distribution </h5>
                     <p>Get revenue boost by distributing your content from YouTube to other video streaming platforms and music streaming services with minimal efforts.</p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="creator-box">
-                    <img src="markup/img//Group 3838.png" alt="">
+                    <img src="public/markup/img//Group 3838.png" alt="">
                     <h5>Content ID Management</h5>
                     <p>Management of your content id in various regions and protecting your content from plagarism by raising disputes through copyright claims & strikes.</p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="creator-box">
-                    <img src="markup/img//Group 3840.png" alt="">
+                    <img src="public/markup/img//Group 3840.png" alt="">
                     <h5>Games & Apps </h5>
                     <p>Development of creator specific android & ios app or personalised websites & converting your revolutionary game idea into realization</p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="creator-box">
-                    <img src="markup/img//Group 3841.png" alt="">
+                    <img src="public/markup/img//Group 3841.png" alt="">
                     <h5>Metapher Affiliate Partner Program</h5>
                     <p>Bring other creators to Metapher Creators Ecosystem and receive a guaranteed reward every time.</p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="creator-box">
-                    <img src="markup/img//Group 3842.png" alt="">
+                    <img src="public/markup/img//Group 3842.png" alt="">
                     <h5>Negotiate Deals</h5>
                     <p>Negotiation of marketing deals with potential brands to bring more income through advertising revenue and influencer marketing. </p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="creator-box">
-                    <img src="markup/img//Group 3843.png" alt="">
+                    <img src="public/markup/img//Group 3843.png" alt="">
                     <h5>Merchandise</h5>
                     <p>Create your own branded merchandise catalogue, Use our expertise to design, create & supply either directly to you or sell it through customised online storefront.  </p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="creator-box">
-                    <img src="markup/img//Group 3844.png" alt="">
+                    <img src="public/markup/img//Group 3844.png" alt="">
                     <h5>Brand Connect</h5>
                     <p>Earn income other than ad revenue by integrating brand adertisements into your videos and get paid for featuring products in your content. </p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="creator-box">
-                    <img src="markup/img//Group 3845.png" alt="">
+                    <img src="public/markup/img//Group 3845.png" alt="">
                     <h5>Content Localization</h5>
                     <p>Get your content translated into 21 plus languages. With our expertise, launch your content in new markets to increase audience and boost income. </p>
                 </div>
@@ -275,28 +275,28 @@
             </div>
             <div class="col-md-6">
                 <div class="meta-support-outer">
-                    <img src="markup/img//Frame.png" alt="">
+                    <img src="public/markup/img//Frame.png" alt="">
                 </div>
             </div>
         </div>
         <div class="row">
             <div class="col-md-4">
                 <div class="creator-box">
-                    <img src="markup/img//Group 3859.png" alt="">
+                    <img src="public/markup/img//Group 3859.png" alt="">
                     <h5>Claims & Strikes </h5>
                     <p>Resolve issues of Copyright Claims in one day and File Copyright Strikes on other creator who plagarize content. Learn how to avoid such instance in future.</p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="creator-box">
-                    <img src="markup/img//Group 3850.png" alt="">
+                    <img src="public/markup/img//Group 3850.png" alt="">
                     <h5>Re-Monetization</h5>
                     <p>Remove unfair yellow icons on your videos. Use our expert legal advise & suggestion on changes to get entire monetized earnings from your content. </p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="creator-box">
-                    <img src="markup/img//Group 3851.png" alt="">
+                    <img src="public/markup/img//Group 3851.png" alt="">
                     <h5>Meta Care</h5>
                     <p>This service offers 24/7 support in email/google meet to help your channel always
                         stay safe. We promptly solve any channel issues that can affect performance. </p>
@@ -304,14 +304,14 @@
             </div>
             <div class="col-md-4">
                 <div class="creator-box">
-                    <img src="markup/img//Group 3861.png" alt="">
+                    <img src="public/markup/img//Group 3861.png" alt="">
                     <h5>Meta Shield</h5>
                     <p>Protect your system & channel from unauthorised access, phising attacks. we help you to recover account access by taking security measures. </p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="creator-box">
-                    <img src="markup/img//Group 3852.png" alt="">
+                    <img src="public/markup/img//Group 3852.png" alt="">
                     <h5>Meta Moderation</h5>
                     <p>We check your newly uploaded videos regularly to prevent violations of the Community
                         Guidelines and keep you safe from potential strikes and bans. </p>
@@ -319,7 +319,7 @@
             </div>
             <div class="col-md-4">
                 <div class="creator-box">
-                    <img src="markup/img//Group 3838.png" alt="">
+                    <img src="public/markup/img//Group 3838.png" alt="">
                     <h5>Сontent ID Management</h5>
                     <p>Management of your content id in various regions and protecting your content from plagarism by raising disputes through copyright claims & strikes. </p>
                 </div>
@@ -341,28 +341,28 @@
             </div>
             <div class="col-md-6">
                 <div class="meta-safety-outer">
-                    <img src="markup/img//Group 3736.png" alt="">
+                    <img src="public/markup/img//Group 3736.png" alt="">
                 </div>
             </div>
         </div>
         <div class="row">
             <div class="col-md-4">
                 <div class="creator-box">
-                    <img src="markup/img//Group 3859.png" alt="">
+                    <img src="public/markup/img//Group 3859.png" alt="">
                     <h5>Claims & Strikes </h5>
                     <p>Resolve issues of Copyright Claims in one day and File Copyright Strikes on other creator who plagarize content. Learn how to avoid such instance in future.</p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="creator-box">
-                    <img src="markup/img//Group 3853-22.png" alt="">
+                    <img src="public/markup/img//Group 3853-22.png" alt="">
                     <h5>Meta Chat  </h5>
                     <p>We promptly resolve any issues you might have with your channel. Our customer service representatives are available 24*7 .</p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="creator-box">
-                    <img src="markup/img//Group 3861.png" alt="">
+                    <img src="public/markup/img//Group 3861.png" alt="">
                     <h5>Meta Shield</h5>
                     <p>Protect your system & channel from unauthorised access, phising attacks. we help you to recover account access by taking security measures.</p>
                 </div>
@@ -383,28 +383,28 @@
             </div>
             <div class="col-md-6">
                 <div class="meta-boost-outer text-center">
-                    <img src="markup/img//Frame (1).png" alt="">
+                    <img src="public/markup/img//Frame (1).png" alt="">
                 </div>
             </div>
         </div>
         <div class="row">
             <div class="col-md-4">
                 <div class="creator-box">
-                    <img src="markup/img//Group 3847.png" alt="">
+                    <img src="public/markup/img//Group 3847.png" alt="">
                     <h5>Branding & Designing</h5>
                     <p>Complete overhaul of your channel with     re design of video thumbnails, homepage banner, logo, intro, outro in an effective way to increase СTR, subscribers & revenue.</p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="creator-box">
-                    <img src="markup/img//Group 3854-223.png" alt="">
+                    <img src="public/markup/img//Group 3854-223.png" alt="">
                     <h5>Influencers Meetups</h5>
                     <p>Educational online and offline meetings covering the most relevant topics for creators. Get the most up-to-date info and insights on YouTube at our MeetUps</p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="creator-box">
-                    <img src="markup/img//Group 3855-2222.png" alt="">
+                    <img src="public/markup/img//Group 3855-2222.png" alt="">
                     <h5>Meta Insights</h5>
                     <p>Get data-driven insights on channel metrics, trends, audience, leaders &
                         competitors, content ideas and recommendations for channel growth on multiple platforms.</p>
@@ -412,7 +412,7 @@
             </div>
             <div class="col-md-4">
                 <div class="creator-box">
-                    <img src="markup/img//Group 3856-000.png" alt="">
+                    <img src="public/markup/img//Group 3856-000.png" alt="">
                     <h5>Instagram Growth</h5>
                     <p>Promote your Instagram profile, develop
                         a content stretegy. provide consultancy, resolve issues with the platform,
@@ -498,7 +498,7 @@
                             </div>
                         </div>          
                         <div class="recapchaimg text-center pt-3">
-                            <img src="markup/img//Rectangle 528.png" alt="">
+                            <img src="public/markup/img//Rectangle 528.png" alt="">
                         </div>
                         <input type="submit" class="btn-primary m-auto" value="Submit">
                     </form>
