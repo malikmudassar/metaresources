@@ -3,7 +3,7 @@
         <div class="row cout-inner">
         <div class="col">
             <div class="media">
-                <img src="markup/img/Rectangle 43.png" class="mr-3">
+                <img src="public/markup/img/Rectangle 43.png" class="mr-3">
                 <div class="media-body">
                     <h2><span class="counter">14</span>+</h2>
                     <div class="mediaWrapText d-flex align-items-center">
@@ -50,7 +50,7 @@
         </div>
         <div class="col">
             <div class="media">
-                <img src="markup/img/Rectangle 43.png" class="mr-3">
+                <img src="public/markup/img/Rectangle 43.png" class="mr-3">
                 <div class="media-body">
                     <h2><span class="counter">23</span>M+</h2>
                     <div class="mediaWrapText d-flex align-items-center">
@@ -73,7 +73,7 @@
         </div>
         <div class="col">
             <div class="media">
-                <img src="markup/img/Rectangle 43.png" class="mr-3">
+                <img src="public/markup/img/Rectangle 43.png" class="mr-3">
                 <div class="media-body">
                     <h2><span class="counter">22</span>+</h2>
                     <div class="mediaWrapText d-flex align-items-center">
@@ -89,7 +89,7 @@
         </div>
         <div class="col">
             <div class="media">
-                <img src="markup/img/Rectangle 43.png" class="mr-3">
+                <img src="public/markup/img/Rectangle 43.png" class="mr-3">
                 <div class="media-body">
                     <h2><span class="counter">6</span>+</h2>
                     <div class="mediaWrapText d-flex align-items-center">
