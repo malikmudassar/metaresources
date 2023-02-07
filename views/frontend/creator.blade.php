@@ -485,9 +485,11 @@
                                 <div class="form-group">
                                     <select class="custom-select">
                                         <option selected>Select Package</option>
-                                        <option value="1">select package One</option>
-                                        <option value="2">select package Two</option>
-                                        <option value="3">select package Three</option>
+                                        <option value="1">Meta Growth</option>
+                                        <option value="2">Meta Income</option>
+                                        <option value="3">Meta Support</option>
+                                        <option value="4">Meta Safety</option>
+                                        <option value="5">Meta Boost</option>
                                       </select>
                                 </div>
                             </div>
