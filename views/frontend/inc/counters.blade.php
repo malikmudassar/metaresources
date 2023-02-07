@@ -26,7 +26,7 @@
         </div>
         <div class="col">
             <div class="media">
-                <img src="markup/img/Rectangle 43.png" class="mr-3">
+                <img src="public/markup/img/Rectangle 43.png" class="mr-3">
                 <div class="media-body">
                     <h2><span class="counter">30</span>B+</h2>
                     <div class="mediaWrapText d-flex align-items-center">
