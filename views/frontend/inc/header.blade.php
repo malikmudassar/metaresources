@@ -20,7 +20,7 @@
                         <li class="nav-item {{ Route::is('meta-translate') ? 'active' : '' }}">
                             <a class="nav-link" href="{{ route('meta-translate') }}">Meta Translate</a>
                         </li>
-                        <li class="nav-item {{ Route::is('meta-translate') ? 'active' : '' }}">
+                        <li class="nav-item ">
                             <a class="nav-link" target="_blank" href="http://db.metapher.in">Meta Db</a>
                         </li>
                         <li class="nav-item {{ Route::is('blog') ? 'active' : '' }}">
