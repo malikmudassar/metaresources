@@ -192,7 +192,7 @@
 
 
 <!----------------------------- CREATOR SEC ----------------------->
-<section class="creator-sec">
+<!-- <section class="creator-sec">
     <div class="container">
           <h3>Creators We've Worked With</h3>
           <p>You heard it first from the creators we’ve worked with </p>
@@ -239,11 +239,11 @@
                </div>
           </div>
     </div>
-</section>
+</section> -->
 
 
 <!------------------------------ OUR TRANSLATE WORK SEC ----------------------->
-<section class="our-translate-work-sec">
+<!-- <section class="our-translate-work-sec">
     <div class="container">
         <h3>Our Translated work</h3>
         <div class="row our-tranlate-wrap">
@@ -261,7 +261,7 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 <!------------------------- ANALYTICS SEC ----------------------->
 <section class="Analytics-sec">
