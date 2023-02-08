@@ -3,6 +3,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <title>Metapher </title>
+        <link rel="icon" type="image/x-icon" href="public/markup/img/favicon-16x16.png">
         <link rel="stylesheet" href="public/markup/css/owl.carousel.css" type="text/css">
         <link rel="stylesheet" href="public/markup/css/owl.theme.default.min.css" type="text/css">
         <!--bootstrap core css-->
