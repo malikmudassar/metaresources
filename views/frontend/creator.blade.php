@@ -495,7 +495,7 @@
                             </div>
                             <div class="col-sm-12">
                                 <div class="form-group">
-                                    <textarea class="form-control" id="inputMessage" rows="6" placeholder="" required></textarea>
+                                    <textarea class="form-control" id="inputMessage" rows="6" placeholder="Description" required></textarea>
                                 </div>
                             </div>
                         </div>          
