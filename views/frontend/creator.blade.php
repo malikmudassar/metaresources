@@ -511,7 +511,7 @@
   </div>
  </section>
  <!-------------------- REVIEW SEC -------------------->
- <section class="reviews-sec">
+ <!-- <section class="reviews-sec">
      <div class="container">
          <div class="row">
              <div class="col-md-4">
@@ -560,6 +560,6 @@
              </div>
          </div>
      </div>
- </section>
+ </section> -->
 <!------------------- FOOTER-SEC ---------------------->
 @include('frontend.inc.footer')
