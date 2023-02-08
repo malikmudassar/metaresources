@@ -14,7 +14,7 @@
             </div>
             <div class="col-md-6">
                 <div class="video-img text-right">
-                    <img src="public/markup/img/Group 3831.png" alt="">
+                    <img src="public/markup/img/group_3831.svg" alt="">
                 </div>
             </div>
         </div>
