@@ -5,7 +5,7 @@
 
 <!-------------- HEADER-SEC -------------------->
 @include('frontend.inc.header')
-<section class="delivered-sec">
+<section class="faq-sec-hero">
     <div class="container-fluid p-0">
         <h3>Frequently Asked Questions</h3>
         
