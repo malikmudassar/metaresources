@@ -95,42 +95,42 @@
                 </div> -->
                 <ul class="faq-list">
                     <li class="faq-list__item">
-                        <h3 class="faq-list__title">Can you explain how Prodvigate works?</h3>
+                        <h3 class="faq-list__title">What is Metapher Creator Ecosystem?</h3>
                         <div class="faq-list__desc-container">
-                            <div class="faq-list__desc">Prodvigate is very simple and effective. We promote your channel by promoting its videos on YouTube. We use Google In-feed video ads (Discovery ads) only. The ads are shown in the recommended section of YouTube, search results when someone is searching for similar content, and on the main page of YouTube’s mobile platform.</div>
+                            <div class="faq-list__desc">Metapher creator ecosystem is suit of services we aim to provide to creators to unleash unlimited growth potential and bring revenue & subscribers growth.</div>
                             <span class="faq-list__corner"></span>
                         </div>
                     </li>
                     <li class="faq-list__item">
                         <h3 class="faq-list__title">Is it legit?</h3>
                         <div class="faq-list__desc-container">
-                            <div class="faq-list__desc">Yes. Prodvigate is a Google Partner. We were a part of the Google Partners Acceleration Program. We only use Google Ads to promote your channel. It is the only way to place your ads directly on YouTube. Our promotion is 100% legit and doesn’t violate YouTube’s terms and conditions.</div>
+                            <div class="faq-list__desc">Yes. Metapher is a Google Partner. We were a part of the Google Partners Acceleration Program. We only use Google Ads to promote your channel. It is the only way to place your ads directly on YouTube. Our promotion is 100% legit and doesn’t violate YouTube’s terms and conditions.</div>
                             <span class="faq-list__corner"></span>
                         </div>
                     </li>
                     <li class="faq-list__item">
-                        <h3 class="faq-list__title">Now I want to know even more about how Prodvigate works. Is it a subscription?</h3>
+                        <h3 class="faq-list__title">What are your Services?</h3>
                         <div class="faq-list__desc-container">
                             <div class="faq-list__desc">No, of course not. Your promotion is set to run for a week. After the week is over, you can prolong your promotion by paying for it again. You can turn on the automatic payment option, and we will bill you automatically every time your balance is less than $1. Note: You can turn it off at any time.</div>
                             <span class="faq-list__corner"></span>
                         </div>
                     </li>
                     <li class="faq-list__item">
-                        <h3 class="faq-list__title">Why is the promotion set to run for a week?</h3>
+                        <h3 class="faq-list__title">How much does it Cost?</h3>
                         <div class="faq-list__desc-container">
                             <div class="faq-list__desc">Our algorithm and Google Ads algorithm need time to learn. If we spend your balance in one day, we may not get you the results you are looking for.</div>
                             <span class="faq-list__corner"></span>
                         </div>
                     </li>
                     <li class="faq-list__item">
-                        <h3 class="faq-list__title">And how much does it cost?</h3>
+                        <h3 class="faq-list__title">How can I get Insights about my channel?</h3>
                         <div class="faq-list__desc-container">
                             <div class="faq-list__desc">You can start with $49. It will bring about 2,269 views. New subscribers, likes, and comments you get from the promotion are free.</div>
                             <span class="faq-list__corner"></span>
                         </div>
                     </li>
                     <li class="faq-list__item">
-                        <h3 class="faq-list__title">How many new subscribers can I get using Prodvigate?</h3>
+                        <h3 class="faq-list__title">How many new subscribers can I get using Metapher?</h3>
                         <div class="faq-list__desc-container">
                             <div class="faq-list__desc">It depends on your budget and your content. The sky is the limit.</div>
                             <span class="faq-list__corner"></span>
