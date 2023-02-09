@@ -5,6 +5,12 @@
 
 <!-------------- HEADER-SEC -------------------->
 @include('frontend.inc.header')
+<section class="delivered-sec">
+    <div class="container-fluid p-0">
+        <h3>Frequently Asked Questions</h3>
+        
+    </div>
+</section>
 
 <!--------------------------------FAQ-SEC ----------------------->
 @include('frontend.inc.faq')
