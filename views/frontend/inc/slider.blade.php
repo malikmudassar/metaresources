@@ -33,7 +33,7 @@
                         <div class="col-md-7">
                             <div class="metadbContent mt-4">
                                 <h2>Meta Growth</h2>
-                                <p>14+ Growth-related Services which helps you to grow faster on Youtube. Includes Personal Certified Channel Manager that assists you at every stage of your Youtube Journey. Our unique Channel Development Programme helps in understanding Youtube Algorithms, buillding content strategy and content schedule like no other.</p>
+                                <p>14+ Growth-related Services which helps you to grow faster on Youtube. Includes Personal Certified Channel Manager that assists you at every stage of your Youtube Journey. Our unique Channel Development Programme helps in understanding Youtube Algorithms.</p>
                                 <div class="btngroups">
                                     <button class="btn btn-outline-primary no-left-margin">Learn More</button>
                                 </div>
