@@ -51,7 +51,7 @@
                         <div class="col-md-7">
                             <div class="metadbContent mt-4">
                                 <h2>Meta Income </h2>
-                                <p>12+ Income Services that allows you to earn significant income with minimal efforts by managing the Content Id, Cross-Platform Content Distribution, developing Mobile Apps and Games. Our unique Affiliate Business Partner Program brings more Brand Deals and provides Merchandise.</p>
+                                <p>12+ Income Services that allows you to earn significant income with minimal efforts by managing the Content Id, Cross-Platform Content Distribution, developing Mobile Apps and Games. Our unique Affiliate Business Partner Program brings more Brand Deals.</p>
                                 <div class="btngroups">
                                      
                                     <button class="btn btn-outline-primary no-left-margin">Learn More</button>
@@ -70,7 +70,7 @@
                         <div class="col-md-7">
                             <div class="metadbContent mt-4">
                                 <h2>Meta Support </h2>
-                                <p>5+ Services that helps in protecting your channel from Hacking Attacks and Recover account access if necessary. Resolution of Copyright Strikes and Copyright Claims in just 1 day and providing Guidance on how to avoid them in the future. We Manage and Protect your content copyrights and distribution rights.</p>
+                                <p>5+ Services that helps in protecting your channel from Hacking Attacks and Recover account access if necessary. Resolution of Copyright Strikes and Copyright Claims in just 1 day and providing Guidance on how to avoid them in the future.</p>
                                 <div class="btngroups">
                                      
                                     <button class="btn btn-outline-primary no-left-margin">Learn More</button>
