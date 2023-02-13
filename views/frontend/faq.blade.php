@@ -10,6 +10,9 @@
         <h3>Frequently Asked </h3>
         <span>Questions</span>
     </div>
+    <div class="faq-sec-res-content">
+        <div class="faq-label">Frequently Asked Questions</div>
+    </div>
 </section>
 
 <!--------------------------------FAQ-SEC ----------------------->
