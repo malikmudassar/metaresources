@@ -442,7 +442,7 @@
                     </ul>
                     <div class="btn-groups">
                         <button class="btn-primary">Become Creator</button>
-                        <button class="btn-1">Learn More</button>
+                        <a href="{{ route('faq') }}" class="btn-1">Learn More</a>
                     </div>
                 </div>
             </div>
