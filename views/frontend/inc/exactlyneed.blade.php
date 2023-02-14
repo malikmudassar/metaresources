@@ -3,8 +3,7 @@
         <div class="row heart">
             <div class="col-md-6">
                 <div class="you-needContent">
-                    <h3>What Exactly do you need?</h3>
-                    <p>to grow on youtube organically </p>
+                    <h3>How to Grow?</h3>
                     <ul>
                         <li>How to grow faster on Youtube?</li>
                         <li>How to optimize my videos?</li>

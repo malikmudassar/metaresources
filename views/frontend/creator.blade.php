@@ -95,7 +95,7 @@
 </section>
 
 <!------------------------ META GROWTH SEC --------------->
-<section class="meta-growth-sec">
+<section id="meta-growth-sec" class="meta-growth-sec">
     <div class="container">
         <div class="row">
             <div class="col-md-6">
@@ -180,7 +180,7 @@
 </section>
 
 <!------------------------ META INCOME SEC --------------->
-<section class="meta-income-sec">
+<section id="meta-income-sec" class="meta-income-sec">
     <div class="container">
         <div class="row">
             <div class="col-md-6">
@@ -264,7 +264,7 @@
 </section>
 
 <!------------------------ META SUPPORT SEC --------------->
-<section class="meta-support-sec">
+<section id="meta-support-sec" class="meta-support-sec">
     <div class="container">
         <div class="row">
             <div class="col-md-6">
@@ -329,7 +329,7 @@
 </section>
 
 <!------------------------ META SAFETY SEC --------------->
-<section class="meta-safety-sec">
+<section id="meta-safety-sec" class="meta-safety-sec">
     <div class="container">
         <div class="row">
             <div class="col-md-6">
@@ -372,7 +372,7 @@
 </section>
 
 <!------------------------ META BOOST SEC --------------->
-<section class="meta-boost-sec">
+<section id="meta-boost-sec" class="meta-boost-sec">
     <div class="container">
         <div class="row">
             <div class="col-md-6">

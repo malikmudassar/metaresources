@@ -1,7 +1,7 @@
 <header class="header-sec">
         <div class="container-fluid">
             <nav class="navbar navbar-expand-lg p-0 ">
-                <a class="navbar-brand p-0 m-0" href="#">
+                <a class="navbar-brand p-0 m-0" href="{{ route('home') }}">
                     <img src="public/markup/img/logo.png" alt="" class="logo ">
                 </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo03"

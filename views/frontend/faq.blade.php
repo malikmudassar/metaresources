@@ -11,7 +11,7 @@
         <span>Questions</span>
     </div>
     <div class="faq-sec-res-content">
-        <div class="faq-label">Frequently Asked Questions</div>
+        <div class="faq-label"><b>Frequently Asked</b><br> Questions</div>
     </div>
 </section>
 

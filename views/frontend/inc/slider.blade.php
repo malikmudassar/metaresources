@@ -17,7 +17,7 @@
                                     We offer services which ensure channel safety, bring consistent growth on Youtube and more.</p>
                                 <div class="btngroups">
                                      
-                                    <button class="btn btn-outline-primary no-left-margin">Learn More</button>
+                                    <a class="btn btn-outline-primary no-left-margin">Learn More</a>
                                 </div>
                             </div>
                         </div>
@@ -35,7 +35,7 @@
                                 <h2>Meta Growth</h2>
                                 <p>14+ Growth-related Services which helps you to grow faster on Youtube. Includes Personal Certified Channel Manager that assists you at every stage of your Youtube Journey. Our unique Channel Development Programme helps in understanding Youtube Algorithms.</p>
                                 <div class="btngroups">
-                                    <button class="btn btn-outline-primary no-left-margin">Learn More</button>
+                                    <a href="{{ route('meta-creator') }}#meta-growth-sec" class="btn btn-outline-primary no-left-margin">Learn More</a>
                                 </div>
                             </div>
                         </div>
@@ -54,7 +54,7 @@
                                 <p>12+ Income Services that allows you to earn significant income with minimal efforts by managing the Content Id, Cross-Platform Content Distribution, developing Mobile Apps and Games. Our unique Affiliate Business Partner Program brings more Brand Deals.</p>
                                 <div class="btngroups">
                                      
-                                    <button class="btn btn-outline-primary no-left-margin">Learn More</button>
+                                    <a href="{{ route('meta-creator') }}#meta-income-sec" class="btn btn-outline-primary no-left-margin">Learn More</a>
                                 </div>
                             </div>
                         </div>
@@ -73,7 +73,7 @@
                                 <p>5+ Services that helps in protecting your channel from Hacking Attacks and Recover account access if necessary. Resolution of Copyright Strikes and Copyright Claims in just 1 day and providing Guidance on how to avoid them in the future.</p>
                                 <div class="btngroups">
                                      
-                                    <button class="btn btn-outline-primary no-left-margin">Learn More</button>
+                                    <a href="{{ route('meta-creator') }}#meta-support-sec" class="btn btn-outline-primary no-left-margin">Learn More</a>
                                 </div>
                             </div>
                         </div>
@@ -92,7 +92,7 @@
                                 <p>6+ Essential Services helpful in resolving Copyright Strikes and Copyright Claims. Also includes In-Messenger Quick Support by our team which is present 24x7 and Quick Response to your issues. Protecting your channel from Hacking Attacks and aid in case of Channel Recovery.</p>
                                 <div class="btngroups">
                                      
-                                    <button class="btn btn-outline-primary no-left-margin">Learn More</button>
+                                    <a href="{{ route('meta-creator') }}#meta-safety-sec" class="btn btn-outline-primary no-left-margin">Learn More</a>
                                 </div>
                             </div>
                         </div>
@@ -111,7 +111,7 @@
                                 <p>8+ Services that are important for the Growth of content creators including Data-driven Insights on Channel Metrics, Trends, Audience, Leaders and Competitor-analysis. Working on your Channel Design including Thumbnails, Banner, Logo and Intro in an effort to increase СTR, Views and Revenue.</p>
                                 <div class="btngroups">
                                      
-                                    <button class="btn btn-outline-primary no-left-margin">Learn More</button>
+                                    <a href="{{ route('meta-creator') }}#meta-boost-sec" class="btn btn-outline-primary no-left-margin">Learn More</a>
                                 </div>
                             </div>
                         </div>
