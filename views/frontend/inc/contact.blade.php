@@ -30,7 +30,7 @@
                             <div class="col-sm-6">
                                 <div class="form-group">
                                     <select class="custom-select">
-                                        <option selected>Select package</option>
+                                        <option selected>Select Product</option>
                                         <option value="1">Meta Creator</option>
                                         <option value="2">Meta Translate</option>
                                         <option value="3">Meta Db</option>
