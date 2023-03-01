@@ -56,7 +56,7 @@
                             <li><a href="{{ route('about-us') }}"> about us</a></li>
                             <li><a href="#">Sitemap</a></li>
                             <li><a href="{{ route('privacy-policy') }}">Privacy Policy</a></li>
-                            <li><a href="#">Terms & Conditions</a></li>
+                            <li><a href="{{ route('terms-condition') }}">Terms & Conditions</a></li>
                             <li><a href="{{ route('faq') }}">FAQs</a></li>
                         </ul>
                     </div>
