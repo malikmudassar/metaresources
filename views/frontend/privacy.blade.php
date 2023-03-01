@@ -127,7 +127,11 @@
         </div>
     </div>
  </section>
-
+ <style>
+    .faq-list__title {
+        width:100% !important;
+    }
+</style>
 <!---------------------- NEWS LETTERS ---------------------->
 @include('frontend.inc.newsletter')
 <!------------------- FOOTER-SEC ---------------------->
