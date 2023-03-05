@@ -25,7 +25,7 @@
             <div class="card">
                 <img src="public/markup/img/ceo.png" class="card-img-top" alt="CEO photo">
                 <div class="card-footer">
-                <h4 class="card-title">Sarah Elixir</h4>
+                <h4 class="card-title c-black">Anil Punadiya</h4>
                 <p class="card-text">CEO</p>
                 </div>
             </div>
