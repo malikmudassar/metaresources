@@ -20,7 +20,7 @@
                 <h3 class="mt-5 mb-4 c-white">Our Vision</h3>
                 <p class="c-white">Make growth highly accessible to content creators across the globe, 
                 to take content beyond linguistic barriers, to take the media-tech industry by storm.</p>
-                <div class="mt-5" style="text-align:center">
+                <div class="mt-5" style="text-align:center;padding: 10px; background-color: #505856; border-radius: 25px;">
                     <div class="heroImages mt-3" >
 
                         <img src="public/markup/img/Group 3602.png" alt="YouTube Partner">
