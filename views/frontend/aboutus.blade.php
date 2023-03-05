@@ -38,7 +38,7 @@
             </div>
         </div>
     </div>
-    <div class="area" >
+    <div class="area" style="max-height:50px; z-index:-10;">
         <ul class="circles">
                 <li></li>
                 <li></li>
