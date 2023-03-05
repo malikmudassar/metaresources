@@ -11,6 +11,7 @@
         <link rel="stylesheet" href="public/markup/css/bootstrap.min.css">
         <!-- Material Design Bootstramarkup/p -->
         <link rel="stylesheet" href="public/markup/css/style.css">
+        
         <link rel="stylesheet" href="public/markup/css/responsive.css">
 
         <!--font Awesome-->
