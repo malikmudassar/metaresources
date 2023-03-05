@@ -40,7 +40,7 @@
             </div>
         </div>
     </div>
-    <div class="area" style="max-height:1px; z-index:-10;">
+    <div class="area" style="max-height:0px; z-index:-10;">
         <ul class="circles">
                 <li></li>
                 <li></li>
