@@ -12,7 +12,7 @@
     <div class="container py-5 front">
         <div class="row">
             <div class="col-md-7">
-                <h1>Metapher</h2>
+                <h1 class="c-white">Metapher</h2>
                 <h2 class="mb-4 c-white">Our Story</h2>
                 <h5 class="c-white">We’re strategists, growth experts, marketers, analysts, and what not</h5>
                 <p class="c-white">We have over five years of experience in the creative industry, 
