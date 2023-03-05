@@ -9,15 +9,16 @@
 
 <!---------------------- Blog SEC -------------------->
 <section class="sec-vision">
-    <div class="container py-5">
+    <div class="container py-5 front">
         <div class="row">
             <div class="col-md-7">
-            <h2 class="mb-4">Our Story</h2>
-            <h5>We’re strategists, growth experts, marketers, analysts, and what not</h5>
-            <p>We have over five years of experience in the creative industry, 
-                promoting and optimizing content for creators that is as good as it grows.</p>
-            <h2 class="mt-5 mb-4">Our Vision</h2>
-            <p>Make growth highly accessible to content creators across the globe, 
+                <h1>Metapher</h2>
+                <h2 class="mb-4 c-white">Our Story</h2>
+                <h5 class="c-white">We’re strategists, growth experts, marketers, analysts, and what not</h5>
+                <p class="c-white">We have over five years of experience in the creative industry, 
+                    promoting and optimizing content for creators that is as good as it grows.</p>
+                <h2 class="mt-5 mb-4 c-white">Our Vision</h2>
+                <p class="c-white">Make growth highly accessible to content creators across the globe, 
                 to take content beyond linguistic barriers, to take the media-tech industry by storm.</p>
             </div>
             <div class="col-md-5">
