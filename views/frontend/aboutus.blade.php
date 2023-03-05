@@ -23,8 +23,8 @@
                 <div class="mt-5" style="text-align:center">
                     <div class="heroImages mt-3" >
 
-                        <img src="public/markup/img/Group 3602.png" alt="">
-                        <img src="public/markup/img/Group 3601.png" alt="">
+                        <img src="public/markup/img/Group 3602.png" alt="YouTube Partner">
+                        <img src="public/markup/img/Group 3601.png" alt="Google Partner">
                         
                     </div>
                 </div>
@@ -40,7 +40,7 @@
             </div>
         </div>
     </div>
-    <div class="area" style="max-height:50px; z-index:-10;">
+    <div class="area" style="max-height:1px; z-index:-10;">
         <ul class="circles">
                 <li></li>
                 <li></li>
