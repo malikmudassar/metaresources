@@ -12,8 +12,6 @@
     <div class="container py-5 front">
         <div class="row">
             <div class="col-md-7">
-                <h1 class="c-white">Metapher</h2>
-                <h3 class="mb-4 c-white mt-5">Our Story</h3>
                 <h5 class="c-white">We’re strategists, growth experts, marketers, analysts, and what not</h5>
                 <p class="c-white">We have over five years of experience in the creative industry, 
                     promoting and optimizing content for creators that is as good as it grows.</p>
