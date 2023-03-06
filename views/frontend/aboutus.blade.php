@@ -12,7 +12,7 @@
     <div class="container py-5 front">
         <div class="row">
             <div class="col-md-7">
-                <h5 class="c-white">We’re strategists, growth experts, marketers, analysts, and what not</h5>
+                <h2 class="c-white">We’re strategists, growth experts, marketers, analysts, and what not</h2>
                 <p class="c-white">We have over five years of experience in the creative industry, 
                     promoting and optimizing content for creators that is as good as it grows.</p>
                 <h3 class="mt-5 mb-4 c-white">Our Vision</h3>
