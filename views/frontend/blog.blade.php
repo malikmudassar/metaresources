@@ -139,7 +139,7 @@
         </div>
     </div>
     <div class="row">
-        <div class="cil-md-4">
+        <div class="col-md-4">
             <div class="card" >
                 <img class="card-img-top" src="..." alt="Card image cap">
                 <div class="card-body">
@@ -147,7 +147,7 @@
                 </div>
             </div>
         </div>
-        <div class="cil-md-4">
+        <div class="col-md-4">
             <div class="card" >
                 <img class="card-img-top" src="..." alt="Card image cap">
                 <div class="card-body">
@@ -155,7 +155,7 @@
                 </div>
             </div>
         </div>
-        <div class="cil-md-4">
+        <div class="col-md-4">
             <div class="card" >
                 <img class="card-img-top" src="..." alt="Card image cap">
                 <div class="card-body">
@@ -169,5 +169,7 @@
 
 @include('frontend.inc.footer')
 <style>
-   
+   .card-img-top{
+    min-height: 250px
+   }
 </style>
