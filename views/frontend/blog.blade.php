@@ -21,10 +21,10 @@
         color: white;
    }
    .b-head {
-        height: 200px;
+        height: 350px;
         background: "public/markup/img/blog-background.jpg";
    }
    .b-head img {
-        
+        height: 100%;
    }
 </style>
