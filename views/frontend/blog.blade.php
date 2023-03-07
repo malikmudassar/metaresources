@@ -21,7 +21,7 @@
         color: white;
    }
    .b-head {
-        min-height: 200px;
+        max-height: 200px;
 
    }
    .b-head img {
