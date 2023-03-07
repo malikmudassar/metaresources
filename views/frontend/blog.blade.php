@@ -172,4 +172,7 @@
    .card-img-top{
     min-height: 250px
    }
+   .row {
+    margin-top:20px;
+   }
 </style>
