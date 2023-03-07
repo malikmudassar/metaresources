@@ -106,7 +106,7 @@
 
     <div class="row">
         <div class="col-md-6">
-            <div class="card" style="margin:0px; padding:5px; border-bottom-right-radius: 0px;">
+            <div class="card" style="">
                 <img class="card-img-top" src="https://images.unsplash.com/photo-1674763973434-75e1930d4959?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80" alt="Card image cap">
                 <div class="card-body">
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -122,10 +122,11 @@
                 <div class="card-body">
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                 </div>
+                <div class="card-footer">
+                    <i class="fa fa-clock"></i> August 10th, 2022
+                </div>
             </div>
-            <div class="card-footer">
-                <i class="fa fa-clock"></i> August 10th, 2022
-            </div>
+            
         </div>
     </div>
     <div class="row">
@@ -175,5 +176,8 @@
    }
    .row {
     margin-top:20px;
+   }
+   .card {
+    margin:0px; padding:5px; border-bottom-right-radius: 0px; border-bottom-left-radius: 0px;
    }
 </style>
