@@ -9,7 +9,9 @@
 
 <!---------------------- Blog SEC -------------------->
 <section class="dark" style="background: #3c3b40;">
-	<div class="b-head"><img src="public/markup/img/blog-background.jpg"></div>
+	<div class="b-head">
+        <img src="public/markup/img/blog-background.jpg" alt="">
+    </div>
 </section>
 <!------------------- FOOTER-SEC ---------------------->
 
@@ -19,10 +21,10 @@
         color: white;
    }
    .b-head {
-        max-height: 200px;
-
+        height: 200px;
+        background: "public/markup/img/blog-background.jpg";
    }
    .b-head img {
-        object-fit: cover;
+        
    }
 </style>
