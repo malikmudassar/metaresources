@@ -102,7 +102,7 @@
 			</div>
 		</article>
 	</div> -->
-    <div class="b-head"><h2 class="c-white">Blog Posts</h2></div>
+    <div class="b-head text-center"><h2 class="c-white">Blog Posts</h2></div>
     <div class="row">
         <div class="col-md-12">
             <div class="card text-center">
@@ -123,7 +123,7 @@
     <div class="row">
         <div class="col-md-6">
             <div class="card" >
-                <img class="card-img-top" src="..." alt="Card image cap">
+                <img class="card-img-top" src="https://images.unsplash.com/photo-1674763973434-75e1930d4959?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80" alt="Card image cap">
                 <div class="card-body">
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                 </div>
@@ -131,7 +131,7 @@
         </div>
         <div class="col-md-6">
             <div class="card" >
-                <img class="card-img-top" src="..." alt="Card image cap">
+                <img class="card-img-top" src="https://images.unsplash.com/photo-1674758978719-6121d8fbefb4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80" alt="Card image cap">
                 <div class="card-body">
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                 </div>
@@ -141,7 +141,7 @@
     <div class="row">
         <div class="col-md-4">
             <div class="card" >
-                <img class="card-img-top" src="..." alt="Card image cap">
+                <img class="card-img-top" src="https://images.unsplash.com/photo-1674753987419-750e44ba94e2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80" alt="Card image cap">
                 <div class="card-body">
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                 </div>
@@ -149,7 +149,7 @@
         </div>
         <div class="col-md-4">
             <div class="card" >
-                <img class="card-img-top" src="..." alt="Card image cap">
+                <img class="card-img-top" src="https://images.unsplash.com/photo-1663177670185-faf2be9f3752?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80" alt="Card image cap">
                 <div class="card-body">
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                 </div>
@@ -157,7 +157,7 @@
         </div>
         <div class="col-md-4">
             <div class="card" >
-                <img class="card-img-top" src="..." alt="Card image cap">
+                <img class="card-img-top" src="https://images.unsplash.com/photo-1674673353760-c86fdc093a56?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80" alt="Card image cap">
                 <div class="card-body">
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                 </div>
@@ -170,7 +170,8 @@
 @include('frontend.inc.footer')
 <style>
    .card-img-top{
-    min-height: 250px
+    min-height: 250px;
+    object-fit:cover;
    }
    .row {
     margin-top:20px;
