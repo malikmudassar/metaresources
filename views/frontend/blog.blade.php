@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <html lang="en"> 
 @include('frontend.inc.head')
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+
 <body>
 
 <!-------------- HEADER-SEC -------------------->
@@ -115,7 +113,7 @@
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                 </div>
                 <div class="card-footer">
-                    <span class="glyphicon glyphicon-time"></span> August 10th, 2022
+                    <img src="public/markup/img/clock.png"> August 10th, 2022
                 </div>
             </div>
         </div>
@@ -126,7 +124,7 @@
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                 </div>
                 <div class="card-footer">
-                    <span class="glyphicon glyphicon-time"></span> August 10th, 2022
+                    <img src="public/markup/img/clock.png"> August 10th, 2022
                 </div>
             </div>
             
@@ -140,7 +138,7 @@
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                 </div>
                 <div class="card-footer">
-                    <span class="glyphicon glyphicon-time"></span> August 10th, 2022
+                    <img src="public/markup/img/clock.png"> August 10th, 2022
                 </div>
             </div>
         </div>
@@ -151,7 +149,7 @@
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                 </div>
                 <div class="card-footer">
-                    <span class="glyphicon glyphicon-time"></span> August 10th, 2022
+                    <img src="public/markup/img/clock.png"> August 10th, 2022
                 </div>
             </div>
         </div>
@@ -162,7 +160,7 @@
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                 </div>
                 <div class="card-footer">
-                    <span class="glyphicon glyphicon-time"></span> August 10th, 2022
+                    <img src="public/markup/img/clock.png"> August 10th, 2022
                 </div>
             </div>
         </div>
