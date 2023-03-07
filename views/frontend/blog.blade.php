@@ -8,9 +8,7 @@
 @include('frontend.inc.header')
 
 <!---------------------- Blog SEC -------------------->
-<section class="dark" style="background: #3c3b40;
-    padding-top: 50px;
-    padding-bottom: 50px;">
+<section class="dark" style="background: #3c3b40;">
 	<div class="b-head"><img src="public/markup/img/blog-background.jpg"></div>
 </section>
 <!------------------- FOOTER-SEC ---------------------->
