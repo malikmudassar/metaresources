@@ -102,85 +102,68 @@
 			</div>
 		</article>
 	</div> -->
-    <div class="container">
-        <div class="col s12 m7">
-
-            <div class="card horizontal">
-                <div class="card-image">
-                <img src="https://unsplash.it/400/300?image=503" class="fadeIn">
+    <div class="b-head"><h2 class="c-white">Blog Posts</h2></div>
+    <div class="row">
+        <div class="col-md-12">
+            <div class="card text-center">
+                <div class="card-header">
+                    Featured
                 </div>
-                <div class="card-stacked">
-                <div class="card-content">
-                    <span class="card-title">San Francisco</span>
-                    <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.
-                    </p>
+                <div class="card-body">
+                    <h5 class="card-title">Special title treatment</h5>
+                    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+                    <a href="#" class="btn btn-primary">Go somewhere</a>
                 </div>
-                <div class="card-action">
-                    <a href="#">This is a link</a>
-                </div>
+                <div class="card-footer text-muted">
+                    2 days ago
                 </div>
             </div>
         </div>
-
-
-        <div class="col s12 m7">
-
-            <div class="card horizontal" id="fadedfx">
-
-                <div class="card-stacked">
-                <div class="card-content">
-                    <span class="card-title">New York </span>
-                    <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.
-                    </p>
-                </div>
-                <div class="card-action">
-                    <a href="#">This is a link</a>
-                </div>
-                </div>
-                <div class="card-image">
-                <img src="https://unsplash.it/400/300?image=736" class="fadedfx" class="fadedfx">
+        <div class="col-md-6">
+            <div class="card" style="width: 18rem;">
+                <img class="card-img-top" src="..." alt="Card image cap">
+                <div class="card-body">
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                 </div>
             </div>
-
         </div>
-
+        <div class="col-md-6">
+            <div class="card" style="width: 18rem;">
+                <img class="card-img-top" src="..." alt="Card image cap">
+                <div class="card-body">
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                </div>
+            </div>
+        </div>
+        <div class="cil-md-4">
+            <div class="card" style="width: 18rem;">
+                <img class="card-img-top" src="..." alt="Card image cap">
+                <div class="card-body">
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                </div>
+            </div>
+        </div>
+        <div class="cil-md-4">
+            <div class="card" style="width: 18rem;">
+                <img class="card-img-top" src="..." alt="Card image cap">
+                <div class="card-body">
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                </div>
+            </div>
+        </div>
+        <div class="cil-md-4">
+            <div class="card" style="width: 18rem;">
+                <img class="card-img-top" src="..." alt="Card image cap">
+                <div class="card-body">
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                </div>
+            </div>
+        </div>
     </div>
-
 </section>
 <!------------------- FOOTER-SEC ---------------------->
 
 @include('frontend.inc.footer')
 <style>
-   .fadedfx {
-        background-color: #fe5652;
-        visibility: hidden;
-    }
-
-    .fadeIn {
-        animation-name: fadeIn;
-        -webkit-animation-name: fadeIn;
-        animation-duration: 1.5s;
-        -webkit-animation-duration: 1.5s;
-        animation-timing-function: ease-in-out;
-        -webkit-animation-timing-function: ease-in-out;
-        visibility: visible !important;
-    }
-
-    @keyframes fadeIn {
-        0% {
-            opacity: 0.0;
-        }
-        100% {
-            opacity: 1;
-        }
-    }
-
-    @-webkit-keyframes fadeIn {
-        0% {
-            opacity: 0.0;
-        }
-        100% {
-            opacity: 1;
-        }
-    }
+   
 </style>
