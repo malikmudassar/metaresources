@@ -7,7 +7,9 @@
 @include('frontend.inc.header')
 
 <!---------------------- Blog SEC -------------------->
-<section class="dark">
+<section class="dark" style="background: #3c3b40;
+    padding-top: 50px;
+    padding-bottom: 50px;">
 	<!-- <div class="container py-4">
 		<h1 class="h1 text-center" id="pageHeaderTitle">Blog Posts</h1>
 
@@ -101,33 +103,48 @@
 		</article>
 	</div> -->
     <div class="container">
-        <div class="card mb-3">
-            <img src="https://picsum.photos/1000/1000" class="card-img-top" alt="...">
-            <div class="card-body">
-                <h5 class="card-title">Card title</h5>
-                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+        <div style="text-align:center"><h2>Blog Posts</h2></div>
+        <div class="col-md-3">
+            <div class="card mb-3">
+                <img src="https://picsum.photos/1000/1000" class="card-img-top" alt="..." style="max-height:100px">
+                <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                    <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                </div>
             </div>
         </div>
-        <div class="card mb-3">
-            <img src="https://picsum.photos/1000/1000" class="card-img-top" alt="...">
-            <div class="card-body">
-                <h5 class="card-title">Card title</h5>
-                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+        <div class="col-md-3">
+            <div class="card mb-3">
+                <img src="https://picsum.photos/1000/1000" class="card-img-top" alt="..." style="max-height:100px">
+                <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                    <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                </div>
             </div>
         </div>
-        <div class="card mb-3">
-            <img src="https://picsum.photos/1000/1000" class="card-img-top" alt="...">
-            <div class="card-body">
-                <h5 class="card-title">Card title</h5>
-                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+        <div class="col-md-3">
+            <div class="card mb-3">
+                <img src="https://picsum.photos/1000/1000" class="card-img-top" alt="..." style="max-height:100px">
+                <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                    <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                </div>
             </div>
         </div>
+        
+
     </div>
 
 </section>
 <!------------------- FOOTER-SEC ---------------------->
 
 @include('frontend.inc.footer')
+<style>
+    .card-img-top {
+        max-height: 200px;
+        object-fit: cover;
+    }
+</style>
