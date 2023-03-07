@@ -103,38 +103,46 @@
 		</article>
 	</div> -->
     <div class="container">
-        <div style="text-align:center"><h2>Blog Posts</h2></div>
-        <div class="col-md-3">
-            <div class="card mb-3">
-                <img src="https://picsum.photos/1000/1000" class="card-img-top" alt="..." style="max-height:100px">
-                <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
-                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                    <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+        <div class="col s12 m7">
+
+            <div class="card horizontal">
+                <div class="card-image">
+                <img src="https://unsplash.it/400/300?image=503" class="fadeIn">
+                </div>
+                <div class="card-stacked">
+                <div class="card-content">
+                    <span class="card-title">San Francisco</span>
+                    <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.
+                    </p>
+                </div>
+                <div class="card-action">
+                    <a href="#">This is a link</a>
+                </div>
                 </div>
             </div>
         </div>
-        <div class="col-md-3">
-            <div class="card mb-3">
-                <img src="https://picsum.photos/1000/1000" class="card-img-top" alt="..." style="max-height:100px">
-                <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
-                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                    <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+
+
+        <div class="col s12 m7">
+
+            <div class="card horizontal" id="fadedfx">
+
+                <div class="card-stacked">
+                <div class="card-content">
+                    <span class="card-title">New York </span>
+                    <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.
+                    </p>
+                </div>
+                <div class="card-action">
+                    <a href="#">This is a link</a>
+                </div>
+                </div>
+                <div class="card-image">
+                <img src="https://unsplash.it/400/300?image=736" class="fadedfx" class="fadedfx">
                 </div>
             </div>
+
         </div>
-        <div class="col-md-3">
-            <div class="card mb-3">
-                <img src="https://picsum.photos/1000/1000" class="card-img-top" alt="..." style="max-height:100px">
-                <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
-                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                    <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-                </div>
-            </div>
-        </div>
-        
 
     </div>
 
@@ -143,8 +151,36 @@
 
 @include('frontend.inc.footer')
 <style>
-    .card-img-top {
-        max-height: 200px;
-        object-fit: cover;
+   .fadedfx {
+        background-color: #fe5652;
+        visibility: hidden;
+    }
+
+    .fadeIn {
+        animation-name: fadeIn;
+        -webkit-animation-name: fadeIn;
+        animation-duration: 1.5s;
+        -webkit-animation-duration: 1.5s;
+        animation-timing-function: ease-in-out;
+        -webkit-animation-timing-function: ease-in-out;
+        visibility: visible !important;
+    }
+
+    @keyframes fadeIn {
+        0% {
+            opacity: 0.0;
+        }
+        100% {
+            opacity: 1;
+        }
+    }
+
+    @-webkit-keyframes fadeIn {
+        0% {
+            opacity: 0.0;
+        }
+        100% {
+            opacity: 1;
+        }
     }
 </style>
