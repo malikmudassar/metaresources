@@ -179,6 +179,6 @@
     margin-top:20px;
    }
    .card {
-    margin:0px; padding:5px; border-bottom-right-radius: 0px; border-bottom-left-radius: 0px;
+    margin:0px; border-bottom-right-radius: 0px; border-bottom-left-radius: 0px;
    }
 </style>
