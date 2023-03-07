@@ -13,6 +13,7 @@
         <img src="public/markup/img/blog-background.jpg" alt="">
     </div>
 </section>
+@include('frontend.inc.newsletter')
 <!------------------- FOOTER-SEC ---------------------->
 
 @include('frontend.inc.footer')
