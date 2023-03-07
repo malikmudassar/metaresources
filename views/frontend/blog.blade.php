@@ -112,7 +112,7 @@
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                 </div>
                 <div class="card-footer">
-                    <i class="fa fa-clock"></i> August 10th, 2022
+                    <span class="glyphicon glyphicon-time"></span> August 10th, 2022
                 </div>
             </div>
         </div>
@@ -123,7 +123,7 @@
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                 </div>
                 <div class="card-footer">
-                    <i class="fa fa-clock"></i> August 10th, 2022
+                    <span class="glyphicon glyphicon-time"></span> August 10th, 2022
                 </div>
             </div>
             
@@ -137,7 +137,7 @@
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                 </div>
                 <div class="card-footer">
-                    <i class="fa fa-clock"></i> August 10th, 2022
+                    <span class="glyphicon glyphicon-time"></span> August 10th, 2022
                 </div>
             </div>
         </div>
@@ -148,7 +148,7 @@
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                 </div>
                 <div class="card-footer">
-                    <i class="fa fa-clock"></i> August 10th, 2022
+                    <span class="glyphicon glyphicon-time"></span> August 10th, 2022
                 </div>
             </div>
         </div>
@@ -159,7 +159,7 @@
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                 </div>
                 <div class="card-footer">
-                    <i class="fa fa-clock"></i> August 10th, 2022
+                    <span class="glyphicon glyphicon-time"></span> August 10th, 2022
                 </div>
             </div>
         </div>
