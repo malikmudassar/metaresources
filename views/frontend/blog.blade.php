@@ -106,10 +106,13 @@
 
     <div class="row">
         <div class="col-md-6">
-            <div class="card" >
+            <div class="card" style="margin:0px; padding:5px; border-bottom-right-radius: 0px;">
                 <img class="card-img-top" src="https://images.unsplash.com/photo-1674763973434-75e1930d4959?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80" alt="Card image cap">
                 <div class="card-body">
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                </div>
+                <div class="card-footer">
+                    <i class="fa fa-clock"></i> August 10th, 2022
                 </div>
             </div>
         </div>
@@ -120,6 +123,9 @@
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                 </div>
             </div>
+            <div class="card-footer">
+                <i class="fa fa-clock"></i> August 10th, 2022
+            </div>
         </div>
     </div>
     <div class="row">
@@ -129,6 +135,9 @@
                 <div class="card-body">
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                 </div>
+                <div class="card-footer">
+                    <i class="fa fa-clock"></i> August 10th, 2022
+                </div>
             </div>
         </div>
         <div class="col-md-4">
@@ -137,6 +146,9 @@
                 <div class="card-body">
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                 </div>
+                <div class="card-footer">
+                    <i class="fa fa-clock"></i> August 10th, 2022
+                </div>
             </div>
         </div>
         <div class="col-md-4">
@@ -144,6 +156,9 @@
                 <img class="card-img-top" src="https://images.unsplash.com/photo-1674673353760-c86fdc093a56?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80" alt="Card image cap">
                 <div class="card-body">
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                </div>
+                <div class="card-footer">
+                    <i class="fa fa-clock"></i> August 10th, 2022
                 </div>
             </div>
         </div>
