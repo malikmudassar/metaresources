@@ -171,6 +171,7 @@
 <style>
    .card-img-top{
     min-height: 250px;
+    max-height: 250px;
     object-fit:cover;
    }
    .row {
