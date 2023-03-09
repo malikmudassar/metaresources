@@ -42,9 +42,11 @@
    .post {
     min-height: 250px;
     background-color: #cdcdcd;
+    opacity: 0.6;
    }
    .popular {
     min-height: 500px; 
     background-color: #cdcdcd;
+    opacity: 0.6;
    }
 </style>
