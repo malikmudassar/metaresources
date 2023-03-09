@@ -12,8 +12,8 @@
 	<div class="b-head">
         <img src="public/markup/img/blog-background.jpg" alt="">
     </div>
-    <div class="p-7">
-        <div class="row">
+    <div class="p-5">
+        <div class="row" style="padding-bottom:50px !important">
             <div class="col-md-8">
                 <div class="post">
                     <div class=""></div>
