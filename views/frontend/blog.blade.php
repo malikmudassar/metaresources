@@ -15,6 +15,9 @@
     <div class="p-5 posts">
         <div class="row" style="padding-bottom:50px !important">
             <div class="col-md-8">
+                <div class="">
+                    <h3>MOST RECENT POSTS</h3>
+                </div>
                 <div class="post">
                     <div class=""></div>
                 </div>
@@ -38,7 +41,10 @@
                 </div>
             </div>
             <div class="col-md-4">
-                <div class="popular"></div>
+                <div class="popular">
+                    <h3>MOST POPULAR</h3>
+                    <hr>
+                </div>
             </div>
         </div>
     </div>
@@ -67,6 +73,7 @@
     opacity: 0.6;
     border: 0.5px solid #cdcdcd;
     box-shadow: 15px 16px 17px #cdcdcd;
+    border-radius: 10px;
    }
    .popular {
     min-height: 500px; 
