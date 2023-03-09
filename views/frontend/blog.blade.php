@@ -12,6 +12,16 @@
 	<div class="b-head">
         <img src="public/markup/img/blog-background.jpg" alt="">
     </div>
+    <div class="row">
+        <div class="col-md-8">
+            <div class="post">
+                <div class=""></div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="popular"></div>
+        </div>
+    </div>
 </section>
 @include('frontend.inc.newsletter')
 <!------------------- FOOTER-SEC ---------------------->
@@ -23,9 +33,16 @@
    }
    .b-head {
         height: 350px;
-        background: "public/markup/img/blog-background.jpg";
    }
    .b-head img {
         height: 100%;
+   }
+   .post {
+    min-height: 250px;
+    background-color: #cdcdcd;
+   }
+   .popular {
+    min-height: 500px; 
+    background-color: #cdcdcd;
    }
 </style>
