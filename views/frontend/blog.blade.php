@@ -12,7 +12,7 @@
 	<div class="b-head">
         <img src="public/markup/img/blog-background.jpg" alt="">
     </div>
-    <div class="p-5">
+    <div class="p-5 mb-5">
         <div class="row">
             <div class="col-md-8">
                 <div class="post">
