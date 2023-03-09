@@ -60,8 +60,9 @@
    .post {
     min-height: 250px;
     margin-bottom:20px;
-    background-color: #cdcdcd;
+    background-color: white;
     opacity: 0.6;
+    box-shadow: 5px 6px 7px #cdcdcd;
    }
    .popular {
     min-height: 500px; 
