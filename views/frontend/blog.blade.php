@@ -12,14 +12,16 @@
 	<div class="b-head">
         <img src="public/markup/img/blog-background.jpg" alt="">
     </div>
-    <div class="row">
-        <div class="col-md-8">
-            <div class="post">
-                <div class=""></div>
+    <div class="p-5">
+        <div class="row">
+            <div class="col-md-8">
+                <div class="post">
+                    <div class=""></div>
+                </div>
             </div>
-        </div>
-        <div class="col-md-4">
-            <div class="popular"></div>
+            <div class="col-md-4">
+                <div class="popular"></div>
+            </div>
         </div>
     </div>
 </section>
