@@ -12,7 +12,7 @@
 	<div class="b-head">
         <img src="public/markup/img/blog-background.jpg" alt="">
     </div>
-    <div class="p-5">
+    <div class="p-5 posts">
         <div class="row" style="padding-bottom:50px !important">
             <div class="col-md-8">
                 <div class="post">
@@ -56,6 +56,9 @@
    }
    .b-head img {
         height: 100%;
+   }
+   .posts {
+    background: #fff;
    }
    .post {
     min-height: 250px;
