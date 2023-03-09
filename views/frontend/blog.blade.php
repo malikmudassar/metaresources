@@ -18,6 +18,24 @@
                 <div class="post">
                     <div class=""></div>
                 </div>
+                <div class="post">
+                    <div class=""></div>
+                </div>
+                <div class="post">
+                    <div class=""></div>
+                </div>
+                <div class="post">
+                    <div class=""></div>
+                </div>
+                <div class="post">
+                    <div class=""></div>
+                </div>
+                <div class="post">
+                    <div class=""></div>
+                </div>
+                <div class="post">
+                    <div class=""></div>
+                </div>
             </div>
             <div class="col-md-4">
                 <div class="popular"></div>
@@ -41,6 +59,7 @@
    }
    .post {
     min-height: 250px;
+    margin-bottom:20px;
     background-color: #cdcdcd;
     opacity: 0.6;
    }
