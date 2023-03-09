@@ -65,7 +65,8 @@
     margin-bottom:20px;
     background-color: white;
     opacity: 0.6;
-    box-shadow: 5px 6px 7px #cdcdcd;
+    border: 0.5px solid #cdcdcd;
+    box-shadow: 15px 16px 17px #cdcdcd;
    }
    .popular {
     min-height: 500px; 
