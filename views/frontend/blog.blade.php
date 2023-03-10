@@ -25,7 +25,7 @@
                     <div class="post__content">
                         <h5>Revolutionizing Video Translation: How Metapher Is Meeting the Demands of the Digital Age</h5>
                         <hr>
-                        <p>In today's digital age, video content has become increasingly popular across various platforms, and the demand for video translation services has skyrocketed. Video translation is essential for creators, businesses, and organisations that want to expand their audience and reach out to a global market. However, finding a reliable and customised video translation service can be a challenging task</p>
+                        <p class="paragraph">In today's digital age, video content has become increasingly popular across various platforms, and the demand for video translation services has skyrocketed. Video translation is essential for creators, businesses, and organisations that want to expand their audience and reach out to a global market. However, finding a reliable and customised video translation service can be a challenging task</p>
                     </div>
                 </div>
                 <div class="post">
@@ -35,7 +35,7 @@
                     <div class="post__content">
                         <h5> Meta Growth Package: The All-in-One Tool for YouTube Content Creators</h5>
                         <hr>
-                        <p>Content</p>
+                        <p class="paragraph">Content</p>
                     </div>
                 </div>
                 <div class="post">
@@ -45,7 +45,7 @@
                     <div class="post__content">
                         <h5>Beyond YouTube Monetization: How Meta Income Can Help You Earn More</h5>
                         <hr>
-                        <p>Content</p>
+                        <p class="paragraph">Content</p>
                     </div>
                 </div>
                 <div class="post">
@@ -55,7 +55,7 @@
                     <div class="post__content">
                         <h5>Title</h5>
                         <hr>
-                        <p>Content</p>
+                        <p class="paragraph">Content</p>
                     </div>
                 </div>
                 <div class="post">
@@ -65,7 +65,7 @@
                     <div class="post__content">
                         <h5>Title</h5>
                         <hr>
-                        <p>Content</p>
+                        <p class="paragraph">Content</p>
                     </div>
                 </div>
                 <div class="post">
@@ -75,7 +75,7 @@
                     <div class="post__content">
                         <h5>Title</h5>
                         <hr>
-                        <p>Content</p>
+                        <p class="paragraph">Content</p>
                     </div>
                 </div>
                 <div class="post">
@@ -85,7 +85,7 @@
                     <div class="post__content">
                         <h5>Title</h5>
                         <hr>
-                        <p>Content</p>
+                        <p class="paragraph">Content</p>
                     </div>
                 </div>
             </div>
@@ -140,4 +140,10 @@
         vertical-align: top; /* This is to ensure both divs are aligned at the top */
     }
     hr {width: 100%}
+    .paragraph {
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 3;
+        overflow: hidden;
+    }
 </style>
