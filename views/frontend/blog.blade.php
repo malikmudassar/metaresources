@@ -131,6 +131,8 @@
    }
    .post__content {
         width:60%;
+        text-align:justify;
+        padding:10px;
    }
     .post__img,
     .post__content {
