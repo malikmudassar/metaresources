@@ -26,6 +26,10 @@
                         <h5>Revolutionizing Video Translation: How Metapher Is Meeting the Demands of the Digital Age</h5>
                         <hr>
                         <p class="paragraph">In today's digital age, video content has become increasingly popular across various platforms, and the demand for video translation services has skyrocketed. Video translation is essential for creators, businesses, and organisations that want to expand their audience and reach out to a global market. However, finding a reliable and customised video translation service can be a challenging task</p>
+                        <div class="post__footer">
+                            <img src=""> Posted By : <b> Shashank </b> 
+                            <img src=""> 297 Views 
+                        </div>
                     </div>
                 </div>
                 <div class="post">
@@ -36,11 +40,12 @@
                         <h5> Meta Growth Package: The All-in-One Tool for YouTube Content Creators</h5>
                         <hr>
                         <p class="paragraph">Content</p>
+                        <div class="post__footer">
+                            <img src=""> Posted By : <b> Shashank </b> 
+                            <img src=""> 297 Views 
+                        </div>
                     </div>
-                    <div class="post__footer">
-                        <img src=""> Posted By : <b> Shashank </b> <br>
-                        <img src=""> 297 Views 
-                    </div>
+                   
                 </div>
                 <div class="post">
                     <div class="post__img">
@@ -50,9 +55,10 @@
                         <h5>Beyond YouTube Monetization: How Meta Income Can Help You Earn More</h5>
                         <hr>
                         <p class="paragraph">Content</p>
-                    </div>
-                    <div class="post__footer">
-
+                        <div class="post__footer">
+                            <img src=""> Posted By : <b> Shashank </b> 
+                            <img src=""> 297 Views 
+                        </div>
                     </div>
                 </div>
                 <div class="post">
@@ -142,7 +148,7 @@
    }
    .post__content p {
         font-size:12px;
-        color: #6c5a5a;;
+        color: #6c5a5a;
    }
     .post__img,
     .post__content {
@@ -157,8 +163,9 @@
         overflow: hidden;
     }
     .post__footer {
-        background: #ebf1f5;
-        height: 15px;
         font-size: 12px;
+        color: #6c5a5a;
+        bottom: 10px; 
+        border-top: 2px solid grey;
     }
 </style>
