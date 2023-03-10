@@ -19,25 +19,74 @@
                     <h3>MOST RECENT POSTS</h3>
                 </div>
                 <div class="post">
-                    <div class=""></div>
+                    <div class="post__img">
+                        <img src="public/markup/img/img-pl.jpg" />
+                    </div>
+                    <div class="post__content">
+                        <h3>Title</h3>
+                        <hr>
+                        <p>Content</p>
+                    </div>
                 </div>
                 <div class="post">
-                    <div class=""></div>
+                    <div class="post__img">
+                        <img src="public/markup/img/img-pl.jpg" />
+                    </div>
+                    <div class="post__content">
+                        <h3>Title</h3>
+                        <hr>
+                        <p>Content</p>
+                    </div>
                 </div>
                 <div class="post">
-                    <div class=""></div>
+                    <div class="post__img">
+                        <img src="public/markup/img/img-pl.jpg" />
+                    </div>
+                    <div class="post__content">
+                        <h3>Title</h3>
+                        <hr>
+                        <p>Content</p>
+                    </div>
                 </div>
                 <div class="post">
-                    <div class=""></div>
+                    <div class="post__img">
+                        <img src="public/markup/img/img-pl.jpg" />
+                    </div>
+                    <div class="post__content">
+                        <h3>Title</h3>
+                        <hr>
+                        <p>Content</p>
+                    </div>
                 </div>
                 <div class="post">
-                    <div class=""></div>
+                    <div class="post__img">
+                        <img src="public/markup/img/img-pl.jpg" />
+                    </div>
+                    <div class="post__content">
+                        <h3>Title</h3>
+                        <hr>
+                        <p>Content</p>
+                    </div>
                 </div>
                 <div class="post">
-                    <div class=""></div>
+                    <div class="post__img">
+                        <img src="public/markup/img/img-pl.jpg" />
+                    </div>
+                    <div class="post__content">
+                        <h3>Title</h3>
+                        <hr>
+                        <p>Content</p>
+                    </div>
                 </div>
                 <div class="post">
-                    <div class=""></div>
+                    <div class="post__img">
+                        <img src="public/markup/img/img-pl.jpg" />
+                    </div>
+                    <div class="post__content">
+                        <h3>Title</h3>
+                        <hr>
+                        <p>Content</p>
+                    </div>
                 </div>
             </div>
             <div class="col-md-4">
@@ -76,5 +125,11 @@
    }
    .popular {
     min-height: 500px; 
+   }
+   .post__img img {
+    height:200px;
+   }
+   .post__content {
+        display:flex;
    }
 </style>
