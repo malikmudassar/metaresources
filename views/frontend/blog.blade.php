@@ -129,7 +129,9 @@
    .post__img img {
     height:200px;
    }
-   .post__content {
-        display:flex;
-   }
+    .post__img,
+    .post__content {
+        display: inline-block;
+        vertical-align: top; /* This is to ensure both divs are aligned at the top */
+    }
 </style>
