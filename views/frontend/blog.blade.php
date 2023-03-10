@@ -178,8 +178,8 @@
 
     .post__footer {
         position: absolute;
-        bottom: 0;
-        left: 0;
-        width: 100%;
+        bottom: 13px;
+        padding-top: 10px;
+        width: 59%;
     }
 </style>
