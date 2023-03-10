@@ -120,6 +120,7 @@
     margin-bottom:20px;
     background-color: white;
     border: 0.5px solid #cdcdcd;
+    padding: 10px;
     box-shadow: 15px 16px 17px #cdcdcd;
    }
    .popular {
