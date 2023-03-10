@@ -37,6 +37,10 @@
                         <hr>
                         <p class="paragraph">Content</p>
                     </div>
+                    <div class="post__footer">
+                        <img src=""> Posted By : <b> Shashank </b> <br>
+                        <img src=""> 297 Views 
+                    </div>
                 </div>
                 <div class="post">
                     <div class="post__img">
@@ -46,6 +50,9 @@
                         <h5>Beyond YouTube Monetization: How Meta Income Can Help You Earn More</h5>
                         <hr>
                         <p class="paragraph">Content</p>
+                    </div>
+                    <div class="post__footer">
+
                     </div>
                 </div>
                 <div class="post">
@@ -134,7 +141,8 @@
         padding:10px;
    }
    .post__content p {
-        font-size:10px;
+        font-size:12px;
+        color: #6c5a5a;;
    }
     .post__img,
     .post__content {
@@ -147,5 +155,10 @@
         -webkit-box-orient: vertical;
         -webkit-line-clamp: 3;
         overflow: hidden;
+    }
+    .post__footer {
+        background: #ebf1f5;
+        height: 15px;
+        font-size: 12px;
     }
 </style>
