@@ -73,7 +73,6 @@
     opacity: 0.6;
     border: 0.5px solid #cdcdcd;
     box-shadow: 15px 16px 17px #cdcdcd;
-    border-radius: 10px;
    }
    .popular {
     min-height: 500px; 
