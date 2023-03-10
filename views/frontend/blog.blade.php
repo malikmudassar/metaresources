@@ -23,7 +23,7 @@
                         <img src="public/markup/img/img-pl.jpg" />
                     </div>
                     <div class="post__content">
-                        <h3>Title</h3>
+                        <h5>Revolutionizing Video Translation: How Metapher Is Meeting the Demands of the Digital Age</h5>
                         <hr>
                         <p>Content</p>
                     </div>
@@ -33,7 +33,7 @@
                         <img src="public/markup/img/img-pl.jpg" />
                     </div>
                     <div class="post__content">
-                        <h3>Title</h3>
+                        <h5> Meta Growth Package: The All-in-One Tool for YouTube Content Creators</h5>
                         <hr>
                         <p>Content</p>
                     </div>
@@ -43,7 +43,7 @@
                         <img src="public/markup/img/img-pl.jpg" />
                     </div>
                     <div class="post__content">
-                        <h3>Title</h3>
+                        <h5>Beyond YouTube Monetization: How Meta Income Can Help You Earn More</h5>
                         <hr>
                         <p>Content</p>
                     </div>
@@ -53,7 +53,7 @@
                         <img src="public/markup/img/img-pl.jpg" />
                     </div>
                     <div class="post__content">
-                        <h3>Title</h3>
+                        <h5>Title</h5>
                         <hr>
                         <p>Content</p>
                     </div>
@@ -63,7 +63,7 @@
                         <img src="public/markup/img/img-pl.jpg" />
                     </div>
                     <div class="post__content">
-                        <h3>Title</h3>
+                        <h5>Title</h5>
                         <hr>
                         <p>Content</p>
                     </div>
@@ -73,7 +73,7 @@
                         <img src="public/markup/img/img-pl.jpg" />
                     </div>
                     <div class="post__content">
-                        <h3>Title</h3>
+                        <h5>Title</h5>
                         <hr>
                         <p>Content</p>
                     </div>
@@ -83,7 +83,7 @@
                         <img src="public/markup/img/img-pl.jpg" />
                     </div>
                     <div class="post__content">
-                        <h3>Title</h3>
+                        <h5>Title</h5>
                         <hr>
                         <p>Content</p>
                     </div>
@@ -129,9 +129,13 @@
    .post__img img {
     height:200px;
    }
+   .post__content {
+        width:60%;
+   }
     .post__img,
     .post__content {
         display: inline-block;
         vertical-align: top; /* This is to ensure both divs are aligned at the top */
     }
+    hr {width: 100%}
 </style>
