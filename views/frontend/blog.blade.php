@@ -119,7 +119,6 @@
     min-height: 250px;
     margin-bottom:20px;
     background-color: white;
-    border: 0.5px solid #cdcdcd;
     padding: 10px;
     box-shadow: 15px 16px 17px #cdcdcd;
    }
@@ -133,6 +132,9 @@
         width:60%;
         text-align:justify;
         padding:10px;
+   }
+   .post__content p {
+        font-size:10px;
    }
     .post__img,
     .post__content {
