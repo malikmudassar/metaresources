@@ -69,6 +69,10 @@
                         <h5>Title</h5>
                         <hr>
                         <p class="paragraph">Content</p>
+                        <div class="post__footer">
+                            <img src=""> Posted By : <b> Shashank </b> 
+                            <img src=""> 297 Views 
+                        </div>
                     </div>
                 </div>
                 <div class="post">
@@ -167,5 +171,15 @@
         color: #6c5a5a;
         bottom: 10px; 
         border-top: 2px solid grey;
+    }
+    .post {
+        position: relative;
+    }
+
+    .post__footer {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        width: 100%;
     }
 </style>
