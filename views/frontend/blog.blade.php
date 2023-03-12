@@ -174,7 +174,7 @@
                     <h3>MOST POPULAR</h3>
                     <hr>
                     <div class="col-lg-12 col-md-12 mb-4">
-                        <div class="card">
+                        <div class="card mp-card">
                             <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
                                 <img src="https://mdbootstrap.com/img/new/standard/nature/184.jpg" class="img-fluid" />
                                 <a href="#!">
@@ -190,7 +190,7 @@
                     </div>
 
                     <div class="col-lg-12 col-md-12 mb-4">
-                        <div class="card">
+                        <div class="card mp-card">
                             <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
                                 <img src="https://mdbootstrap.com/img/new/standard/nature/023.jpg" class="img-fluid" />
                                 <a href="#!">
@@ -206,7 +206,7 @@
                     </div>
 
                     <div class="col-lg-12 col-md-12 mb-4">
-                        <div class="card">
+                        <div class="card mp-card">
                             <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
                                 <img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" />
                                 <a href="#!">
@@ -291,5 +291,8 @@
         bottom: 13px;
         padding-top: 10px;
         width: 59%;
+    }
+    .mp-card {
+        box-shadow: 15px 16px 17px #cdcdcd;
     }
 </style>
