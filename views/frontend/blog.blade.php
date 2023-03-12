@@ -173,7 +173,7 @@
                 <div class="popular">
                     <h3>MOST POPULAR</h3>
                     <hr>
-                    <div class="col-lg-4 col-md-12 mb-4">
+                    <div class="col-lg-12 col-md-12 mb-4">
                         <div class="card">
                             <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
                                 <img src="https://mdbootstrap.com/img/new/standard/nature/184.jpg" class="img-fluid" />
@@ -192,7 +192,7 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-4 col-md-6 mb-4">
+                    <div class="col-lg-12 col-md-12 mb-4">
                         <div class="card">
                             <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
                                 <img src="https://mdbootstrap.com/img/new/standard/nature/023.jpg" class="img-fluid" />
@@ -211,7 +211,7 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-4 col-md-6 mb-4">
+                    <div class="col-lg-12 col-md-12 mb-4">
                         <div class="card">
                             <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
                                 <img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" />
