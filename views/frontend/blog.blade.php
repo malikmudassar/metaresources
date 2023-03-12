@@ -40,10 +40,17 @@
                     <div class="post__content">
                         <h5> Meta Growth Package: The All-in-One Tool for YouTube Content Creators</h5>
                         <hr>
-                        <p class="paragraph">Content</p>
+                        <p class="paragraph">
+                            As a content creator on YouTube, one of the biggest challenges you face 
+                            is getting your content noticed by a wider audience. With millions of 
+                            videos being uploaded every day, it can be difficult to stand out and 
+                            attract subscribers. However, with the help of <a href="https://metapher.in/meta-creator#meta-growth-sec" target="_blank">Meta Growth 
+                            Package</a>,you can overcome these challenges and grow your YouTube channel faster.
+                        </p>
                         <div class="post__footer">
-                            <img src=""> Posted By : <b> Shashank </b> 
-                            <img src=""> 297 Views 
+                            March 10th, 2023 - 
+                            <img src=""> Posted By : <b> Nilesh Punadiya </b> 
+                            <img src=""> 500 Views 
                         </div>
                     </div>
                    
@@ -55,8 +62,31 @@
                     <div class="post__content">
                         <h5>Beyond YouTube Monetization: How Meta Income Can Help You Earn More</h5>
                         <hr>
+                        <p class="paragraph">
+                        If you're a YouTube content creator, you know that earning a significant income 
+                        from your content can be challenging. While YouTube provides monetization options,
+                        such as advertising revenue and sponsorships, these methods may not always be 
+                        sufficient to generate a stable income stream. This is where Meta Income comes
+                        in – an innovative platform that can help you increase your revenue with minimal 
+                        effort.
+                        </p>
+                        <div class="post__footer">
+                            March 8th, 2023 - 
+                            <img src=""> Posted By : <b> Nilesh Punadiya </b> 
+                            <img src=""> 450 Views 
+                        </div>
+                    </div>
+                </div>
+                <div class="post">
+                    <div class="post__img">
+                        <img src="public/markup/img/img-pl.jpg" />
+                    </div>
+                    <div class="post__content">
+                        <h5>Title</h5>
+                        <hr>
                         <p class="paragraph">Content</p>
                         <div class="post__footer">
+                            March 10th, 2023 - 
                             <img src=""> Posted By : <b> Shashank </b> 
                             <img src=""> 297 Views 
                         </div>
@@ -71,6 +101,7 @@
                         <hr>
                         <p class="paragraph">Content</p>
                         <div class="post__footer">
+                            March 10th, 2023 - 
                             <img src=""> Posted By : <b> Shashank </b> 
                             <img src=""> 297 Views 
                         </div>
@@ -84,6 +115,11 @@
                         <h5>Title</h5>
                         <hr>
                         <p class="paragraph">Content</p>
+                        <div class="post__footer">
+                            March 10th, 2023 - 
+                            <img src=""> Posted By : <b> Shashank </b> 
+                            <img src=""> 297 Views 
+                        </div>
                     </div>
                 </div>
                 <div class="post">
@@ -94,6 +130,11 @@
                         <h5>Title</h5>
                         <hr>
                         <p class="paragraph">Content</p>
+                        <div class="post__footer">
+                            March 10th, 2023 - 
+                            <img src=""> Posted By : <b> Shashank </b> 
+                            <img src=""> 297 Views 
+                        </div>
                     </div>
                 </div>
                 <div class="post">
@@ -104,6 +145,26 @@
                         <h5>Title</h5>
                         <hr>
                         <p class="paragraph">Content</p>
+                        <div class="post__footer">
+                            March 10th, 2023 - 
+                            <img src=""> Posted By : <b> Shashank </b> 
+                            <img src=""> 297 Views 
+                        </div>
+                    </div>
+                </div>
+                <div class="post">
+                    <div class="post__img">
+                        <img src="public/markup/img/img-pl.jpg" />
+                    </div>
+                    <div class="post__content">
+                        <h5>Title</h5>
+                        <hr>
+                        <p class="paragraph">Content</p>
+                        <div class="post__footer">
+                            March 10th, 2023 - 
+                            <img src=""> Posted By : <b> Shashank </b> 
+                            <img src=""> 297 Views 
+                        </div>
                     </div>
                 </div>
             </div>
