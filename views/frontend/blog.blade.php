@@ -82,13 +82,14 @@
                         <img src="public/markup/img/img-pl.jpg" />
                     </div>
                     <div class="post__content">
-                        <h5>Title</h5>
+                        <h5>Meta Support: 5+ services that help protect YouTube channels and resolve Copyright Strikes</h5>
                         <hr>
-                        <p class="paragraph">Content</p>
+                        <p class="paragraph">As a YouTube content creator, one of the biggest challenges you may face is protecting your channel from hacking attacks and copyright strikes. These issues can be devastating for your channel and your business. However, with the help of Meta Support, you can rest assured that your channel is in good hands. In this blog, we will explore the various services provided by Meta Support that can help protect your YouTube channel and resolve copyright strikes.
+</p>
                         <div class="post__footer">
-                            March 10th, 2023 - 
-                            <img src=""> Posted By : <b> Shashank </b> 
-                            <img src=""> 297 Views 
+                            March 9th, 2023 - 
+                            <img src=""> Posted By : <b> Nilesh Punadiya </b> 
+                            <img src=""> 251 Views 
                         </div>
                     </div>
                 </div>
@@ -112,9 +113,47 @@
                         <img src="public/markup/img/img-pl.jpg" />
                     </div>
                     <div class="post__content">
-                        <h5>Title</h5>
+                        <h5>Preventing YouTube Disasters: Meta Safety's Range of Services for Content Creators.</h5>
                         <hr>
-                        <p class="paragraph">Content</p>
+                        <p class="paragraph">As a content creator on YouTube, you put in a lot of time, effort, and creativity to produce high-quality videos for your audience. However, with the increasing popularity of YouTube, comes the risk of copyright infringement and other threats to your channel's safety.
+</p>
+                        <div class="post__footer">
+                            March 10th, 2023 - 
+                            <img src=""> Posted By : <b> Nilesh Punadiya </b> 
+                            <img src=""> 305 Views 
+                        </div>
+                    </div>
+                </div>
+                <div class="post">
+                    <div class="post__img">
+                        <img src="public/markup/img/img-pl.jpg" />
+                    </div>
+                    <div class="post__content">
+                        <h5>Maximising Your YouTube Potential: The Benefits of Meta Boost for Content Creators.</h5>
+                        <hr>
+                        <p class="paragraph">YouTube has become a popular platform for content creators to showcase their talent and earn a living. However, with the growing competition, it has become challenging for new creators to boost their presence and gain a substantial following. The content quality alone cannot guarantee success on YouTube. A creator must also focus on several other aspects to grow their channel, including channel metrics, trends, audience analysis, competitor analysis, and channel design</p>
+                        <div class="post__footer">
+                            March 10th, 2023 - 
+                            <img src=""> Posted By : <b> Shashank </b> 
+                            <img src=""> 440 Views 
+                        </div>
+                    </div>
+                </div>
+                <div class="post">
+                    <div class="post__img">
+                        <img src="public/markup/img/img-pl.jpg" />
+                    </div>
+                    <div class="post__content">
+                        <h5>MetaDb: The Ultimate Guide to Finding Your Perfect YouTube Channel.</h5>
+                        <hr>
+                        <p class="paragraph">
+                            YouTube is an enormous platform with countless content 
+                            creators producing videos on a vast range of topics. 
+                            With so much content available, it can be challenging 
+                            to find the channels that align with your interests. 
+                            Fortunately, <a href="https://www.db.metapher.in/" target="_blank">MetaDb</a> offers a solution with their 
+                            IMDb-like platform that catalogues over <b>1500 
+                            YouTube content creators.</b></p>
                         <div class="post__footer">
                             March 10th, 2023 - 
                             <img src=""> Posted By : <b> Shashank </b> 
@@ -127,43 +166,20 @@
                         <img src="public/markup/img/img-pl.jpg" />
                     </div>
                     <div class="post__content">
-                        <h5>Title</h5>
+                        <h5>Latest Updates by YouTube: What You Need to Know</h5>
                         <hr>
-                        <p class="paragraph">Content</p>
+                        <p class="paragraph">
+                            As one of the most popular video-sharing platforms in the world, 
+                            YouTube is constantly updating its features and policies to better 
+                            serve its users. Whether you're a content creator or a casual viewer, 
+                            it's important to stay up-to-date with the latest changes to the platform. 
+                            In this blog, we'll go over some of the recent updates made by 
+                            YouTube and how they might impact you.
+                        </p>
                         <div class="post__footer">
-                            March 10th, 2023 - 
+                            March 12th, 2023 - 
                             <img src=""> Posted By : <b> Shashank </b> 
-                            <img src=""> 297 Views 
-                        </div>
-                    </div>
-                </div>
-                <div class="post">
-                    <div class="post__img">
-                        <img src="public/markup/img/img-pl.jpg" />
-                    </div>
-                    <div class="post__content">
-                        <h5>Title</h5>
-                        <hr>
-                        <p class="paragraph">Content</p>
-                        <div class="post__footer">
-                            March 10th, 2023 - 
-                            <img src=""> Posted By : <b> Shashank </b> 
-                            <img src=""> 297 Views 
-                        </div>
-                    </div>
-                </div>
-                <div class="post">
-                    <div class="post__img">
-                        <img src="public/markup/img/img-pl.jpg" />
-                    </div>
-                    <div class="post__content">
-                        <h5>Title</h5>
-                        <hr>
-                        <p class="paragraph">Content</p>
-                        <div class="post__footer">
-                            March 10th, 2023 - 
-                            <img src=""> Posted By : <b> Shashank </b> 
-                            <img src=""> 297 Views 
+                            <img src=""> 85 Views 
                         </div>
                     </div>
                 </div>
