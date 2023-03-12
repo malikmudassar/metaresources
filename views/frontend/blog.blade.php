@@ -27,6 +27,7 @@
                         <hr>
                         <p class="paragraph">In today's digital age, video content has become increasingly popular across various platforms, and the demand for video translation services has skyrocketed. Video translation is essential for creators, businesses, and organisations that want to expand their audience and reach out to a global market. However, finding a reliable and customised video translation service can be a challenging task</p>
                         <div class="post__footer">
+                            March 10th, 2023 - 
                             <img src=""> Posted By : <b> Shashank </b> 
                             <img src=""> 297 Views 
                         </div>
@@ -143,7 +144,7 @@
     min-height: 500px; 
    }
    .post__img img {
-    height:200px;
+    height:180px;
    }
    .post__content {
         width:60%;
@@ -170,7 +171,7 @@
         font-size: 12px;
         color: #6c5a5a;
         bottom: 10px; 
-        border-top: 2px solid grey;
+        border-top: 0.5px dotted #e5d5d5;
     }
     .post {
         position: relative;
