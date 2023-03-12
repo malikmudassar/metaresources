@@ -182,12 +182,9 @@
                                 </a>
                             </div>
                             <div class="card-body">
-                                <h5 class="card-title">Post title</h5>
-                                <p class="card-text">
-                                Some quick example text to build on the card title and make up the bulk of the
-                                card's content.
-                                </p>
-                                <a href="#!" class="btn btn-primary">Read</a>
+                                <h5 class="card-title">Revolutionizing Video Translation: How Metapher Is Meeting The Demands Of The Digital Age</h5>
+                                
+                                <a href="#!" class="btn btn-warning btn-block">Read</a>
                             </div>
                         </div>
                     </div>
@@ -201,12 +198,9 @@
                                 </a>
                             </div>
                             <div class="card-body">
-                                <h5 class="card-title">Post title</h5>
-                                <p class="card-text">
-                                Some quick example text to build on the card title and make up the bulk of the
-                                card's content.
-                                </p>
-                                <a href="#!" class="btn btn-primary">Read</a>
+                                <h5 class="card-title">Meta Growth Package: The All-In-One Tool For YouTube Content Creators</h5>
+                                
+                                <a href="#!" class="btn btn-warning btn-block">Read</a>
                             </div>
                         </div>
                     </div>
@@ -220,12 +214,9 @@
                                 </a>
                             </div>
                             <div class="card-body">
-                                <h5 class="card-title">Post title</h5>
-                                <p class="card-text">
-                                Some quick example text to build on the card title and make up the bulk of the
-                                card's content.
-                                </p>
-                                <a href="#!" class="btn btn-primary">Read</a>
+                                <h5 class="card-title">Latest Updates By YouTube: What You Need To Know</h5>
+                                
+                                <a href="#!" class="btn btn-warning btn-block">Read</a>
                             </div>
                         </div>
                     </div>
