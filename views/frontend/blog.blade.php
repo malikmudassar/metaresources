@@ -98,21 +98,6 @@
                         <img src="public/markup/img/img-pl.jpg" />
                     </div>
                     <div class="post__content">
-                        <h5>Title</h5>
-                        <hr>
-                        <p class="paragraph">Content</p>
-                        <div class="post__footer">
-                            March 10th, 2023 - 
-                            <img src=""> Posted By : <b> Shashank </b> 
-                            <img src=""> 297 Views 
-                        </div>
-                    </div>
-                </div>
-                <div class="post">
-                    <div class="post__img">
-                        <img src="public/markup/img/img-pl.jpg" />
-                    </div>
-                    <div class="post__content">
                         <h5>Preventing YouTube Disasters: Meta Safety's Range of Services for Content Creators.</h5>
                         <hr>
                         <p class="paragraph">As a content creator on YouTube, you put in a lot of time, effort, and creativity to produce high-quality videos for your audience. However, with the increasing popularity of YouTube, comes the risk of copyright infringement and other threats to your channel's safety.
