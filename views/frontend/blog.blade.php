@@ -292,6 +292,9 @@
         padding-top: 10px;
         width: 59%;
     }
+    .card {
+        border-radius: 0px !important;
+    }
     .mp-card {
         border: 0.5px dotted #e5d5d5;
         box-shadow: 15px 16px 17px #cdcdcd;
