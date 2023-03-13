@@ -183,8 +183,13 @@
     }
     p {
         text-align: justify;
-        font-size: 12px;
-        font-family: "Helvatica";
-        padding: 10px;
+        font-size: 14px;
+        padding-top: 10px; 
+        padding-bottom: 10x;
+    }
+    .label-default {
+        background: grey;
+        border-radius:3px;
+        padding: 2px;
     }
 </style>
