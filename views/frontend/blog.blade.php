@@ -95,10 +95,10 @@
                 </div>
                 <div class="post">
                     <div class="post__img">
-                        <img src="public/markup/img/img-pl.jpg" />
+                        <a href="{{ route('prevent-youtube-disaster') }}"><img src="public/markup/img/img-pl.jpg" /></a>
                     </div>
                     <div class="post__content">
-                        <h5>Preventing YouTube Disasters: Meta Safety's Range of Services for Content Creators.</h5>
+                        <a href="{{ route('prevent-youtube-disaster') }}"><h5>Preventing YouTube Disasters: Meta Safety's Range of Services for Content Creators.</h5></a>
                         <hr>
                         <p class="paragraph">As a content creator on YouTube, you put in a lot of time, effort, and creativity to produce high-quality videos for your audience. However, with the increasing popularity of YouTube, comes the risk of copyright infringement and other threats to your channel's safety.
 </p>
