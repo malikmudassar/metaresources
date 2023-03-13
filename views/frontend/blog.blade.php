@@ -20,7 +20,7 @@
                 </div>
                 <div class="post">
                     <div class="post__img">
-                        <img src="public/markup/img/img-pl.jpg" />
+                        <a href="{{ route('revolution') }}"><img src="public/markup/img/img-pl.jpg" /></a>
                     </div>
                     <div class="post__content">
                         <a href="{{ route('revolution') }}"><h5>Revolutionizing Video Translation: How Metapher Is Meeting the Demands of the Digital Age</h5></a>
@@ -35,10 +35,10 @@
                 </div>
                 <div class="post">
                     <div class="post__img">
-                        <img src="public/markup/img/img-pl.jpg" />
+                        <a href="{{ route('all-in-one') }}"><img src="public/markup/img/img-pl.jpg" /></a>
                     </div>
                     <div class="post__content">
-                        <h5> Meta Growth Package: The All-in-One Tool for YouTube Content Creators</h5>
+                        <a href="{{ route('all-in-one') }}"><h5> Meta Growth Package: The All-in-One Tool for YouTube Content Creators</h5></a>
                         <hr>
                         <p class="paragraph">
                             As a content creator on YouTube, one of the biggest challenges you face 
