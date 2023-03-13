@@ -79,10 +79,10 @@
                 </div>
                 <div class="post">
                     <div class="post__img">
-                        <img src="public/markup/img/img-pl.jpg" />
+                        <a href="{{ route('protect-youtube-channels') }}"><img src="public/markup/img/img-pl.jpg" /></a>
                     </div>
                     <div class="post__content">
-                        <h5>Meta Support: 5+ services that help protect YouTube channels and resolve Copyright Strikes</h5>
+                        <a href="{{ route('protect-youtube-channels') }}"><h5>Meta Support: 5+ services that help protect YouTube channels and resolve Copyright Strikes</h5></a>
                         <hr>
                         <p class="paragraph">As a YouTube content creator, one of the biggest challenges you may face is protecting your channel from hacking attacks and copyright strikes. These issues can be devastating for your channel and your business. However, with the help of Meta Support, you can rest assured that your channel is in good hands. In this blog, we will explore the various services provided by Meta Support that can help protect your YouTube channel and resolve copyright strikes.
 </p>
