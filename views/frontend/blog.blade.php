@@ -111,10 +111,10 @@
                 </div>
                 <div class="post">
                     <div class="post__img">
-                        <img src="public/markup/img/img-pl.jpg" />
+                        <a href="{{ route('max-youtube-potential') }}"><img src="public/markup/img/img-pl.jpg" /></a>
                     </div>
                     <div class="post__content">
-                        <h5>Maximising Your YouTube Potential: The Benefits of Meta Boost for Content Creators.</h5>
+                        <a href="{{ route('max-youtube-potential') }}"><h5>Maximising Your YouTube Potential: The Benefits of Meta Boost for Content Creators.</h5></a>
                         <hr>
                         <p class="paragraph">YouTube has become a popular platform for content creators to showcase their talent and earn a living. However, with the growing competition, it has become challenging for new creators to boost their presence and gain a substantial following. The content quality alone cannot guarantee success on YouTube. A creator must also focus on several other aspects to grow their channel, including channel metrics, trends, audience analysis, competitor analysis, and channel design</p>
                         <div class="post__footer">
