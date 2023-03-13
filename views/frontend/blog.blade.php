@@ -23,7 +23,7 @@
                         <img src="public/markup/img/img-pl.jpg" />
                     </div>
                     <div class="post__content">
-                        <a href="{{ route('/translation/revolutionising-video-translation') }}"><h5>Revolutionizing Video Translation: How Metapher Is Meeting the Demands of the Digital Age</h5></a>
+                        <a href="{{ route('revolution') }}"><h5>Revolutionizing Video Translation: How Metapher Is Meeting the Demands of the Digital Age</h5></a>
                         <hr>
                         <p class="paragraph">In today's digital age, video content has become increasingly popular across various platforms, and the demand for video translation services has skyrocketed. Video translation is essential for creators, businesses, and organisations that want to expand their audience and reach out to a global market. However, finding a reliable and customised video translation service can be a challenging task</p>
                         <div class="post__footer">
