@@ -148,10 +148,10 @@
                 </div>
                 <div class="post">
                     <div class="post__img">
-                        <img src="public/markup/img/img-pl.jpg" />
+                        <a href="{{ route('latest-updates') }}"><img src="public/markup/img/img-pl.jpg" /></a>
                     </div>
                     <div class="post__content">
-                        <h5>Latest Updates by YouTube: What You Need to Know</h5>
+                        <a href="{{ route('latest-updates') }}"><h5>Latest Updates by YouTube: What You Need to Know</h5></a>
                         <hr>
                         <p class="paragraph">
                             As one of the most popular video-sharing platforms in the world, 
