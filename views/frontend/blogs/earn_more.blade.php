@@ -43,9 +43,10 @@
                 <div class="mt-5">
                     Keywords: 
                     <span class="label label-default">Metapher</span>
-                    <span class="label label-default">Meta Growth Package</span>
+                    <span class="label label-default">Meta Income</span>
                     <span class="label label-default">YouTube</span>
-                    <span class="label label-default">Growth Content</span>
+                    <span class="label label-default">YouTube Monetization</span>
+                    <span class="label label-default">Content Creator</span>
                 </div>
             </div>
             <div class="col-md-4">
