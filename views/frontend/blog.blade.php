@@ -57,10 +57,10 @@
                 </div>
                 <div class="post">
                     <div class="post__img">
-                        <img src="public/markup/img/img-pl.jpg" />
+                        <a href="{{ route('earn-more') }}"><img src="public/markup/img/img-pl.jpg" /></a>
                     </div>
                     <div class="post__content">
-                        <h5>Beyond YouTube Monetization: How Meta Income Can Help You Earn More</h5>
+                        <a href="{{ route('earn-more') }}"><h5>Beyond YouTube Monetization: How Meta Income Can Help You Earn More</h5></a>
                         <hr>
                         <p class="paragraph">
                         If you're a YouTube content creator, you know that earning a significant income 
