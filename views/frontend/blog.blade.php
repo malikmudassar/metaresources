@@ -184,7 +184,7 @@
                             <div class="card-body">
                                 <h5 class="card-title">Revolutionizing Video Translation: How Metapher Is Meeting The Demands Of The Digital Age</h5>
                                 
-                                <a href="#!" class="btn btn-warning btn-block">Read</a>
+                                <a href="{{ route('revolution') }}" class="btn btn-warning btn-block">Read</a>
                             </div>
                         </div>
                     </div>
@@ -200,7 +200,7 @@
                             <div class="card-body">
                                 <h5 class="card-title">Meta Growth Package: The All-In-One Tool For YouTube Content Creators</h5>
                                 
-                                <a href="#!" class="btn btn-warning btn-block">Read</a>
+                                <a href="{{ route('all-in-one') }}" class="btn btn-warning btn-block">Read</a>
                             </div>
                         </div>
                     </div>
@@ -216,7 +216,7 @@
                             <div class="card-body">
                                 <h5 class="card-title">Latest Updates By YouTube: What You Need To Know</h5>
                                 
-                                <a href="#!" class="btn btn-warning btn-block">Read</a>
+                                <a href="{{ route('earn-more') }}" class="btn btn-warning btn-block">Read</a>
                             </div>
                         </div>
                     </div>
