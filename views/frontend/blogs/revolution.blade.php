@@ -181,4 +181,10 @@
         box-shadow: 15px 16px 17px #cdcdcd;
         border-radius: none;
     }
+    p {
+        text-align: justify;
+        font-size: 12px;
+        font-family: "Helvatica";
+        padding: 10px;
+    }
 </style>
