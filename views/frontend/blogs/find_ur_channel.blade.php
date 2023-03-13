@@ -18,29 +18,27 @@
                 <div class="">
                     <img src="public/markup/img/img-pl.jpg">
                 </div>
-                <h3>Maximising Your YouTube Potential: The Benefits of Meta Boost for Content Creators.</h3>
+                <h3>MetaDb: The Ultimate Guide to Finding Your Perfect YouTube Channel.</h3>
                 <p>
-                    YouTube has become a popular platform for content creators to showcase their talent and earn a living. However, with the growing competition, it has become challenging for new creators to boost their presence and gain a substantial following. The content quality alone cannot guarantee success on YouTube. A creator must also focus on several other aspects to grow their channel, including channel metrics, trends, audience analysis, competitor analysis, and channel design. This is where Meta Boost comes in to empower content creators.<br><br>
+                    YouTube is an enormous platform with countless content creators producing videos on a vast range of topics. With so much content available, it can be challenging to find the channels that align with your interests. Fortunately, MetaDb offers a solution with their IMDb-like platform that catalogues <b>over 1500 YouTube content creators.<b><br><br>
+    
+                    MetaDb's platform features <b>over 120 categories</b>, allowing users to easily navigate and find content creators that produce videos on topics that interest them. Whether you're looking for channels on cooking, beauty, gaming, or politics, MetaDb has a comprehensive selection of content creators that cater to your interests.<br><br>
                     
-                    One of the primary challenges faced by content creators is understanding their audience and their preferences. It is crucial to identify the audience's interests and create content that resonates with them. Meta Boost provides data-driven insights on channel metrics, trends, audience, leaders, and competitor analysis. This information can help creators make informed decisions on the type of content to create and the strategy to adopt.<br><br>
+                    The platform also offers the unique advantage of organising channels based on their countries and languages. With content creators from <b>over 50 countries</b> and videos in <b>40+ languages</b>, MetaDb ensures that users can explore channels beyond their own borders and connect with creators from different parts of the world.<br><br>
                     
-                    Another critical factor in growing a YouTube channel is the channel design. This includes elements such as thumbnails, banners, logos, and intros. A well-designed channel not only attracts viewers but also improves the click-through rate (CTR), views, and revenue. However, designing an attractive and effective channel can be challenging for creators who lack the necessary skills. Meta Boost assists creators in designing their channel by providing professional services for channel design, including the creation of custom thumbnails, banners, logos, and intros.<br><br>
+                    What sets MetaDb apart from other platforms is its commitment to providing a comprehensive database of YouTube channels. The team behind the platform works diligently to ensure that users have access to up-to-date information and a wide range of content creators to choose from. With the world's largest database of YouTube channels at your fingertips, you'll never run out of channels to explore.<br><br>
                     
-                    In addition to channel design, Meta Boost also assists creators in improving their CTR, views, and revenue. The CTR is the ratio of clicks to views on a video, and it is crucial in determining the success of a video. A high CTR can lead to increased views and revenue. Meta Boost helps creators optimise their videos for higher CTR by providing A/B testing of titles, descriptions, and tags to identify the best-performing version. Meta Boost also provides channel monetization strategies to help creators earn more revenue from their content.<br><br>
-                    
-                    Moreover, Meta Boost is continuously evolving to keep up with the changes in YouTube's algorithm and policies. This ensures that creators are always up to date with the latest trends and strategies to stay ahead of their competitors.<br><br>
-                    
-                    Being a successful content creator on YouTube requires more than just creating great content. Creators must also focus on other aspects such as channel metrics, trends, audience analysis, competitor analysis, and channel design. Meta Boost provides services that empower content creators to overcome these challenges and grow their channel. With the help of Meta Boost, content creators can focus on creating quality content while leaving the technical and strategic aspects of their channel to the experts.
+                    With a vast range of content creators from different countries and categories, MetaDb is an excellent resource for anyone looking to discover new YouTube channels. So if you're looking to expand your YouTube horizons, give MetaDb a try and explore the world of YouTube like never before.
                 
                 </p>
                 
                 <div class="mt-5">
                     Keywords: 
                     <span class="label label-default">Metapher</span>
-                    <span class="label label-default">Meta Boost</span>
+                    <span class="label label-default">MetaDb</span>
                     <span class="label label-default">YouTube</span>
-                    <span class="label label-default"> CTR </span>
-                    <span class="label label-default"> Content Creator</span>
+                    <span class="label label-default"> Database </span>
+                    <span class="label label-default"> YouTube Channel</span>
                 </div>
             </div>
             <div class="col-md-4">

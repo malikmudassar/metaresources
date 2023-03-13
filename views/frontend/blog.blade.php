@@ -126,10 +126,10 @@
                 </div>
                 <div class="post">
                     <div class="post__img">
-                        <img src="public/markup/img/img-pl.jpg" />
+                        <a href="{{ route('find-ur-youtube-channel') }}"><img src="public/markup/img/img-pl.jpg" /></a>
                     </div>
                     <div class="post__content">
-                        <h5>MetaDb: The Ultimate Guide to Finding Your Perfect YouTube Channel.</h5>
+                        <a href="{{ route('find-ur-youtube-channel') }}"><h5>MetaDb: The Ultimate Guide to Finding Your Perfect YouTube Channel.</h5></a>
                         <hr>
                         <p class="paragraph">
                             YouTube is an enormous platform with countless content 
