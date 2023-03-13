@@ -44,11 +44,13 @@
                 <p>
                     If you're a creator or a business looking for a reliable and customised video translation service, Metapher is the one-stop solution for all your video translation needs. Our approach ensures accurate translations, natural-sounding voice-overs, engaging visuals, and fast turnaround times, ensuring that you can expand your audience and increase your revenue exponentially
                 </p>
-                Keywords: 
-                <span class="label label-default">Metapher</span>
-                <span class="label label-default">Meta translate</span>
-                <span class="label label-default">YouTube</span>
-                <span class="label label-default">Video Content</span>
+                <div class="mt-5">
+                    Keywords: 
+                    <span class="label label-default">Metapher</span>
+                    <span class="label label-default">Meta translate</span>
+                    <span class="label label-default">YouTube</span>
+                    <span class="label label-default">Video Content</span>
+                </div>
             </div>
             <div class="col-md-4">
                 <div class="popular">
@@ -188,7 +190,7 @@
         padding-bottom: 10x;
     }
     .label-default {
-        background: grey;
+        background: black;
         border-radius:3px;
         padding: 2px;
     }
