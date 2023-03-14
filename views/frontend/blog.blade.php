@@ -21,6 +21,7 @@
                     </div>
                     <div class="post">
                         <div class="post__img">
+                            <div class=""></div>
                             <a href="{{ route('revolution') }}"><img src="public/markup/img/img-pl.jpg" /></a>
                         </div>
                         <div class="post__content">
@@ -224,16 +225,16 @@
                         <div class="card mp-card">
                             <h3>Tags Cloud</h3>
                             <h3>
-                            <span class="badge badge-pill badge-info">Metapher</span>
-                            <span class="badge badge-pill badge-info">MetaDb</span>
-                            <span class="badge badge-pill badge-info">translate</span>
-                            <span class="badge badge-pill badge-info">YouTube</span>
-                            <span class="badge badge-pill badge-info">Channel</span>
-                            <span class="badge badge-pill badge-info">Content Creator</span>
-                            <span class="badge badge-pill badge-info">Meta Growth</span>
-                            <span class="badge badge-pill badge-info">Earn More</span>
-                            <span class="badge badge-pill badge-info">Boost</span>
-                            <span class="badge badge-pill badge-info">YouTube Channel</span>
+                            <span class="badge badge-pill badge-default">Metapher</span>
+                            <span class="badge badge-pill badge-default">MetaDb</span>
+                            <span class="badge badge-pill badge-default">translate</span>
+                            <span class="badge badge-pill badge-default">YouTube</span>
+                            <span class="badge badge-pill badge-default">Channel</span>
+                            <span class="badge badge-pill badge-default">Content Creator</span>
+                            <span class="badge badge-pill badge-default">Meta Growth</span>
+                            <span class="badge badge-pill badge-default">Earn More</span>
+                            <span class="badge badge-pill badge-default">Boost</span>
+                            <span class="badge badge-pill badge-default">YouTube Channel</span>
                         </div>
                     </div>
                 </div>

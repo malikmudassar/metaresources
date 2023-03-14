@@ -13,83 +13,86 @@
         <img src="public/markup/img/blog-background.jpg" alt="">
     </div>
     <div class="p-5 posts">
-        <div class="row" style="padding-bottom:50px !important">
-            <div class="col-md-8">
-                <div class="">
-                    <img src="public/markup/img/img-pl.jpg">
+        <div class="container">
+            <div class="row" style="padding-bottom:50px !important">
+                
+                <div class="col-md-8">
+                    <div class="">
+                        <img src="public/markup/img/img-pl.jpg">
+                    </div>
+                    <h3>Meta Growth Package: The All-In-One Tool For YouTube Content Creators</h3>
+                    <p>
+                        As a content creator on YouTube, one of the biggest challenges you face is getting your content noticed by a wider audience. With millions of videos being uploaded every day, it can be difficult to stand out and attract subscribers. However, with the help of <a href="https://metapher.in/meta-creator#meta-growth-sec" target="_blank">Meta Growth Package</a>, you can overcome these challenges and grow your YouTube channel faster.
+                    </p>
+                    <p>
+                        Meta Growth Package offers 14+ services that are designed to help you grow your YouTube channel. One of the key services that the package includes is a Personal Certified Channel Manager who will assist you at every stage of your YouTube journey. This manager will help you identify growth opportunities and provide you with personalised advice on how to optimise your content for maximum engagement.
+                    </p>
+                    <p>
+                        Another service offered by Meta Growth Package is the unique Channel Development Program, which is designed to help content creators understand the algorithms that govern YouTube. By understanding these algorithms, you can create content that is more likely to be recommended to viewers, increasing your reach and visibility.
+                    </p>
+                    <p>
+                        In addition to these services, Meta Growth Package also offers a range of other tools and resources that can help you grow your YouTube channel. These include keyword research, competitor analysis, and audience targeting, all of which are designed to help you create content that resonates with your target audience.
+                    </p>
+                    <p>
+                        It is an invaluable resource for YouTube content creators who want to overcome growth-related challenges and grow their channels faster. With a Personal Certified Channel Manager to guide you, and a range of tools and resources to help you optimise your content, you can be confident that your YouTube journey will be a success. So why wait? Sign up for Meta Growth Package today and take your YouTube channel to the next level!
+                    </p>
+                    <div class="mt-5">
+                        Keywords: 
+                        <span class="label label-default">Metapher</span>
+                        <span class="label label-default">Meta Growth Package</span>
+                        <span class="label label-default">YouTube</span>
+                        <span class="label label-default">Growth Content</span>
+                    </div>
                 </div>
-                <h3>Meta Growth Package: The All-In-One Tool For YouTube Content Creators</h3>
-                <p>
-                    As a content creator on YouTube, one of the biggest challenges you face is getting your content noticed by a wider audience. With millions of videos being uploaded every day, it can be difficult to stand out and attract subscribers. However, with the help of <a href="https://metapher.in/meta-creator#meta-growth-sec" target="_blank">Meta Growth Package</a>, you can overcome these challenges and grow your YouTube channel faster.
-                </p>
-                <p>
-                    Meta Growth Package offers 14+ services that are designed to help you grow your YouTube channel. One of the key services that the package includes is a Personal Certified Channel Manager who will assist you at every stage of your YouTube journey. This manager will help you identify growth opportunities and provide you with personalised advice on how to optimise your content for maximum engagement.
-                </p>
-                <p>
-                    Another service offered by Meta Growth Package is the unique Channel Development Program, which is designed to help content creators understand the algorithms that govern YouTube. By understanding these algorithms, you can create content that is more likely to be recommended to viewers, increasing your reach and visibility.
-                </p>
-                <p>
-                    In addition to these services, Meta Growth Package also offers a range of other tools and resources that can help you grow your YouTube channel. These include keyword research, competitor analysis, and audience targeting, all of which are designed to help you create content that resonates with your target audience.
-                </p>
-                <p>
-                    It is an invaluable resource for YouTube content creators who want to overcome growth-related challenges and grow their channels faster. With a Personal Certified Channel Manager to guide you, and a range of tools and resources to help you optimise your content, you can be confident that your YouTube journey will be a success. So why wait? Sign up for Meta Growth Package today and take your YouTube channel to the next level!
-                </p>
-                <div class="mt-5">
-                    Keywords: 
-                    <span class="label label-default">Metapher</span>
-                    <span class="label label-default">Meta Growth Package</span>
-                    <span class="label label-default">YouTube</span>
-                    <span class="label label-default">Growth Content</span>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="popular">
-                    <h3>MOST POPULAR</h3>
-                    <hr>
-                    <div class="col-lg-12 col-md-12 mb-4">
-                        <div class="card mp-card">
-                            <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
-                                <img src="https://mdbootstrap.com/img/new/standard/nature/184.jpg" class="img-fluid" />
-                                <a href="#!">
-                                <div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div>
-                                </a>
-                            </div>
-                            <div class="card-body">
-                                <h5 class="card-title">Revolutionizing Video Translation: How Metapher Is Meeting The Demands Of The Digital Age</h5>
-                                
-                                <a href="#!" class="btn btn-warning btn-block">Read</a>
+                <div class="col-md-4">
+                    <div class="popular">
+                        <h3>MOST POPULAR</h3>
+                        <hr>
+                        <div class="col-lg-12 col-md-12 mb-4">
+                            <div class="card mp-card">
+                                <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
+                                    <img src="https://mdbootstrap.com/img/new/standard/nature/184.jpg" class="img-fluid" />
+                                    <a href="#!">
+                                    <div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div>
+                                    </a>
+                                </div>
+                                <div class="card-body">
+                                    <h5 class="card-title">Revolutionizing Video Translation: How Metapher Is Meeting The Demands Of The Digital Age</h5>
+                                    
+                                    <a href="#!" class="btn btn-warning btn-block">Read</a>
+                                </div>
                             </div>
                         </div>
-                    </div>
 
-                    <div class="col-lg-12 col-md-12 mb-4">
-                        <div class="card mp-card">
-                            <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
-                                <img src="https://mdbootstrap.com/img/new/standard/nature/023.jpg" class="img-fluid" />
-                                <a href="#!">
-                                <div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div>
-                                </a>
-                            </div>
-                            <div class="card-body">
-                                <h5 class="card-title">Meta Growth Package: The All-In-One Tool For YouTube Content Creators</h5>
-                                
-                                <a href="#!" class="btn btn-warning btn-block">Read</a>
+                        <div class="col-lg-12 col-md-12 mb-4">
+                            <div class="card mp-card">
+                                <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
+                                    <img src="https://mdbootstrap.com/img/new/standard/nature/023.jpg" class="img-fluid" />
+                                    <a href="#!">
+                                    <div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div>
+                                    </a>
+                                </div>
+                                <div class="card-body">
+                                    <h5 class="card-title">Meta Growth Package: The All-In-One Tool For YouTube Content Creators</h5>
+                                    
+                                    <a href="#!" class="btn btn-warning btn-block">Read</a>
+                                </div>
                             </div>
                         </div>
-                    </div>
 
-                    <div class="col-lg-12 col-md-12 mb-4">
-                        <div class="card mp-card">
-                            <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
-                                <img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" />
-                                <a href="#!">
-                                <div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div>
-                                </a>
-                            </div>
-                            <div class="card-body">
-                                <h5 class="card-title">Latest Updates By YouTube: What You Need To Know</h5>
-                                
-                                <a href="#!" class="btn btn-warning btn-block">Read</a>
+                        <div class="col-lg-12 col-md-12 mb-4">
+                            <div class="card mp-card">
+                                <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
+                                    <img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" />
+                                    <a href="#!">
+                                    <div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div>
+                                    </a>
+                                </div>
+                                <div class="card-body">
+                                    <h5 class="card-title">Latest Updates By YouTube: What You Need To Know</h5>
+                                    
+                                    <a href="#!" class="btn btn-warning btn-block">Read</a>
+                                </div>
                             </div>
                         </div>
                     </div>
