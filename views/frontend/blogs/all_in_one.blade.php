@@ -129,7 +129,7 @@
     min-height: 500px; 
    }
    .post__img img {
-    height:180px;
+        height:160px;
    }
    .post__content {
         width:60%;
