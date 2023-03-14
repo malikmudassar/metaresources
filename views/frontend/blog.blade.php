@@ -29,11 +29,12 @@
                                 <a href="{{ route('revolution') }}"><h5>Revolutionizing Video Translation: How Metapher Is Meeting the Demands of the Digital Age</h5></a>
                                 <hr>
                                 <p class="paragraph">In today's digital age, video content has become increasingly popular across various platforms, and the demand for video translation services has skyrocketed. Video translation is essential for creators, businesses, and organisations that want to expand their audience and reach out to a global market. However, finding a reliable and customised video translation service can be a challenging task</p>
-                                <div class="post__footer">
-                                    March 10th, 2023 - 
-                                    <img src=""> Posted By : <b> Shashank </b> 
-                                    <img src=""> 297 Views 
-                                </div>
+                                
+                            </div>
+                            <div class="col-md-8 offset-md-4 post__footer">
+                                March 10th, 2023 - 
+                                <img src=""> Posted By : <b> Shashank </b> 
+                                <img src=""> 297 Views 
                             </div>
                         </div>
                     </div>
