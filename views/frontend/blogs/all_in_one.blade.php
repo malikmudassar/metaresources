@@ -178,8 +178,8 @@
     }
     p {
         text-align: justify;
-        font-size: 14px;
-        padding-top: 10px; 
+        font-size: 16px;
+        padding-top: 25px;
         padding-bottom: 10x;
     }
     .label-default {
