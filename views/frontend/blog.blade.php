@@ -20,18 +20,20 @@
                         <h3>MOST RECENT POSTS</h3>
                     </div>
                     <div class="post">
-                        <div class="post__img">
-                            <div class=""></div>
-                            <a href="{{ route('revolution') }}"><img src="public/markup/img/img-pl.jpg" /></a>
-                        </div>
-                        <div class="post__content">
-                            <a href="{{ route('revolution') }}"><h5>Revolutionizing Video Translation: How Metapher Is Meeting the Demands of the Digital Age</h5></a>
-                            <hr>
-                            <p class="paragraph">In today's digital age, video content has become increasingly popular across various platforms, and the demand for video translation services has skyrocketed. Video translation is essential for creators, businesses, and organisations that want to expand their audience and reach out to a global market. However, finding a reliable and customised video translation service can be a challenging task</p>
-                            <div class="post__footer">
-                                March 10th, 2023 - 
-                                <img src=""> Posted By : <b> Shashank </b> 
-                                <img src=""> 297 Views 
+                        <div class="row">
+                            <div class="col-md-4 post__img">
+                                <div class=""></div>
+                                <a href="{{ route('revolution') }}"><img src="public/markup/img/img-pl.jpg" /></a>
+                            </div>
+                            <div class="col-md-8 post__content">
+                                <a href="{{ route('revolution') }}"><h5>Revolutionizing Video Translation: How Metapher Is Meeting the Demands of the Digital Age</h5></a>
+                                <hr>
+                                <p class="paragraph">In today's digital age, video content has become increasingly popular across various platforms, and the demand for video translation services has skyrocketed. Video translation is essential for creators, businesses, and organisations that want to expand their audience and reach out to a global market. However, finding a reliable and customised video translation service can be a challenging task</p>
+                                <div class="post__footer">
+                                    March 10th, 2023 - 
+                                    <img src=""> Posted By : <b> Shashank </b> 
+                                    <img src=""> 297 Views 
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -319,5 +321,8 @@
         border: 0.5px dotted #e5d5d5;
         box-shadow: 15px 16px 17px #cdcdcd;
         border-radius: none;
+    }
+    .card-title {
+        font-size:16px !important;
     }
 </style>
