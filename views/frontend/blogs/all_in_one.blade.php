@@ -20,7 +20,7 @@
                     <div class="">
                         <img src="public/markup/img/img-pl.jpg">
                     </div>
-                    <h3>Meta Growth Package: The All-In-One Tool For YouTube Content Creators</h3>
+                    <h3 class="post-title">Meta Growth Package: The All-In-One Tool For YouTube Content Creators</h3>
                     <p>
                         As a content creator on YouTube, one of the biggest challenges you face is getting your content noticed by a wider audience. With millions of videos being uploaded every day, it can be difficult to stand out and attract subscribers. However, with the help of <a href="https://metapher.in/meta-creator#meta-growth-sec" target="_blank">Meta Growth Package</a>, you can overcome these challenges and grow your YouTube channel faster.
                     </p>
@@ -180,11 +180,14 @@
         text-align: justify;
         font-size: 16px;
         padding-top: 25px;
-        padding-bottom: 10x;
+        padding-right: 60x;
     }
     .label-default {
         background: black;
         border-radius:3px;
         padding: 2px;
+    }
+    .post-title {
+        padding-right:60px;
     }
 </style>
