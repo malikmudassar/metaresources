@@ -272,6 +272,9 @@
    .post__img img {
     height:160px;
    }
+   .img-fluid {
+    padding:15px !important;
+   }
    .post__content {
         width:60%;
         text-align:justify;
