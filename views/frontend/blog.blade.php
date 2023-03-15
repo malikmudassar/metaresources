@@ -360,7 +360,7 @@
         position: relative;
     }
     .gray-box a {
-        line-height: 2rem;
+        line-height: 3rem;
     }
     .sidebar {
         background-color: #fbfbfb;
