@@ -204,7 +204,7 @@
                     </a> <div class="item-heading"><a href="https://air.io/en/youtube/how-to-increase-views-on-youtube-with-ad-campaigns" class="title item-title">How to Increase Views on YouTube with Ad Campaigns</a></div> <p class="item-description">What is advertising on the platform, how to set it up correctly, and what formats and tools to use to get the best results? Find answers in this article.</p> <p class="item-properties text-gray"><span>02.06.2022</span> <span class="time-to-read text-point-before">5</span>
                     min read</p></div></div> <div class="text-center"><ul class="pagination"><li aria-disabled="true" aria-label="« Previous" class="disabled"><span aria-hidden="true">‹</span></li> <li aria-current="page" class="active"><span>1</span></li> <li><a href="https://air.io/en/category/youtube?page=2">2</a></li> <li><a href="https://air.io/en/category/youtube?page=3">3</a></li> <li><a href="https://air.io/en/category/youtube?page=4">4</a></li> <li><a rel="noindex, follow" href="https://air.io/en/category/youtube?page=2" aria-label="Next »">›</a></li></ul></div></section>
                 </div>
-                <div class="col-md-4">
+                <!-- <div class="col-md-4">
                     <div class="popular">
                         <h3>MOST POPULAR</h3>
                         <hr>
@@ -270,6 +270,64 @@
                             <span class="badge badge-pill badge-default">YouTube Channel</span>
                         </div>
                     </div>
+                </div> -->
+                <div class="col-md-3 col-md-offset-1 col-lg-offset-0 col-lg-4 sidebar">
+                    <div class="changing-responsive"><!----> 
+                    <div class="row-desktop">
+                        <div class="gray-box popular">
+                            <p class="title">Popular</p> 
+                            <a href="https://air.io/en/tag/youtube" class="popular-link">
+                            YouTube
+                            </a> 
+                            <a href="https://air.io/en/tag/air-creators-ecosystem" class="popular-link">
+                                AIR Creators Ecosystem
+                            </a> 
+                            <a href="https://air.io/en/tag/bill-c-10" class="popular-link">
+                                Bill C-10
+                            </a> 
+                            <a href="https://air.io/en/tag/canadian-youtubers" class="popular-link">
+                                Canadian YouTubers
+                            </a> 
+                            <a href="https://air.io/en/tag/income" class="popular-link">
+                                Income
+                            </a> 
+                            <a href="https://air.io/en/tag/earn-more" class="popular-link">
+                                Earn More
+                            </a> 
+                            <a href="https://air.io/en/tag/tiktok" class="popular-link">
+                                TikTok
+                            </a> 
+                            <a href="https://air.io/en/tag/survey" class="popular-link">
+                                Survey
+                            </a> 
+                            <a href="https://air.io/en/tag/air-media-tech" class="popular-link">
+                                AIR Media-Tech
+                            </a> 
+                            <a href="https://air.io/en/tag/ramadan" class="popular-link">
+                                Ramadan
+                            </a>
+                        </div>
+                    </div>
+                </div> 
+                <div class="list-sidebar-wrapper">
+                    <div class="tags-wrapper">
+                        <h2 class="title list-title">Tags</h2> 
+                        <div class="tags">
+                            <a href="https://air.io/en/tag/stop-russia" class="tag tag-small ">
+                                Stop Russia
+                            </a> <a href="https://air.io/en/tag/stand-with-ukraine" class="tag tag-small ">
+                                Stand with Ukraine
+                            </a> <a href="https://air.io/en/tag/air-ads" class="tag tag-small ">
+                                AIR Ads
+                            </a> <a href="https://air.io/en/tag/ad-campaign" class="tag tag-small ">
+                                Ad Campaign
+                            </a> <a href="https://air.io/en/tag/report" class="tag tag-small ">
+                                Report
+                            </a> <a href="https://air.io/en/tag/youtube-membership" class="tag tag-small ">
+                                YouTube Membership
+                            </a>
+                        </div>
+                    </div> 
                 </div>
             </div>
         </div>
@@ -335,6 +393,19 @@
     .text-gray {
         color: #545454;
     }
+    .sidebar .gray-box {
+        position: relative;
+    }
+    .title {
+        font-family: Montserrat,sans-serif;
+        font-style: normal;
+        font-weight: 700;
+        color: #1e1e1e;
+        font-size: 14px;
+        line-height: 120%;
+        background-color: transparent;
+        text-align: initial;
+    }
     @media (min-width: 1200px){
         .article-item {
             padding-top: 20px;
@@ -348,11 +419,32 @@
             font-size: 16px;
             line-height: 140%;
         }
+        .sidebar {
+            padding-left: 100px;
+        }
+        .col-lg-offset-0 {
+            margin-left: 0;
+        }
+        .col-lg-4 {
+            width: 33.33333333%;
+        }
     }
     @media (min-width: 992px){
         .article-item .image-wrapper {
             width: 190px;
             height: 130px;
+        }
+        .popular {
+            padding-top: 58px;
+            padding-bottom: 48px;
+            margin-bottom: 28px;
+        }
+        .popular .title {
+            padding-bottom: 15px;
+        }
+        .title {
+            font-size: 24px;
+            line-height: 29px;
         }
     }
     @media (min-width: 768px){
