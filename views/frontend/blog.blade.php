@@ -179,13 +179,13 @@
                                 <img src="public/markup/img/img-pl.jpg" alt="Monetizing YouTube Shorts: What You Need to Know">
                             </a> 
                             <div class="text-wrapper">
-                                <a href="https://air.io/en/category/youtube" class="item-category">YouTube</a> 
+                                <a href="#" class="item-category">YouTube</a> 
                                 <div class="item-heading">
                                     <a href="{{ route('revolution') }}" class="title item-title">
-                                        Monetizing YouTube Shorts: What You Need to Know
+                                        Revolutionizing Video Translation: How Metapher Is Meeting the Demands of the Digital Age
                                     </a>
                                 </div> 
-                                <p class="item-description">Beginning February 1, YouTube creators started earning money from YT Shorts.</p> 
+                                <p class="item-description">In today's digital age, video content has become increasingly popular across various platforms, and the demand for video translation services has skyrocketed. Video translation is essential for creators, businesses, and organisations that want to expand their audience and reach out to a global market. However, finding a reliable and customised video translation service can be a challenging task.</p> 
                                 <p class="item-properties text-gray"><span>27.02.2023</span> <span class="time-to-read text-point-before">7</span> min read</p>
                             </div>
                         </div> 
