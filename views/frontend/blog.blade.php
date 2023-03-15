@@ -353,6 +353,9 @@
     .text-gray {
         color: #545454;
     }
+    .text-gray span {
+        color: #545454;
+    }
     .sidebar .gray-box {
         position: relative;
     }
