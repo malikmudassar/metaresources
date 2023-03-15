@@ -273,61 +273,21 @@
                 </div> -->
                 <div class="col-md-3 col-md-offset-1 col-lg-offset-0 col-lg-4 sidebar">
                     <div class="changing-responsive"><!----> 
-                    <div class="row-desktop">
-                        <div class="gray-box popular">
-                            <p class="title">Popular</p> 
-                            <a href="https://air.io/en/tag/youtube" class="popular-link">
-                            YouTube
-                            </a> 
-                            <a href="https://air.io/en/tag/air-creators-ecosystem" class="popular-link">
-                                AIR Creators Ecosystem
-                            </a> 
-                            <a href="https://air.io/en/tag/bill-c-10" class="popular-link">
-                                Bill C-10
-                            </a> 
-                            <a href="https://air.io/en/tag/canadian-youtubers" class="popular-link">
-                                Canadian YouTubers
-                            </a> 
-                            <a href="https://air.io/en/tag/income" class="popular-link">
-                                Income
-                            </a> 
-                            <a href="https://air.io/en/tag/earn-more" class="popular-link">
-                                Earn More
-                            </a> 
-                            <a href="https://air.io/en/tag/tiktok" class="popular-link">
-                                TikTok
-                            </a> 
-                            <a href="https://air.io/en/tag/survey" class="popular-link">
-                                Survey
-                            </a> 
-                            <a href="https://air.io/en/tag/air-media-tech" class="popular-link">
-                                AIR Media-Tech
-                            </a> 
-                            <a href="https://air.io/en/tag/ramadan" class="popular-link">
-                                Ramadan
-                            </a>
+                        <div class="row-desktop">
+                            <div class="gray-box popular">
+                                <p class="title">Popular</p> 
+                                <a href="#" class="popular-link"> YouTube</a> <br>
+                                <a href="#" class="popular-link"> YouTube</a> <br>
+                                <a href="#" class="popular-link"> YouTube</a> <br>
+                                <a href="#" class="popular-link"> YouTube</a> <br>
+                                <a href="#" class="popular-link"> YouTube</a> <br>
+                                <a href="#" class="popular-link"> YouTube</a> <br>
+                            </div>
+                        </div> 
+                        <div>
+                            
                         </div>
                     </div>
-                </div> 
-                <div class="list-sidebar-wrapper">
-                    <div class="tags-wrapper">
-                        <h2 class="title list-title">Tags</h2> 
-                        <div class="tags">
-                            <a href="https://air.io/en/tag/stop-russia" class="tag tag-small ">
-                                Stop Russia
-                            </a> <a href="https://air.io/en/tag/stand-with-ukraine" class="tag tag-small ">
-                                Stand with Ukraine
-                            </a> <a href="https://air.io/en/tag/air-ads" class="tag tag-small ">
-                                AIR Ads
-                            </a> <a href="https://air.io/en/tag/ad-campaign" class="tag tag-small ">
-                                Ad Campaign
-                            </a> <a href="https://air.io/en/tag/report" class="tag tag-small ">
-                                Report
-                            </a> <a href="https://air.io/en/tag/youtube-membership" class="tag tag-small ">
-                                YouTube Membership
-                            </a>
-                        </div>
-                    </div> 
                 </div>
             </div>
         </div>
