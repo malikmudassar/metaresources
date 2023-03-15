@@ -294,69 +294,9 @@
    .posts {
     background: #fff;
    }
-   .post {
-    min-height: 250px;
-    margin-bottom:20px;
-    background-color: white;
-    padding: 10px;
-    box-shadow: 15px 16px 17px #cdcdcd;
-   }
-   .popular {
-    min-height: 500px; 
-   }
-   .post__img img {
-    height:160px;
-   }
-   .img-fluid {
-    padding:15px !important;
-   }
-   .post__content {
-        width:60%;
-        text-align:justify;
-        padding:10px;
-   }
-   .post__content p {
-        font-size:12px;
-        color: #6c5a5a;
-   }
-    .post__img,
-    .post__content {
-        display: inline-block;
-        vertical-align: top; /* This is to ensure both divs are aligned at the top */
-    }
-    hr {width: 100%}
-    .paragraph {
-        display: -webkit-box;
-        -webkit-box-orient: vertical;
-        -webkit-line-clamp: 5;
-        overflow: hidden;
-    }
-    .post__footer {
-        font-size: 12px;
-        color: #6c5a5a;
-        bottom: 10px; 
-        border-top: 0.5px dotted #e5d5d5;
-    }
-    .post {
-        position: relative;
-    }
-
-    .post__footer {
-        position: absolute;
-        bottom: 13px;
-        padding-top: 10px;
-        width: 59%;
-    }
-    .card {
-        border-radius: 0px !important;
-    }
-    .mp-card {
-        border: 0.5px dotted #e5d5d5;
-        box-shadow: 15px 16px 17px #cdcdcd;
-        border-radius: none;
-    }
-    .card-title {
-        font-size:16px !important;
+   
+    p {
+        margin: 0 0 10px;
     }
     .article-item {
         width: 100%;
@@ -402,5 +342,57 @@
             padding-top: 20px;
             padding-bottom: 15px;
         }
+        .article-item .item-category {
+            padding-bottom: 14px;
+        }
+        .article-item .item-description {
+            margin-top: 10px;
+            font-size: 16px;
+            line-height: 140%;
+        }
+    }
+    @media (min-width: 992px){
+        .article-item .image-wrapper {
+            width: 190px;
+            height: 130px;
+        }
+    }
+    @media (min-width: 768px){
+        .article-item .image-wrapper {
+            width: 190px;
+            height: 130px;
+        }
+        .article-item .item-category {
+            font-weight: 500;
+            font-size: 14px;
+            line-height: 17px;
+        }
+        .article-item {
+            -webkit-box-orient: horizontal;
+            -webkit-box-direction: normal;
+            -ms-flex-direction: row;
+            flex-direction: row;
+            padding-top: 25px;
+            padding-bottom: 25px;
+            margin-top: 0;
+            border-top: 1px solid #e6e6e7;
+        }
+        .article-item .text-wrapper {
+            padding: 0 0 0 20px;
+            border: none;
+            max-width: calc(100% - 190px);
+        }
+        .article-item .item-heading {
+            max-width: 80%;
+        }
+        .article-item .item-description {
+            display: block;
+            font-size: 14px;
+            line-height: 140%;
+            margin-top: 16px;
+        }
+    }
+    a {
+        color: #1e1e1e;
     }
 </style>
