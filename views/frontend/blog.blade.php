@@ -356,6 +356,9 @@
     .sidebar .gray-box {
         position: relative;
     }
+    .gray-box a {
+        line-height: 2rem;
+    }
     .title {
         font-family: Montserrat,sans-serif;
         font-style: normal;
