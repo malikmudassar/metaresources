@@ -358,4 +358,49 @@
     .card-title {
         font-size:16px !important;
     }
+    .article-item {
+        width: 100%;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        margin-top: 8px;
+    }
+    .article-item .image-wrapper {
+        display: block;
+        width: 100%;
+        height: auto;
+        position: relative;
+        overflow: hidden;
+    }
+    .article-item .text-wrapper {
+        width: 100%;
+        padding: 20px 17px 30px;
+        border: 1px solid #efefef;
+    }
+    .article-item .item-category {
+        display: block;
+        margin-bottom: 0;
+        padding-bottom: 8px;
+    }
+    .article-item .item-heading {
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    .article-item .item-properties {
+        margin-top: 14px;
+        display: inline-block;
+    }
+    .text-gray {
+        color: #545454;
+    }
+    @media (min-width: 1200px){
+        .article-item {
+            padding-top: 20px;
+            padding-bottom: 15px;
+        }
+    }
 </style>
