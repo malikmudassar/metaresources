@@ -477,5 +477,6 @@
     }
     a {
         color: #1e1e1e;
+        text-decoration: none;
     }
 </style>
