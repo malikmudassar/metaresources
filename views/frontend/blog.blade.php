@@ -470,4 +470,8 @@
         color: #1e1e1e;
         text-decoration: none;
     }
+    a:hover {
+        color:black;
+        text-decoration:none;
+    }
 </style>
