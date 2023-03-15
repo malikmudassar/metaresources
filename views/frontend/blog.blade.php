@@ -385,6 +385,7 @@
                     <div class="changing-responsive"><!----> 
                         <div class="row-desktop">
                             <div class="gray-box popular">
+                                <p class="title">Trending</p>
                                 <a href="#" class="popular-link"> Metapher</a> <br>
                                 <a href="#" class="popular-link"> YouTube</a> <br>
                                 <a href="#" class="popular-link"> MetaDB</a> <br>
