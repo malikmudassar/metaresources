@@ -394,7 +394,8 @@
         text-align: initial;
     }
     .item-description {
-        font-family: Montserrat,sans-serif;
+        font-family: "Montserrat,sans-serif";
+        font-size: 16px;
     }
     @media (min-width: 1200px){
         .article-item {
@@ -408,7 +409,7 @@
             margin-top: 10px;
             font-size: 16px;
             line-height: 140%;
-            font-family: Montserrat,sans-serif;
+            font-family: "Montserrat,sans-serif";
         }
         .sidebar {
             padding-left: 100px;
