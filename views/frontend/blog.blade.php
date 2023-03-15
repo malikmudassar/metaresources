@@ -393,6 +393,9 @@
         background-color: transparent;
         text-align: initial;
     }
+    .item-description {
+        font-family: Montserrat,sans-serif;
+    }
     @media (min-width: 1200px){
         .article-item {
             padding-top: 20px;
@@ -405,6 +408,7 @@
             margin-top: 10px;
             font-size: 16px;
             line-height: 140%;
+            font-family: Montserrat,sans-serif;
         }
         .sidebar {
             padding-left: 100px;
