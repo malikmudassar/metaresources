@@ -396,6 +396,7 @@
     .item-description {
         font-family: Montserrat,sans-serif !important;
         font-size: 16px !important;
+        color: #787474;
     }
     @media (min-width: 1200px){
         .article-item {
