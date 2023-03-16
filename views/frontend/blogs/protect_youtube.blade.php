@@ -14,7 +14,9 @@
             <div class="col-xs-12">
                 <div class="breadcrumps">
                     <a href="{{ route('home') }}" class="link-item">Metapher</a> 
+                    <img src="public/markup/img/right-arrow.png">
                     <a href="{{ route('blog') }}" class="link-item">Blog</a> 
+                    <img src="public/markup/img/right-arrow.png">
                     <a href="{{ route('blog') }}" class="link-item link-item-category">Translation</a>
                 </div>
             </div>
