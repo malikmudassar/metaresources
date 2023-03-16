@@ -189,7 +189,7 @@
     p {
         text-align: justify;
         font-size: 16px;
-        padding-top: 20px;
+        padding-top: 50px;
         line-height: 2rem;
         padding-right: 60x;
     }
