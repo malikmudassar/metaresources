@@ -360,12 +360,13 @@
     }
     .tag-small {
         font-size: 12px;
-        line-height: 15px;
+        line-height: 1rem !important;
         padding: 6px 15px;
         margin: 6px 10px 6px 0;
         color: #545454;
         border: 1px solid #b3b6bc;
         border-radius: 4px;
+        background-color: #ede9e9;
     }
     @media (min-width: 1200px){
         .article-item {
@@ -445,8 +446,9 @@
         }
         .tag-small {
             border: none;
+            line-height: 1rem !important;
             padding: 6px 14px;
-            background-color: #fafafa;
+            background-color: #ede9e9;
             color: #717070;
         }
     }
