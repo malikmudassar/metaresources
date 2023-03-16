@@ -210,7 +210,7 @@
     }
     p {
         text-align: justify;
-        font-size: 16px;
+        font-size: 20px;
         padding-top: 50px;
         line-height: 2rem;
         padding-bottom: 10x;
