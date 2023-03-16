@@ -267,7 +267,7 @@
         font-style: normal;
         font-weight: 700;
         color: #1e1e1e;
-        font-size: 14px;
+        font-size: 20px;
         line-height: 120%;
         background-color: transparent;
         text-align: initial;
