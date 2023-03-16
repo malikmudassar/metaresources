@@ -28,27 +28,48 @@
                         <img src="public/markup/img/img-pl.jpg">
                     </div>
                     <p>
-                        As a YouTube content creator, one of the biggest challenges you may face is protecting your channel from hacking attacks and copyright strikes. These issues can be devastating for your channel and your business. However, with the help of Meta Support, you can rest assured that your channel is in good hands. In this blog, we will explore the various services provided by Meta Support that can help protect your YouTube channel and resolve copyright strikes.<br><br>
+                        As a YouTube content creator, one of the biggest challenges you may face is protecting your channel from hacking attacks and copyright strikes. These issues can be devastating for your channel and your business. However, with the help of Meta Support, you can rest assured that your channel is in good hands. In this blog, we will explore the various services provided by Meta Support that can help protect your YouTube channel and resolve copyright strikes.
+                    </p>
                         
                         <h5>Channel Protection:</h5>
-                        Meta Support offers a comprehensive suite of services designed to protect your YouTube channel from hacking attacks. They provide advanced security measures, such as two-factor authentication and IP whitelisting, to prevent unauthorized access to your account. In addition, they monitor your channel 24/7 for any suspicious activity and take immediate action if necessary.<br><br>
+                        <p>
+                            Meta Support offers a comprehensive suite of services designed to protect your YouTube channel from hacking attacks. They provide advanced security measures, such as two-factor authentication and IP whitelisting, to prevent unauthorized access to your account. In addition, they monitor your channel 24/7 for any suspicious activity and take immediate action if necessary.
+                        </p>
+                        
                         
                         <h5>Account Recovery:</h5>
-                        In the unfortunate event that your channel is compromised, Meta Support provides account recovery services to help you regain access to your account. They work with YouTube to resolve any issues and ensure that your channel is restored to its original state.<br><br>
+                        <p>
+                            In the unfortunate event that your channel is compromised, Meta Support provides account recovery services to help you regain access to your account. They work with YouTube to resolve any issues and ensure that your channel is restored to its original state.
+                        </p>
+                        
                         
                         <h5>Copyright Strike Resolution:</h5>
-                        Meta Support can help resolve copyright strikes in just one day. They have a team of experienced professionals who work with YouTube to review your copyright strike and determine the best course of action. They can also provide guidance on how to avoid copyright strikes in the future.<br><br>
+                        <p>
+                            Meta Support can help resolve copyright strikes in just one day. They have a team of experienced professionals who work with YouTube to review your copyright strike and determine the best course of action. They can also provide guidance on how to avoid copyright strikes in the future.
+                        </p>
+                        
                         
                         <h5>Copyright Claim Resolution:</h5>
-                        Meta Support can also help resolve copyright claims in just one day. They have a team of experts who can review your claim and work with YouTube to resolve the issue quickly. They can also provide guidance on how to avoid copyright claims in the future.<br><br>
+                        <p>
+                            Meta Support can also help resolve copyright claims in just one day. They have a team of experts who can review your claim and work with YouTube to resolve the issue quickly. They can also provide guidance on how to avoid copyright claims in the future.
+                        </p>
+                        
                     
                         <h5>Copyright Protection:</h5>
-                        Meta Support provides copyright protection services to ensure that your content is protected from unauthorised use. They monitor the internet for any instances of your content being used without your permission and take immediate action to have it removed.<br><br>
+                        <p>
+                            Meta Support provides copyright protection services to ensure that your content is protected from unauthorised use. They monitor the internet for any instances of your content being used without your permission and take immediate action to have it removed.
+                        </p>
+                        
                         
                         <h5>Guidance and Consultation:</h5>
-                        Meta Support provides guidance and consultation to help you avoid copyright strikes and claims in the future. They can provide advice on best practices for uploading and promoting your content on YouTube, as well as how to protect your channel from hacking attacks.<br><br>
+                        <p>
+                            Meta Support provides guidance and consultation to help you avoid copyright strikes and claims in the future. They can provide advice on best practices for uploading and promoting your content on YouTube, as well as how to protect your channel from hacking attacks.
+                        </p>
                         
-                        Meta Support offers a wide range of services designed to help protect your YouTube channel and resolve any issues that may arise. With their advanced security measures, account recovery services, and copyright strike and claim resolution services, you can rest assured that your channel is in good hands. Contact Meta Support today to learn more about how they can help protect your YouTube channel.
+                        <p>
+                            Meta Support offers a wide range of services designed to help protect your YouTube channel and resolve any issues that may arise. With their advanced security measures, account recovery services, and copyright strike and claim resolution services, you can rest assured that your channel is in good hands. Contact Meta Support today to learn more about how they can help protect your YouTube channel.
+                        </p>
+                        
                     
                     </p>
                     
