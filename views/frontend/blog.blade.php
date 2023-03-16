@@ -176,7 +176,7 @@
                     <section id="featuredArticles" class="articles-list">
                         <div class="article-item">
                             <a href="{{ route('revolution') }}" class="image-wrapper">
-                                <img src="https://air.io/storage/mobile/Qiv1hBWb2SECOrZGiem8ZS9xGfyUmKaU7IQAwGIy.jpg" alt="Monetizing YouTube Shorts: What You Need to Know">
+                                <img src="public/markup/img/img-pl.jpg" alt="Monetizing YouTube Shorts: What You Need to Know">
                             </a> 
                             <div class="text-wrapper">
                                 <a href="#" class="item-category">YouTube</a> 
@@ -191,7 +191,7 @@
                         </div> 
                         <div class="article-item">
                             <a href="{{ route('all-in-one') }}" class="image-wrapper">
-                                <img src="https://air.io/storage/0aEf4iWQH4YCK3fsE4q6Sdm5Pv7O8Tz5E87vqOfv.jpg" alt="Five Reasons We’re Really Looking Forward to the 2023 Insomnia Egypt Gaming Festival">
+                                <img src="public/markup/img/img-pl.jpg" alt="Five Reasons We’re Really Looking Forward to the 2023 Insomnia Egypt Gaming Festival">
                             </a> 
                             <div class="text-wrapper">
                                 <a href="#" class="item-category">YouTube</a> 
@@ -209,7 +209,7 @@
                         </div> 
                         <div class="article-item">
                             <a href="{{ route('earn-more') }}" class="image-wrapper">
-                                <img src="https://air.io/storage/mobile/Qiv1hBWb2SECOrZGiem8ZS9xGfyUmKaU7IQAwGIy.jpg" alt="Monetizing YouTube Shorts: What You Need to Know">
+                                <img src="public/markup/img/img-pl.jpg" alt="Monetizing YouTube Shorts: What You Need to Know">
                             </a> 
                             <div class="text-wrapper">
                                 <a href="#" class="item-category">YouTube</a> 
@@ -227,7 +227,7 @@
                         </div> 
                         <div class="article-item">
                             <a href="{{ route('protect-youtube-channels') }}" class="image-wrapper">
-                                <img src="https://air.io/storage/0aEf4iWQH4YCK3fsE4q6Sdm5Pv7O8Tz5E87vqOfv.jpg" alt="Five Reasons We’re Really Looking Forward to the 2023 Insomnia Egypt Gaming Festival">
+                                <img src="public/markup/img/img-pl.jpg" alt="Five Reasons We’re Really Looking Forward to the 2023 Insomnia Egypt Gaming Festival">
                             </a> 
                             <div class="text-wrapper">
                                 <a href="#" class="item-category">YouTube</a> 
@@ -245,7 +245,7 @@
                         </div> 
                         <div class="article-item">
                             <a href="{{ route('revolution') }}" class="image-wrapper">
-                                <img src="https://air.io/storage/mobile/Qiv1hBWb2SECOrZGiem8ZS9xGfyUmKaU7IQAwGIy.jpg" alt="Monetizing YouTube Shorts: What You Need to Know">
+                                <img src="public/markup/img/img-pl.jpg" alt="Monetizing YouTube Shorts: What You Need to Know">
                             </a> 
                             <div class="text-wrapper">
                                 <a href="#" class="item-category">YouTube</a> 
@@ -278,7 +278,7 @@
                         </div> 
                         <div class="article-item">
                             <a href="{{ route('earn-more') }}" class="image-wrapper">
-                                <img src="https://air.io/storage/mobile/Qiv1hBWb2SECOrZGiem8ZS9xGfyUmKaU7IQAwGIy.jpg" alt="Monetizing YouTube Shorts: What You Need to Know">
+                                <img src="public/markup/img/img-pl.jpg" alt="Monetizing YouTube Shorts: What You Need to Know">
                             </a> 
                             <div class="text-wrapper">
                                 <a href="#" class="item-category">YouTube</a> 
@@ -296,7 +296,7 @@
                         </div> 
                         <div class="article-item">
                             <a href="{{ route('protect-youtube-channels') }}" class="image-wrapper">
-                                <img src="https://air.io/storage/0aEf4iWQH4YCK3fsE4q6Sdm5Pv7O8Tz5E87vqOfv.jpg" alt="Five Reasons We’re Really Looking Forward to the 2023 Insomnia Egypt Gaming Festival">
+                                <img src="public/markup/img/img-pl.jpg" alt="Five Reasons We’re Really Looking Forward to the 2023 Insomnia Egypt Gaming Festival">
                             </a> 
                             <div class="text-wrapper">
                                 <a href="#" class="item-category">YouTube</a> 
