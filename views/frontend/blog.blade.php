@@ -354,8 +354,7 @@
         font-style: normal;
         font-weight: 400;
         font-size: 14px;
-        padding: 9px 19px;
-        display: inline-block;
+        padding: 3px 10px;
         margin: 6px 12px 6px 0;
         float: left;
     }
