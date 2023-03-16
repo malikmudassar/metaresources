@@ -8,10 +8,7 @@
 @include('frontend.inc.header')
 
 <!---------------------- Blog SEC -------------------->
-<section class="dark" style="background: #3c3b40;">
-	<div class="b-head">
-        <img src="public/markup/img/blog-background.jpg" alt="">
-    </div>
+<section class="dark" style="">
     <div class="p-5 posts">
         <div class="container">
             <div class="row" style="padding-bottom:50px !important">
