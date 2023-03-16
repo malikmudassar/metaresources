@@ -247,10 +247,10 @@
                                 <a href="#" class="tag tag-small"> Metapher</a> 
                                 <a href="#" class="tag tag-small"> MetaDB</a> 
                                 <a href="#" class="tag tag-small"> YouTube</a> 
-                                <a href="#" class="tag tag-small"> Content</a> <br>
-                                <a href="#" class="tag tag-small"> Youtube Channel</a> <br>
-                                <a href="#" class="tag tag-small"> Database</a> <br>
-                                <a href="#" class="tag tag-small"> Google Ads</a> <br>
+                                <a href="#" class="tag tag-small"> Content</a> 
+                                <a href="#" class="tag tag-small"> Youtube Channel</a> 
+                                <a href="#" class="tag tag-small"> Database</a> 
+                                <a href="#" class="tag tag-small"> Google Ads</a> 
                             </div>
                         </div> 
                     <div>
