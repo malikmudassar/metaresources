@@ -225,35 +225,39 @@
                         </div>
                     </div>
                 </div> -->
-                <div class="col-md-3 col-md-offset-1 col-lg-offset-0 col-lg-4 sidebar">
-                    <div class="changing-responsive"><!----> 
-                        <div class="row-desktop">
-                            <div class="gray-box popular">
-                                <p class="title">Trending</p>
-                                <a href="#" class="popular-link"> Metapher</a> <br>
-                                <a href="#" class="popular-link"> YouTube</a> <br>
-                                <a href="#" class="popular-link"> MetaDB</a> <br>
-                                <a href="#" class="popular-link"> Content Growth</a> <br>
-                                <a href="#" class="popular-link"> Youtube Channel</a> <br>
-                                <a href="#" class="popular-link"> Earn More</a> <br>
-                                <a href="#" class="popular-link"> Translate</a> <br>
-                                <a href="#" class="popular-link"> CTP </a> <br>
-                                <a href="#" class="popular-link"> Google Ads</a> <br>
-                            </div>
-                        </div> 
-                        <div class="row-desktop">
-                            <div class="gray-box popular" style="margin-top:50px">
-                                <p class="title">Tags</p>
-                                <a href="#" class="tag tag-small"> Metapher</a> 
-                                <a href="#" class="tag tag-small"> MetaDB</a> 
-                                <a href="#" class="tag tag-small"> YouTube</a> 
-                                <a href="#" class="tag tag-small"> Content</a> 
-                                <a href="#" class="tag tag-small"> Youtube Channel</a> 
-                                <a href="#" class="tag tag-small"> Database</a> 
-                                <a href="#" class="tag tag-small"> Google Ads</a> 
-                            </div>
-                        </div> 
-                    <div>
+                <div class="col-md-3 col-md-offset-1 col-lg-offset-0 col-lg-4 ">
+                    <div class="sidebar">
+                        <div class="changing-responsive"><!----> 
+                            <div class="row-desktop">
+                                <div class="gray-box popular">
+                                    <p class="title">Trending</p>
+                                    <a href="#" class="popular-link"> Metapher</a> <br>
+                                    <a href="#" class="popular-link"> YouTube</a> <br>
+                                    <a href="#" class="popular-link"> MetaDB</a> <br>
+                                    <a href="#" class="popular-link"> Content Growth</a> <br>
+                                    <a href="#" class="popular-link"> Youtube Channel</a> <br>
+                                    <a href="#" class="popular-link"> Earn More</a> <br>
+                                    <a href="#" class="popular-link"> Translate</a> <br>
+                                    <a href="#" class="popular-link"> CTP </a> <br>
+                                    <a href="#" class="popular-link"> Google Ads</a> <br>
+                                </div>
+                            </div> 
+                           
+                        <div>
+                    </div>
+                    <div class="row-desktop">
+                        <div class="gray-box popular" style="margin-top:50px">
+                            <p class="title">Tags</p>
+                            <a href="#" class="tag tag-small"> Metapher</a> 
+                            <a href="#" class="tag tag-small"> MetaDB</a> 
+                            <a href="#" class="tag tag-small"> YouTube</a> 
+                            <a href="#" class="tag tag-small"> Content</a> 
+                            <a href="#" class="tag tag-small"> Youtube Channel</a> 
+                            <a href="#" class="tag tag-small"> Database</a> 
+                            <a href="#" class="tag tag-small"> Google Ads</a> 
+                        </div>
+                    </div> 
+                        
                             
                         </div>
                     </div>
