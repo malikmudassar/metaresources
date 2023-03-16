@@ -29,24 +29,25 @@
                         <img src="public/markup/img/img-pl.jpg">
                     </div>
                     <p>
-                        As a content creator on YouTube, you put in a lot of time, effort, and creativity to produce high-quality videos for your audience. However, with the increasing popularity of YouTube, comes the risk of copyright infringement and other threats to your channel's safety.<br><br>
-                        
-                        Copyright claims and strikes are some of the most significant challenges that content creators face on YouTube. These claims can be costly and time-consuming to resolve, and can even lead to the deletion of your channel if not addressed promptly. Additionally, hacking attacks can put your channel at risk and may even lead to the loss of your entire account.<br><br>
-                        
-                        To help address these challenges, Meta Safety offers a range of essential services to protect your channel and resolve copyright claims. Here are some of the ways that Meta Safety can help you as a content creator on YouTube:<br><br>
-                        
-                        <b>Copyright Strike and Claim Assistance</b>: If you receive a copyright strike or claim, Meta Safety can assist you in resolving the issue. Their team of experts will work with you to dispute the claim, provide evidence of fair use, and help you get your video reinstated.<br><br>
-                        
-                        <b>In-Messenger Quicksupport:</b> Meta Safety offers in-messenger quick support by their team of experts who are available 24/7. This feature allows you to quickly and easily get in touch with their team whenever you need assistance.<br><br>
-                        
-                        <b>Quick Response to your Issues:</b> Meta Safety is committed to providing quick and efficient solutions to any issues that you may encounter on your channel. Their team will work tirelessly to resolve your problems and ensure that your channel remains safe and secure.<br><br>
-                        
-                        <b>Channel Recovery Assistance:</b> If your channel is hacked or compromised in any way, Meta Safety can provide assistance with recovering your account. They will work with YouTube to get your channel back up and running as quickly as possible.<br><br>
-                        
-                        <b>Protection from Hacking Attacks:</b> Meta Safety provides protection from hacking attacks by monitoring your channel and implementing security measures to keep your account safe. They will also provide you with tips and advice on how to keep your channel secure.<br><br>
-                        
-                        <b>Educational Resources:</b> Meta Safety offers educational resources and guides to help content creators stay informed about copyright laws, fair use, and other issues related to YouTube. These resources can help you avoid copyright strikes and other legal issues.<br><br>
-                        With the essential services offered by Meta Safety, you can protect your channel, resolve copyright claims, and keep your account secure. So, if you're looking for a reliable and effective way to safeguard your YouTube channel, consider using Meta Safety to help protect your hard work and creativity.<br><br>
+                        As a content creator on YouTube, you put in a lot of time, effort, and creativity to produce high-quality videos for your audience. However, with the increasing popularity of YouTube, comes the risk of copyright infringement and other threats to your channel's safety.
+                    </p><p>
+                        Copyright claims and strikes are some of the most significant challenges that content creators face on YouTube. These claims can be costly and time-consuming to resolve, and can even lead to the deletion of your channel if not addressed promptly. Additionally, hacking attacks can put your channel at risk and may even lead to the loss of your entire account.                        
+                    </p><p>
+                        To help address these challenges, Meta Safety offers a range of essential services to protect your channel and resolve copyright claims. Here are some of the ways that Meta Safety can help you as a content creator on YouTube:<br><br>                        
+                        </p><p>
+                        <b>Copyright Strike and Claim Assistance</b>: If you receive a copyright strike or claim, Meta Safety can assist you in resolving the issue. Their team of experts will work with you to dispute the claim, provide evidence of fair use, and help you get your video reinstated.                        
+                        </p><p>
+                        <b>In-Messenger Quicksupport:</b> Meta Safety offers in-messenger quick support by their team of experts who are available 24/7. This feature allows you to quickly and easily get in touch with their team whenever you need assistance.                        
+                        </p><p>
+                        <b>Quick Response to your Issues:</b> Meta Safety is committed to providing quick and efficient solutions to any issues that you may encounter on your channel. Their team will work tirelessly to resolve your problems and ensure that your channel remains safe and secure.                        
+                        </p><p>
+                        <b>Channel Recovery Assistance:</b> If your channel is hacked or compromised in any way, Meta Safety can provide assistance with recovering your account. They will work with YouTube to get your channel back up and running as quickly as possible.                        
+                        </p><p>
+                        <b>Protection from Hacking Attacks:</b> Meta Safety provides protection from hacking attacks by monitoring your channel and implementing security measures to keep your account safe. They will also provide you with tips and advice on how to keep your channel secure.                        
+                        </p><p>
+                        <b>Educational Resources:</b> Meta Safety offers educational resources and guides to help content creators stay informed about copyright laws, fair use, and other issues related to YouTube. These resources can help you avoid copyright strikes and other legal issues.
+                        </p><p>
+                        With the essential services offered by Meta Safety, you can protect your channel, resolve copyright claims, and keep your account secure. So, if you're looking for a reliable and effective way to safeguard your YouTube channel, consider using Meta Safety to help protect your hard work and creativity.
     
                     </p>
                     
