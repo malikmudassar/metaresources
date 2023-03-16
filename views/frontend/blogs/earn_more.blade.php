@@ -87,7 +87,7 @@
                                             </a>
                                         </div>
                                         <div class="footer-creds">
-                                            27.02.2023 7 min read
+                                            27.02.2023 -- 7 min read
                                         </div>
                                     </div> 
                                     <div class="post-item">
@@ -100,7 +100,7 @@
                                             </a>
                                         </div>
                                         <div class="footer-creds">
-                                            10.02.2023 4 min read
+                                            10.02.2023 -- 4 min read
                                         </div>
                                     </div> 
                                     <div class="post-item">
@@ -113,7 +113,7 @@
                                             </a>
                                         </div>
                                         <div class="footer-creds">
-                                            27.02.2023 7 min read
+                                            27.02.2023 -- 7 min read
                                         </div>
                                     </div> 
                                     <div class="post-item">
@@ -126,7 +126,7 @@
                                             </a>
                                         </div>
                                         <div class="footer-creds">
-                                            10.02.2023 4 min read
+                                            10.02.2023 -- 4 min read
                                         </div>
                                     </div> 
                                 </div> 
