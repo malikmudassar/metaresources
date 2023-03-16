@@ -10,16 +10,17 @@
 <!---------------------- Blog SEC -------------------->
 <section class="dark" style="">
     <div class="p-5 posts">
-        <div class="row" style="padding-bottom:50px !important">
-            <div class="col-xs-12">
-                <div class="breadcrumps">
-                    <a href="{{ route('home') }}" class="link-item">Metapher</a> 
-                    <img src="public/markup/img/right-arrow.png">
-                    <a href="{{ route('blog') }}" class="link-item">Blog</a> 
-                    <img src="public/markup/img/right-arrow.png">
-                    <a href="{{ route('blog') }}" class="link-item link-item-category">Translation</a>
-                </div>
+        <div class="col-xs-12">
+            <div class="breadcrumps">
+                <a href="{{ route('home') }}" class="link-item">Metapher</a> 
+                <img src="public/markup/img/right-arrow.png">
+                <a href="{{ route('blog') }}" class="link-item">Blog</a> 
+                <img src="public/markup/img/right-arrow.png">
+                <a href="{{ route('blog') }}" class="link-item link-item-category">Translation</a>
             </div>
+        </div>
+        <div class="row" style="padding-bottom:50px !important">
+            
             <div class="col-md-8 article-wrapper">
                 <div class="">
                     <img src="public/markup/img/img-pl.jpg">
