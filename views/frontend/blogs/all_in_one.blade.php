@@ -56,44 +56,21 @@
                         <div class="changing-responsive"><!----> 
                             <div class="row-desktop">
                                 <div class="gray-box top-five">
-                                    <p class="title">Top-5 articles</p> 
-                                    <ul class="top-five-items-list">
-                                        <li class="top-five-item">
-                                            <a href="/category/youtube" class="top-five-item-category">YouTube</a> 
-                                            <a href="https://air.io/en/youtube/18-great-content-ideas-for-your-kids-youtube-channel" class="title top-five-item-title">18 Great Content Ideas for Your Kids YouTube Channel</a> 
-                                            <p class=" article-info-text text-gray"><span>19.06.2021</span> <span class="text-point-before">14 min</span></p>
-                                        </li> 
-                                        <li class="top-five-item">
-                                            <a href="/category/youtube" class="top-five-item-category">YouTube</a> 
-                                            <a href="https://air.io/en/youtube/18-great-content-ideas-for-your-kids-youtube-channel" class="title top-five-item-title">18 Great Content Ideas for Your Kids YouTube Channel</a> 
-                                            <p class=" article-info-text text-gray"><span>19.06.2021</span> <span class="text-point-before">14 min</span></p>
-                                        </li> 
-                                        <li class="top-five-item">
-                                            <a href="/category/youtube" class="top-five-item-category">YouTube</a> 
-                                            <a href="https://air.io/en/youtube/18-great-content-ideas-for-your-kids-youtube-channel" class="title top-five-item-title">18 Great Content Ideas for Your Kids YouTube Channel</a> 
-                                            <p class=" article-info-text text-gray"><span>19.06.2021</span> <span class="text-point-before">14 min</span></p>
-                                        </li> 
-                                        <li class="top-five-item">
-                                            <a href="/category/youtube" class="top-five-item-category">YouTube</a> 
-                                            <a href="https://air.io/en/youtube/18-great-content-ideas-for-your-kids-youtube-channel" class="title top-five-item-title">18 Great Content Ideas for Your Kids YouTube Channel</a> 
-                                            <p class=" article-info-text text-gray"><span>19.06.2021</span> <span class="text-point-before">14 min</span></p>
-                                        </li> 
-                                        <li class="top-five-item">
-                                            <a href="/category/youtube" class="top-five-item-category">YouTube</a> 
-                                            <a href="https://air.io/en/youtube/18-great-content-ideas-for-your-kids-youtube-channel" class="title top-five-item-title">18 Great Content Ideas for Your Kids YouTube Channel</a> 
-                                            <p class=" article-info-text text-gray"><span>19.06.2021</span> <span class="text-point-before">14 min</span></p>
-                                        </li> 
-                                    </ul>
-                                </div> 
-                               
-                                <div class="gray-box social-share">
-                                    <div>
-                                        <div class="social-wrapper">
-                                            <p class="title social-title">Share it:</p> 
-                                            
+                                    <p class="title">Top-5 articles</p>
+                                    <div class="post-item">
+                                        <div class="cat-title">
+                                            <a href="{{ route('blog') }}">YouTube</a>
                                         </div>
-                                    </div>
-                                </div>
+                                        <div class="post-title">
+                                            <a href="{{ route('latest-updates') }}">
+                                                Latest Updates by YouTube: What You Need to Know
+                                            </a>
+                                        </div>
+                                        <div class="footer-creds">
+                                            2023.03.12 -- 7 min read
+                                        </div>
+                                    </div> 
+                                </div> 
                             </div>
                         </div>
                     </div>
@@ -218,6 +195,10 @@
             line-height: 120%;
             margin-bottom: 16px;
         }
+        .sidebar {
+            padding-left: 10px;
+            background-color: #f9f9f9;
+        }
     }
     .sidebar .gray-box {
         position: relative;
@@ -279,5 +260,9 @@
     }
     .social-share .social-panel {
         margin-left: 10px;
+    }
+    .sidebar {
+        padding-left: 50px;
+        background-color: #f9f9f9;
     }
 </style>
