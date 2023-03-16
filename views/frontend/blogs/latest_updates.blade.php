@@ -30,19 +30,19 @@
                     </div>
                     <p>
                         As one of the most popular video-sharing platforms in the world, YouTube is constantly updating its features and policies to better serve its users. Whether you're a content creator or a casual viewer, it's important to stay up-to-date with the latest changes to the platform. In this blog, we'll go over some of the recent updates made by YouTube and how they might impact you.
-        
+                    </p><p>
                         <h5>Removal of Dislike Counts</h5>
                         In November 2021, YouTube removed the public dislike count on videos. This means that viewers can still dislike a video, but the number of dislikes will no longer be publicly visible. According to YouTube, this was done to protect creators from targeted harassment and to promote more constructive feedback. However, some users have expressed concern that it may make it harder to gauge the popularity or quality of a video.
-                        
+                        </p><p>    
                         <h5>Expanded Monetization Eligibility</h5>
                         In December 2021, YouTube announced that it was expanding its Partner Program eligibility requirements. Previously, creators needed 4,000 hours of watch time and 1,000 subscribers within the past 12 months to monetize their content. Now, creators can apply for monetization once they reach 1,000 subscribers and 4,000 hours of watch time in their channel's lifetime. This change aims to make it easier for small creators to start earning money from their content.
-                        
+                        </p><p>
                         <h5>Improved Copyright Claims System</h5>
                         In February 2022, YouTube announced improvements to its copyright claim system. The changes include more information for creators when they receive a claim, as well as new tools to help them resolve disputes. Additionally, YouTube will be providing more transparency around who is making claims and why. These changes aim to reduce the number of false claims and make the process fairer for creators.
-                        
+                        </p><p>
                         <h5>New Video Chapter Feature</h5>
                         In March 2022, YouTube introduced a new feature called Video Chapters. This allows creators to divide their videos into segments with titles and thumbnails, making it easier for viewers to find and skip to the content they're interested in. This feature is available to all creators who upload videos to YouTube, and can be especially helpful for longer videos or tutorials.
-                        
+                        </p><p>
                         <h5>Removal of Community Contributions</h5>
                         Also in March 2022, YouTube announced that it would be removing the Community Contributions feature. This allowed viewers to submit captions and translations for videos, but it was rarely used and had issues with spam and abuse. YouTube has stated that it will still support captioning and translation, but will be exploring new ways to improve the process. <br><br>
                         YouTube is constantly evolving and making changes to improve the user experience for both creators and viewers. By staying up-to-date with the latest updates and features, you can make the most of the platform and adapt your content accordingly. Whether you're a creator or a viewer, these changes are worth keeping an eye on as they may impact how you use and interact with YouTube.
