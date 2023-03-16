@@ -50,59 +50,7 @@
                         <span class="label label-default"> YouTube Channel</span>
                     </div>
                 </div>
-                <div class="col-md-4">
-                    <div class="popular">
-                        <h3>MOST POPULAR</h3>
-                        <hr>
-                        <div class="col-lg-12 col-md-12 mb-4">
-                            <div class="card mp-card">
-                                <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
-                                    <img src="https://mdbootstrap.com/img/new/standard/nature/184.jpg" class="img-fluid" />
-                                    <a href="#!">
-                                    <div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div>
-                                    </a>
-                                </div>
-                                <div class="card-body">
-                                    <h5 class="card-title">Revolutionizing Video Translation: How Metapher Is Meeting The Demands Of The Digital Age</h5>
-                                    
-                                    <a href="#!" class="btn btn-warning btn-block">Read</a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-lg-12 col-md-12 mb-4">
-                            <div class="card mp-card">
-                                <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
-                                    <img src="https://mdbootstrap.com/img/new/standard/nature/023.jpg" class="img-fluid" />
-                                    <a href="#!">
-                                    <div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div>
-                                    </a>
-                                </div>
-                                <div class="card-body">
-                                    <h5 class="card-title">Meta Growth Package: The All-In-One Tool For YouTube Content Creators</h5>
-                                    
-                                    <a href="#!" class="btn btn-warning btn-block">Read</a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-lg-12 col-md-12 mb-4">
-                            <div class="card mp-card">
-                                <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
-                                    <img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" />
-                                    <a href="#!">
-                                    <div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div>
-                                    </a>
-                                </div>
-                                <div class="card-body">
-                                    <h5 class="card-title">Latest Updates By YouTube: What You Need To Know</h5>
-                                    
-                                    <a href="#!" class="btn btn-warning btn-block">Read</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div><div class="col-sm-4">
+                <div class="col-sm-4">
                     <div class="sidebar sidebar-article">
                         <div class="changing-responsive"><!----> 
                             <div class="row-desktop">
