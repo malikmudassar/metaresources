@@ -244,9 +244,9 @@
                         <div class="row-desktop">
                             <div class="gray-box popular" style="margin-top:50px">
                                 <p class="title">Tags</p>
-                                <a href="#" class="tag tag-small"> Metapher</a> <br>
-                                <a href="#" class="tag tag-small"> MetaDB</a> <br>
-                                <a href="#" class="tag tag-small"> YouTube</a> <br>
+                                <a href="#" class="tag tag-small"> Metapher</a> 
+                                <a href="#" class="tag tag-small"> MetaDB</a> 
+                                <a href="#" class="tag tag-small"> YouTube</a> 
                                 <a href="#" class="tag tag-small"> Content</a> <br>
                                 <a href="#" class="tag tag-small"> Youtube Channel</a> <br>
                                 <a href="#" class="tag tag-small"> Database</a> <br>
