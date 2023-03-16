@@ -216,9 +216,11 @@
         padding-bottom: 10x;
     }
     .label-default {
-        background: black;
+        background: #ede9e9;
         border-radius:3px;
         padding: 2px;
+        color: black;
+        margin-left: 5px;
     }
     /* sidebar */
     @media (min-width: 1200px){

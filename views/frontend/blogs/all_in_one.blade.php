@@ -217,9 +217,11 @@
         padding-right: 60x;
     }
     .label-default {
-        background: black;
+        background: #ede9e9;
         border-radius:3px;
         padding: 2px;
+        color: black;
+        margin-left: 5px;
     }
     .post-title {
         padding-right:60px;
