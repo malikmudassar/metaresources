@@ -13,7 +13,7 @@
         <div class="container">
             <div class="row" style="padding-bottom:50px !important">
                 
-                <div class="col-md-8">
+                <div class="col-md-8 article-wrapper">
                     <div class="">
                         <img src="public/markup/img/img-pl.jpg">
                     </div>
@@ -103,6 +103,9 @@
 
 @include('frontend.inc.footer')
 <style>
+    body {
+        font-family: Montserrat,sans-serif;
+    }
    .dark h1 h2 h3 h4 span p {
         color: white;
    }
@@ -186,5 +189,10 @@
     }
     .post-title {
         padding-right:60px;
+    }
+    @media (min-width: 1200px){
+        .article-wrapper {
+            padding-right: 105px;
+        }
     }
 </style>
