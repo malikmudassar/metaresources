@@ -241,7 +241,19 @@
                                 <a href="#" class="popular-link"> Google Ads</a> <br>
                             </div>
                         </div> 
-                        <div>
+                        <div class="row-desktop">
+                            <div class="gray-box popular" style="margin-top:50px">
+                                <p class="title">Tags</p>
+                                <a href="#" class="tag tag-small"> Metapher</a> <br>
+                                <a href="#" class="tag tag-small"> MetaDB</a> <br>
+                                <a href="#" class="tag tag-small"> YouTube</a> <br>
+                                <a href="#" class="tag tag-small"> Content</a> <br>
+                                <a href="#" class="tag tag-small"> Youtube Channel</a> <br>
+                                <a href="#" class="tag tag-small"> Database</a> <br>
+                                <a href="#" class="tag tag-small"> Google Ads</a> <br>
+                            </div>
+                        </div> 
+                    <div>
                             
                         </div>
                     </div>
@@ -338,6 +350,24 @@
         font-size: 16px !important;
         color: #787474;
     }
+    .tag {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        padding: 9px 19px;
+        display: inline-block;
+        margin: 6px 12px 6px 0;
+        float: left;
+    }
+    .tag-small {
+        font-size: 12px;
+        line-height: 15px;
+        padding: 6px 15px;
+        margin: 6px 10px 6px 0;
+        color: #545454;
+        border: 1px solid #b3b6bc;
+        border-radius: 4px;
+    }
     @media (min-width: 1200px){
         .article-item {
             padding-top: 20px;
@@ -413,6 +443,12 @@
             font-size: 14px;
             line-height: 140%;
             margin-top: 16px;
+        }
+        .tag-small {
+            border: none;
+            padding: 6px 14px;
+            background-color: #fafafa;
+            color: #717070;
         }
     }
     a {
