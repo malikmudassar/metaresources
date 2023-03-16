@@ -27,7 +27,7 @@
                                     </a>
                                 </div> 
                                 <p class="item-description">In today's digital age, video content has become increasingly popular across various platforms.</p> 
-                                <p class="item-properties text-gray"><span>27.02.2023</span> <span class="time-to-read text-point-before">7</span> min read</p>
+                                <p class="item-properties text-gray"><span>27.02.2023</span> -- <span class="time-to-read text-point-before">7</span> min read</p>
                             </div>
                         </div> 
                         <div class="article-item">
@@ -45,7 +45,7 @@
                                     As a content creator on YouTube, one of the biggest challenges you face 
                                     is getting your content noticed by a wider audience
                                 </p> 
-                                <p class="item-properties text-gray"><span>10.02.2023</span> <span class="time-to-read text-point-before">4</span> min read</p>
+                                <p class="item-properties text-gray"><span>10.02.2023</span> -- <span class="time-to-read text-point-before">4</span> min read</p>
                             </div>
                         </div> 
                         <div class="article-item">
@@ -63,7 +63,7 @@
                                     If you're a YouTube content creator, you know that earning a significant income 
                                     from your content can be challenging.
                                 </p> 
-                                <p class="item-properties text-gray"><span>27.02.2023</span> <span class="time-to-read text-point-before">7</span> min read</p>
+                                <p class="item-properties text-gray"><span>27.02.2023</span> -- <span class="time-to-read text-point-before">7</span> min read</p>
                             </div>
                         </div> 
                         <div class="article-item">
@@ -81,7 +81,7 @@
                                     As a YouTube content creator, one of the biggest challenges 
                                     you may face is protecting your channel from hacking
                                 </p> 
-                                <p class="item-properties text-gray"><span>10.02.2023</span> <span class="time-to-read text-point-before">4</span> min read</p>
+                                <p class="item-properties text-gray"><span>10.02.2023</span> -- <span class="time-to-read text-point-before">4</span> min read</p>
                             </div>
                         </div> 
                         <div class="article-item">
@@ -99,7 +99,7 @@
                                     As a content creator on YouTube, you put in a lot of time, effort, and creativity to 
                                     produce high-quality videos for your audience.
                                 </p> 
-                                <p class="item-properties text-gray"><span>27.02.2023</span> <span class="time-to-read text-point-before">7</span> min read</p>
+                                <p class="item-properties text-gray"><span>27.02.2023</span> -- <span class="time-to-read text-point-before">7</span> min read</p>
                             </div>
                         </div> 
                         <div class="article-item">
@@ -117,7 +117,7 @@
                                     YouTube has become a popular platform for content creators to 
                                     showcase their talent and earn a living.
                                 </p> 
-                                <p class="item-properties text-gray"><span>10.02.2023</span> <span class="time-to-read text-point-before">4</span> min read</p>
+                                <p class="item-properties text-gray"><span>10.02.2023</span> -- <span class="time-to-read text-point-before">4</span> min read</p>
                             </div>
                         </div> 
                         <div class="article-item">
@@ -135,7 +135,7 @@
                                     YouTube is an enormous platform with countless content 
                                     creators producing videos on a vast range of topics.
                                 </p> 
-                                <p class="item-properties text-gray"><span>27.02.2023</span> <span class="time-to-read text-point-before">7</span> min read</p>
+                                <p class="item-properties text-gray"><span>27.02.2023</span> -- <span class="time-to-read text-point-before">7</span> min read</p>
                             </div>
                         </div> 
                         <div class="article-item">
@@ -153,7 +153,7 @@
                                     As one of the most popular video-sharing platforms in the world, 
                                     YouTube is constantly updating its features and policies
                                 </p> 
-                                <p class="item-properties text-gray"><span>10.02.2023</span> <span class="time-to-read text-point-before">4</span> min read</p>
+                                <p class="item-properties text-gray"><span>10.02.2023</span> -- <span class="time-to-read text-point-before">4</span> min read</p>
                             </div>
                         </div> 
                 </section>
