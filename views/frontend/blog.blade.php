@@ -227,23 +227,20 @@
                 </div> -->
                 <div class="col-md-3 col-md-offset-1 col-lg-offset-0 col-lg-4 ">
                     <div class="sidebar">
-                        <div class="changing-responsive"><!----> 
-                            <div class="row-desktop">
-                                <div class="gray-box popular">
-                                    <p class="title">Trending</p>
-                                    <a href="#" class="popular-link"> Metapher</a> <br>
-                                    <a href="#" class="popular-link"> YouTube</a> <br>
-                                    <a href="#" class="popular-link"> MetaDB</a> <br>
-                                    <a href="#" class="popular-link"> Content Growth</a> <br>
-                                    <a href="#" class="popular-link"> Youtube Channel</a> <br>
-                                    <a href="#" class="popular-link"> Earn More</a> <br>
-                                    <a href="#" class="popular-link"> Translate</a> <br>
-                                    <a href="#" class="popular-link"> CTP </a> <br>
-                                    <a href="#" class="popular-link"> Google Ads</a> <br>
-                                </div>
-                            </div> 
-                           
-                        <div>
+                        <div class="row-desktop">
+                            <div class="gray-box popular">
+                                <p class="title">Trending</p>
+                                <a href="#" class="popular-link"> Metapher</a> <br>
+                                <a href="#" class="popular-link"> YouTube</a> <br>
+                                <a href="#" class="popular-link"> MetaDB</a> <br>
+                                <a href="#" class="popular-link"> Content Growth</a> <br>
+                                <a href="#" class="popular-link"> Youtube Channel</a> <br>
+                                <a href="#" class="popular-link"> Earn More</a> <br>
+                                <a href="#" class="popular-link"> Translate</a> <br>
+                                <a href="#" class="popular-link"> CTP </a> <br>
+                                <a href="#" class="popular-link"> Google Ads</a> <br>
+                            </div>
+                        </div> 
                     </div>
                     <div class="row-desktop">
                         <div class="gray-box popular" style="margin-top:50px">
@@ -257,10 +254,6 @@
                             <a href="#" class="tag tag-small"> Google Ads</a> 
                         </div>
                     </div> 
-                        
-                            
-                        </div>
-                    </div>
                 </div>
             </div>
         </div>
