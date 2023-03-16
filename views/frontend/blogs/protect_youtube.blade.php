@@ -253,7 +253,7 @@
         padding: 2px;
     }
     h5 {
-        margin-top:25px;
+        margin-top:50px;
     }
     /* sidebar */
     @media (min-width: 1200px){
