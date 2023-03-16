@@ -23,7 +23,7 @@
                                 <a href="#" class="item-category">Translation</a> 
                                 <div class="item-heading">
                                     <a href="{{ route('revolution') }}" class="title item-title">
-                                        Preventing YouTube Disasters: Meta Safety's Range of Services for Content Creators
+                                        Revolutionizing Video Translation: How Metapher Is Meeting The Demands Of The Digital Age
                                     </a>
                                 </div> 
                                 <p class="item-description">In today's digital age, video content has become increasingly popular across various platforms.</p> 
