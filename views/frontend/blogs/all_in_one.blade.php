@@ -67,7 +67,59 @@
                                             </a>
                                         </div>
                                         <div class="footer-creds">
-                                            2023.03.12 -- 7 min read
+                                            27.02.2023 -- 7 min read
+                                        </div>
+                                    </div> 
+                                    <div class="post-item">
+                                        <div class="cat-title">
+                                            <a href="{{ route('blog') }}">Translate</a>
+                                        </div>
+                                        <div class="post-title">
+                                            <a href="{{ route('revolution') }}">
+                                                Preventing YouTube Disasters: Meta Safety's Range of Services for Content Creators
+                                            </a>
+                                        </div>
+                                        <div class="footer-creds">
+                                            27.02.2023 7 min read
+                                        </div>
+                                    </div> 
+                                    <div class="post-item">
+                                        <div class="cat-title">
+                                            <a href="{{ route('blog') }}">Meta Creator</a>
+                                        </div>
+                                        <div class="post-title">
+                                            <a href="{{ route('all-in-one') }}">
+                                                The All-in-One Tool for YouTube Content Creators
+                                            </a>
+                                        </div>
+                                        <div class="footer-creds">
+                                            10.02.2023 4 min read
+                                        </div>
+                                    </div> 
+                                    <div class="post-item">
+                                        <div class="cat-title">
+                                            <a href="{{ route('blog') }}">Meta Creator</a>
+                                        </div>
+                                        <div class="post-title">
+                                            <a href="{{ route('earn-more') }}">
+                                                How Meta Income Can Help You Earn More
+                                            </a>
+                                        </div>
+                                        <div class="footer-creds">
+                                            27.02.2023 7 min read
+                                        </div>
+                                    </div> 
+                                    <div class="post-item">
+                                        <div class="cat-title">
+                                            <a href="{{ route('blog') }}">Meta Creator</a>
+                                        </div>
+                                        <div class="post-title">
+                                            <a href="{{ route('protect-youtube-channels') }}">
+                                                5+ services that help protect YouTube channels and resolve Copyright Strikes
+                                            </a>
+                                        </div>
+                                        <div class="footer-creds">
+                                            10.02.2023 4 min read
                                         </div>
                                     </div> 
                                 </div> 
