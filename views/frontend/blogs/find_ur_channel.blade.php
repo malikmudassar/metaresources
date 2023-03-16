@@ -13,9 +13,9 @@
         <div class="row" style="padding-bottom:50px !important">
             <div class="col-xs-12">
                 <div class="breadcrumps">
-                    <a href="{{ route() }}" class="link-item">Metapher</a> 
-                    <a href="{{ route() }}" class="link-item">Blog</a> 
-                    <a href="{{ route() }}" class="link-item link-item-category">Translation</a>
+                    <a href="{{ route('home') }}" class="link-item">Metapher</a> 
+                    <a href="{{ route('blog') }}" class="link-item">Blog</a> 
+                    <a href="{{ route('blog') }}" class="link-item link-item-category">Translation</a>
                 </div>
             </div>
             <div class="col-md-8 article-wrapper">
