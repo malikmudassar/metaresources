@@ -10,7 +10,7 @@
 <!---------------------- Blog SEC -------------------->
 <section class="dark" style="">
     <div class="p-5 posts">
-        <div class="container"></div>
+        <div class="container">
             <div class="col-xs-12">
                 <div class="breadcrumps">
                     <a href="{{ route('home') }}" class="link-item">Metapher</a> 
@@ -23,10 +23,11 @@
             <div class="row" style="padding-bottom:50px !important">
                 
                 <div class="col-md-8 article-wrapper">
+                   
+                    <h3>Beyond YouTube Monetization: How Meta Income Can Help You Earn More.</h3>
                     <div class="">
                         <img src="public/markup/img/img-pl.jpg">
                     </div>
-                    <h3>Beyond YouTube Monetization: How Meta Income Can Help You Earn More.</h3>
                     <p>
                         If you're a YouTube content creator, you know that earning a significant income from your content can be challenging. While YouTube provides monetization options, such as advertising revenue and sponsorships, these methods may not always be sufficient to generate a stable income stream. This is where Meta Income comes in – an innovative platform that can help you increase your revenue with minimal effort.
                     </p>

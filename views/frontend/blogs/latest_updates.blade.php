@@ -23,10 +23,11 @@
             <div class="row" style="padding-bottom:50px !important">
                 
                 <div class="col-md-8 article-wrapper">
+                    
+                    <h3>Latest Updates by YouTube: What You Need to Know.</h3>
                     <div class="">
                         <img src="public/markup/img/img-pl.jpg">
                     </div>
-                    <h3>Latest Updates by YouTube: What You Need to Know.</h3>
                     <p>
                         As one of the most popular video-sharing platforms in the world, YouTube is constantly updating its features and policies to better serve its users. Whether you're a content creator or a casual viewer, it's important to stay up-to-date with the latest changes to the platform. In this blog, we'll go over some of the recent updates made by YouTube and how they might impact you.
         

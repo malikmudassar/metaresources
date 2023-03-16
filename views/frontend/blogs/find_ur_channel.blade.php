@@ -23,10 +23,11 @@
             <div class="row" style="padding-bottom:50px !important">
                 
                 <div class="col-md-8 article-wrapper">
+                    
+                    <h3>MetaDb: The Ultimate Guide to Finding Your Perfect YouTube Channel.</h3>
                     <div class="">
                         <img src="public/markup/img/img-pl.jpg">
                     </div>
-                    <h3>MetaDb: The Ultimate Guide to Finding Your Perfect YouTube Channel.</h3>
                     <p>
                         YouTube is an enormous platform with countless content creators producing videos on a vast range of topics. With so much content available, it can be challenging to find the channels that align with your interests. Fortunately, MetaDb offers a solution with their IMDb-like platform that catalogues <b>over 1500 YouTube content creators.</b><br><br>
         

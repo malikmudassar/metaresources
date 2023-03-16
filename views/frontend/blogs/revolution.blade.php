@@ -22,10 +22,11 @@
             </div>
             <div class="row" style="padding-bottom:50px !important">
                 <div class="col-md-8 article-wrapper">
+                   
+                    <h3>Revolutionizing Video Translation: How Metapher Is Meeting The Demands Of The Digital Age</h3>
                     <div class="">
                         <img src="public/markup/img/img-pl.jpg">
                     </div>
-                    <h3>Revolutionizing Video Translation: How Metapher Is Meeting The Demands Of The Digital Age</h3>
                     <p>In today's digital age, video content has become increasingly popular across various platforms, and the demand for video translation services has skyrocketed. Video translation is essential for creators, businesses, and organisations that want to expand their audience and reach out to a global market. However, finding a reliable and customised video translation service can be a challenging task.</p>
                     <p>
                         The problem with traditional video translation services is that they provide a one-size-fits-all solution, which often results in inaccurate translations and a loss of the original message's intent. Furthermore, most services don't provide an all-in-one solution, which can lead to a fragmented video production process, making it challenging to meet tight deadlines and create a coherent final product.

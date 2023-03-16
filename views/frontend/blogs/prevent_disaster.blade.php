@@ -23,10 +23,11 @@
             <div class="row" style="padding-bottom:50px !important">
                 
                 <div class="col-md-8 article-wrapper">
+                    
+                    <h3>Preventing YouTube Disasters: Meta Safety's Range of Services for Content Creators.</h3>
                     <div class="">
                         <img src="public/markup/img/img-pl.jpg">
                     </div>
-                    <h3>Preventing YouTube Disasters: Meta Safety's Range of Services for Content Creators.</h3>
                     <p>
                         As a content creator on YouTube, you put in a lot of time, effort, and creativity to produce high-quality videos for your audience. However, with the increasing popularity of YouTube, comes the risk of copyright infringement and other threats to your channel's safety.<br><br>
                         

@@ -22,10 +22,11 @@
             </div>
             <div class="row" style="padding-bottom:50px !important">
                 <div class="col-md-8 article-wrapper">
+                   
+                    <h3>Meta Support: 5+ services that help protect YouTube channels and resolve Copyright Strikes.</h3>
                     <div class="">
                         <img src="public/markup/img/img-pl.jpg">
                     </div>
-                    <h3>Meta Support: 5+ services that help protect YouTube channels and resolve Copyright Strikes.</h3>
                     <p>
                         As a YouTube content creator, one of the biggest challenges you may face is protecting your channel from hacking attacks and copyright strikes. These issues can be devastating for your channel and your business. However, with the help of Meta Support, you can rest assured that your channel is in good hands. In this blog, we will explore the various services provided by Meta Support that can help protect your YouTube channel and resolve copyright strikes.<br><br>
                         

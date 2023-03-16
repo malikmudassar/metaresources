@@ -24,10 +24,11 @@
                 
             
                 <div class="col-md-8 article-wrapper">
+                    
+                    <h3>Maximising Your YouTube Potential: The Benefits of Meta Boost for Content Creators.</h3>
                     <div class="">
                         <img src="public/markup/img/img-pl.jpg">
                     </div>
-                    <h3>Maximising Your YouTube Potential: The Benefits of Meta Boost for Content Creators.</h3>
                     <p>
                         YouTube has become a popular platform for content creators to showcase their talent and earn a living. However, with the growing competition, it has become challenging for new creators to boost their presence and gain a substantial following. The content quality alone cannot guarantee success on YouTube. A creator must also focus on several other aspects to grow their channel, including channel metrics, trends, audience analysis, competitor analysis, and channel design. This is where Meta Boost comes in to empower content creators.<br><br>
                         
