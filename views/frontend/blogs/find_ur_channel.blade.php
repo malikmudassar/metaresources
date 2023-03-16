@@ -17,7 +17,7 @@
                     <img src="public/markup/img/right-arrow.png">
                     <a href="{{ route('blog') }}" class="link-item">Blog</a> 
                     <img src="public/markup/img/right-arrow.png">
-                    <a href="{{ route('blog') }}" class="link-item link-item-category">Translation</a>
+                    <a href="{{ route('blog') }}" class="link-item link-item-category">Meta Creators</a>
                 </div>
             </div>
             <div class="row" style="padding-bottom:50px !important">
