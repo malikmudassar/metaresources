@@ -244,70 +244,73 @@
                             </div>
                         </div> 
                         <div class="article-item">
-                            <a href="{{ route('revolution') }}" class="image-wrapper">
+                            <a href="{{ route('prevent-youtube-disaster') }}" class="image-wrapper">
                                 <img src="public/markup/img/img-pl.jpg" alt="Monetizing YouTube Shorts: What You Need to Know">
                             </a> 
                             <div class="text-wrapper">
                                 <a href="#" class="item-category">YouTube</a> 
                                 <div class="item-heading">
-                                    <a href="{{ route('revolution') }}" class="title item-title">
+                                    <a href="{{ route('prevent-youtube-disaster') }}" class="title item-title">
                                         Preventing YouTube Disasters: Meta Safety's Range of Services for Content Creators
                                     </a>
                                 </div> 
-                                <p class="item-description">In today's digital age, video content has become increasingly popular across various platforms.</p> 
-                                <p class="item-properties text-gray"><span>27.02.2023</span> <span class="time-to-read text-point-before">7</span> min read</p>
-                            </div>
-                        </div> 
-                        <div class="article-item">
-                            <a href="{{ route('all-in-one') }}" class="image-wrapper">
-                                <img src="https://air.io/storage/0aEf4iWQH4YCK3fsE4q6Sdm5Pv7O8Tz5E87vqOfv.jpg" alt="Five Reasons We’re Really Looking Forward to the 2023 Insomnia Egypt Gaming Festival">
-                            </a> 
-                            <div class="text-wrapper">
-                                <a href="#" class="item-category">YouTube</a> 
-                                <div class="item-heading">
-                                    <a href="{{ route('all-in-one') }}" class="title item-title">
-                                        Meta Growth Package: The All-in-One Tool for YouTube Content Creators
-                                    </a>
-                                </div> 
                                 <p class="item-description">
-                                    As a content creator on YouTube, one of the biggest challenges you face 
-                                    is getting your content noticed by a wider audience
-                                </p> 
-                                <p class="item-properties text-gray"><span>10.02.2023</span> <span class="time-to-read text-point-before">4</span> min read</p>
-                            </div>
-                        </div> 
-                        <div class="article-item">
-                            <a href="{{ route('earn-more') }}" class="image-wrapper">
-                                <img src="public/markup/img/img-pl.jpg" alt="Monetizing YouTube Shorts: What You Need to Know">
-                            </a> 
-                            <div class="text-wrapper">
-                                <a href="#" class="item-category">YouTube</a> 
-                                <div class="item-heading">
-                                    <a href="{{ route('earn-more') }}" class="title item-title">
-                                    Beyond YouTube Monetization: How Meta Income Can Help You Earn More
-                                    </a>
-                                </div> 
-                                <p class="item-description">
-                                    If you're a YouTube content creator, you know that earning a significant income 
-                                    from your content can be challenging.
+                                    As a content creator on YouTube, you put in a lot of time, effort, and creativity to 
+                                    produce high-quality videos for your audience.
                                 </p> 
                                 <p class="item-properties text-gray"><span>27.02.2023</span> <span class="time-to-read text-point-before">7</span> min read</p>
                             </div>
                         </div> 
                         <div class="article-item">
-                            <a href="{{ route('protect-youtube-channels') }}" class="image-wrapper">
+                            <a href="{{ route('max-youtube-potential') }}" class="image-wrapper">
                                 <img src="public/markup/img/img-pl.jpg" alt="Five Reasons We’re Really Looking Forward to the 2023 Insomnia Egypt Gaming Festival">
                             </a> 
                             <div class="text-wrapper">
                                 <a href="#" class="item-category">YouTube</a> 
                                 <div class="item-heading">
-                                    <a href="{{ route('protect-youtube-channels') }}" class="title item-title">
-                                        Meta Support: 5+ services that help protect YouTube channels and resolve Copyright Strikes
+                                    <a href="{{ route('max-youtube-potential') }}" class="title item-title">
+                                        Maximising Your YouTube Potential: The Benefits of Meta Boost for Content Creators
                                     </a>
                                 </div> 
                                 <p class="item-description">
-                                    As a YouTube content creator, one of the biggest challenges 
-                                    you may face is protecting your channel from hacking
+                                    YouTube has become a popular platform for content creators to 
+                                    showcase their talent and earn a living.
+                                </p> 
+                                <p class="item-properties text-gray"><span>10.02.2023</span> <span class="time-to-read text-point-before">4</span> min read</p>
+                            </div>
+                        </div> 
+                        <div class="article-item">
+                            <a href="{{ route('find-ur-youtube-channel') }}" class="image-wrapper">
+                                <img src="public/markup/img/img-pl.jpg" alt="Monetizing YouTube Shorts: What You Need to Know">
+                            </a> 
+                            <div class="text-wrapper">
+                                <a href="#" class="item-category">YouTube</a> 
+                                <div class="item-heading">
+                                    <a href="{{ route('find-ur-youtube-channel') }}" class="title item-title">
+                                        MetaDb: The Ultimate Guide to Finding Your Perfect YouTube Channel
+                                    </a>
+                                </div> 
+                                <p class="item-description">
+                                    YouTube is an enormous platform with countless content 
+                                    creators producing videos on a vast range of topics.
+                                </p> 
+                                <p class="item-properties text-gray"><span>27.02.2023</span> <span class="time-to-read text-point-before">7</span> min read</p>
+                            </div>
+                        </div> 
+                        <div class="article-item">
+                            <a href="{{ route('latest-updates') }}" class="image-wrapper">
+                                <img src="public/markup/img/img-pl.jpg" alt="Five Reasons We’re Really Looking Forward to the 2023 Insomnia Egypt Gaming Festival">
+                            </a> 
+                            <div class="text-wrapper">
+                                <a href="#" class="item-category">YouTube</a> 
+                                <div class="item-heading">
+                                    <a href="{{ route('latest-updates') }}" class="title item-title">
+                                        Latest Updates by YouTube: What You Need to Know
+                                    </a>
+                                </div> 
+                                <p class="item-description">
+                                    As one of the most popular video-sharing platforms in the world, 
+                                    YouTube is constantly updating its features and policies
                                 </p> 
                                 <p class="item-properties text-gray"><span>10.02.2023</span> <span class="time-to-read text-point-before">4</span> min read</p>
                             </div>
