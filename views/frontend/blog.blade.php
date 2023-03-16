@@ -330,7 +330,6 @@
     }
     .sidebar {
         background-color: #fbfbfb;
-        margin-left:50px;
     }
     .title {
         font-family: Montserrat,sans-serif;
