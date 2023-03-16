@@ -51,54 +51,48 @@
                         <span class="label label-default">Growth Content</span>
                     </div>
                 </div>
-                <div class="col-md-4">
-                    <div class="popular">
-                        <h3>MOST POPULAR</h3>
-                        <hr>
-                        <div class="col-lg-12 col-md-12 mb-4">
-                            <div class="card mp-card">
-                                <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
-                                    <img src="https://mdbootstrap.com/img/new/standard/nature/184.jpg" class="img-fluid" />
-                                    <a href="#!">
-                                    <div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div>
-                                    </a>
-                                </div>
-                                <div class="card-body">
-                                    <h5 class="card-title">Revolutionizing Video Translation: How Metapher Is Meeting The Demands Of The Digital Age</h5>
-                                    
-                                    <a href="#!" class="btn btn-warning btn-block">Read</a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-lg-12 col-md-12 mb-4">
-                            <div class="card mp-card">
-                                <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
-                                    <img src="https://mdbootstrap.com/img/new/standard/nature/023.jpg" class="img-fluid" />
-                                    <a href="#!">
-                                    <div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div>
-                                    </a>
-                                </div>
-                                <div class="card-body">
-                                    <h5 class="card-title">Meta Growth Package: The All-In-One Tool For YouTube Content Creators</h5>
-                                    
-                                    <a href="#!" class="btn btn-warning btn-block">Read</a>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-lg-12 col-md-12 mb-4">
-                            <div class="card mp-card">
-                                <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
-                                    <img src="https://mdbootstrap.com/img/new/standard/nature/111.jpg" class="img-fluid" />
-                                    <a href="#!">
-                                    <div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div>
-                                    </a>
-                                </div>
-                                <div class="card-body">
-                                    <h5 class="card-title">Latest Updates By YouTube: What You Need To Know</h5>
-                                    
-                                    <a href="#!" class="btn btn-warning btn-block">Read</a>
+                <div class="col-sm-4">
+                    <div class="sidebar sidebar-article">
+                        <div class="changing-responsive"><!----> 
+                            <div class="row-desktop">
+                                <div class="gray-box top-five">
+                                    <p class="title">Top-5 articles</p> 
+                                    <ul class="top-five-items-list">
+                                        <li class="top-five-item">
+                                            <a href="/category/youtube" class="top-five-item-category">YouTube</a> 
+                                            <a href="https://air.io/en/youtube/18-great-content-ideas-for-your-kids-youtube-channel" class="title top-five-item-title">18 Great Content Ideas for Your Kids YouTube Channel</a> 
+                                            <p class=" article-info-text text-gray"><span>19.06.2021</span> <span class="text-point-before">14 min</span></p>
+                                        </li> 
+                                        <li class="top-five-item">
+                                            <a href="/category/youtube" class="top-five-item-category">YouTube</a> 
+                                            <a href="https://air.io/en/youtube/18-great-content-ideas-for-your-kids-youtube-channel" class="title top-five-item-title">18 Great Content Ideas for Your Kids YouTube Channel</a> 
+                                            <p class=" article-info-text text-gray"><span>19.06.2021</span> <span class="text-point-before">14 min</span></p>
+                                        </li> 
+                                        <li class="top-five-item">
+                                            <a href="/category/youtube" class="top-five-item-category">YouTube</a> 
+                                            <a href="https://air.io/en/youtube/18-great-content-ideas-for-your-kids-youtube-channel" class="title top-five-item-title">18 Great Content Ideas for Your Kids YouTube Channel</a> 
+                                            <p class=" article-info-text text-gray"><span>19.06.2021</span> <span class="text-point-before">14 min</span></p>
+                                        </li> 
+                                        <li class="top-five-item">
+                                            <a href="/category/youtube" class="top-five-item-category">YouTube</a> 
+                                            <a href="https://air.io/en/youtube/18-great-content-ideas-for-your-kids-youtube-channel" class="title top-five-item-title">18 Great Content Ideas for Your Kids YouTube Channel</a> 
+                                            <p class=" article-info-text text-gray"><span>19.06.2021</span> <span class="text-point-before">14 min</span></p>
+                                        </li> 
+                                        <li class="top-five-item">
+                                            <a href="/category/youtube" class="top-five-item-category">YouTube</a> 
+                                            <a href="https://air.io/en/youtube/18-great-content-ideas-for-your-kids-youtube-channel" class="title top-five-item-title">18 Great Content Ideas for Your Kids YouTube Channel</a> 
+                                            <p class=" article-info-text text-gray"><span>19.06.2021</span> <span class="text-point-before">14 min</span></p>
+                                        </li> 
+                                    </ul>
+                                </div> 
+                               
+                                <div class="gray-box social-share">
+                                    <div>
+                                        <div class="social-wrapper">
+                                            <p class="title social-title">Share it:</p> 
+                                            
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -201,9 +195,89 @@
     .post-title {
         padding-right:60px;
     }
+    /* sidebar */
     @media (min-width: 1200px){
         .article-wrapper {
             padding-right: 105px;
         }
+        .top-five {
+            padding-top: 58px;
+            padding-bottom: 68px;
+            padding-right: 50px;
+            margin-bottom: 60px;
+        }
+        .top-five .title {
+            font-size: 24px;
+            line-height: 120%;
+            margin-bottom: 40px;
+        }
+    }
+    @media (min-width: 768px){
+        .top-five .title {
+            font-size: 16px;
+            line-height: 120%;
+            margin-bottom: 16px;
+        }
+    }
+    .sidebar .gray-box {
+        position: relative;
+    }
+    .top-five {
+        padding: 43px 0 23px;
+    }
+    .top-five .title {
+        font-size: 26px;
+        margin-bottom: 36px;
+    }
+    .title {
+        font-family: Montserrat,sans-serif;
+        font-style: normal;
+        font-weight: 700;
+        color: #1e1e1e;
+        font-size: 14px;
+        line-height: 120%;
+        background-color: transparent;
+        text-align: initial;
+    }
+    .top-five .top-five-items-list {
+        padding: 0;
+        margin: 0;
+    }
+    .top-five .top-five-item {
+        list-style: none;
+        padding: 0;
+        margin: 0 0 30px;
+    }
+    .social-share .social-wrapper {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-orient: horizontal;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+        flex-direction: row;
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+        -webkit-box-pack: start;
+        -ms-flex-pack: start;
+        justify-content: flex-start;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+        padding-top: 22px;
+        padding-bottom: 22px;
+    }
+    .social-share .social-title {
+        font-size: 13px;
+        line-height: 120%;
+        margin-bottom: 0;
+    }
+    .social-wrapper .social-panel {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+    }
+    .social-share .social-panel {
+        margin-left: 10px;
     }
 </style>
