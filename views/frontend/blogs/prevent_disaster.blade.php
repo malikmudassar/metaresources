@@ -196,8 +196,9 @@
     }
     p {
         text-align: justify;
-        font-size: 14px;
-        padding-top: 10px; 
+        font-size: 16px;
+        padding-top: 20px;
+        line-height: 2rem;
         padding-bottom: 10x;
     }
     .label-default {

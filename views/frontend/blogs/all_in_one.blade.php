@@ -189,7 +189,8 @@
     p {
         text-align: justify;
         font-size: 16px;
-        padding-top: 25px;
+        padding-top: 20px;
+        line-height: 2rem;
         padding-right: 60x;
     }
     .label-default {
