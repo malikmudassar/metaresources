@@ -59,6 +59,7 @@
                         <span class="label label-default">YouTube</span>
                         <span class="label label-default">Video Content</span>
                     </div>
+                    @include('frontend.inc.comment')
                 </div>
                 <!-- <div class="col-md-4">
                     <div class="popular">
@@ -190,7 +191,6 @@
                     </div>
                 </div>
             </div>
-            @include('frontend.inc.comment')
         </div>
     </div>
 </section>
