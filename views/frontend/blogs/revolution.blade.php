@@ -193,6 +193,7 @@
         </div>
     </div>
 </section>
+@include('frontend.inc.comment')
 @include('frontend.inc.newsletter')
 <!------------------- FOOTER-SEC ---------------------->
 

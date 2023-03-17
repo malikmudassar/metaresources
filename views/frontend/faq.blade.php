@@ -25,14 +25,27 @@
                     <li class="faq-list__item">
                         <h3 class="faq-list__title">What is Metapher Creator Ecosystem?</h3>
                         <div class="faq-list__desc-container">
-                            <div class="faq-list__desc">Metapher creator ecosystem is suit of services we aim to provide to creators to unleash unlimited growth potential and bring revenue & subscribers growth.</div>
+                            <div class="faq-list__desc">
+                                Metapher Creator Ecosystem offers tools and services we provide to creators so that they can unleash their unlimited potential and help them with organic growth and revenue generation.
+                            </div>
                              
                         </div>
                     </li>
                     <li class="faq-list__item">
-                        <h3 class="faq-list__title">Is it legit?</h3>
+                        <h3 class="faq-list__title"> What are your Products?</h3>
                         <div class="faq-list__desc-container">
-                            <div class="faq-list__desc">Yes. Metapher is a Google Partner. We were a part of the Google Partners Acceleration Program. We only use Google Ads to promote your channel. It is the only way to place your ads directly on YouTube. Our promotion is 100% legit and doesn’t violate YouTube’s terms and conditions.</div>
+                            <div class="faq-list__desc">
+                                Our products include Meta Creators, Meta Translate and MetaDb. For more details, refer to our website
+                            </div>
+                             
+                        </div>
+                    </li>
+                    <li class="faq-list__item">
+                        <h3 class="faq-list__title">How much does it Cost?</h3>
+                        <div class="faq-list__desc-container">
+                            <div class="faq-list__desc">
+                            We offer customized pricing based on the requirements of clients.
+                            </div>
                              
                         </div>
                     </li>
@@ -43,13 +56,7 @@
                              
                         </div>
                     </li>
-                    <li class="faq-list__item">
-                        <h3 class="faq-list__title">How much does it Cost?</h3>
-                        <div class="faq-list__desc-container">
-                            <div class="faq-list__desc">Our algorithm and Google Ads algorithm need time to learn. If we spend your balance in one day, we may not get you the results you are looking for.</div>
-                             
-                        </div>
-                    </li>
+                    
                     <li class="faq-list__item">
                         <h3 class="faq-list__title">How can I get Insights about my channel?</h3>
                         <div class="faq-list__desc-container">
