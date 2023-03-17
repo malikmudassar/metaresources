@@ -11,10 +11,10 @@
                         <span><img src="public/markup/img/wygi1.png"></span>
                     </div>
                     <ul class="">
+                        <li>21+ Essential Services & Tools for Youtube content creators</li>
+                        <li>Youtube Channel Management & Growth Strategy</li>
                         <li>Content-id Management & Copyright Strike Resolution</li>
                         <li>Youtube Channel Audit & Channel Development Program</li>
-                        <li>Cross-platform Content Distribution & Brand Deals</li>
-                        <li>Cross-platform Content Distribution & Brand Deals</li>
                         <li>Cross-platform Content Distribution & Brand Deals</li>
                         <li>One-to-one Personal Assistance for Channel Growth & Query Resolution</li>
                     </ul>
