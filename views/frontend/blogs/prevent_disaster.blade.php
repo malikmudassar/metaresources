@@ -59,6 +59,7 @@
                         <span class="label label-default">Copyright </span>
                         <span class="label label-default">Content Creator</span>
                     </div>
+                    @include('frontend.inc.comment')
                 </div>
                 <div class="col-sm-4">
                     <div class="sidebar sidebar-article">

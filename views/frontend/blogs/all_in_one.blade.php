@@ -50,6 +50,7 @@
                         <span class="label label-default">YouTube</span>
                         <span class="label label-default">Growth Content</span>
                     </div>
+                    @include('frontend.inc.comment')
                 </div>
                 <div class="col-sm-4">
                     <div class="sidebar sidebar-article">

@@ -81,6 +81,7 @@
                         <span class="label label-default">Resolution</span>
                         <span class="label label-default">Content</span>
                     </div>
+                    @include('frontend.inc.comment')
                 </div>
                 <div class="col-sm-4">
                     <div class="sidebar sidebar-article">
