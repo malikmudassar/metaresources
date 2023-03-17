@@ -29,10 +29,12 @@
                         <span><img src="public/markup/img/wygi2.png"></span>
                     </div>
                     <ul class="">
-                        <li>Content-id Management & Copyright Strike Resolution</li>
-                        <li>Youtube Channel Audit & Channel Development Program</li>
-                        <li>Cross-platform Content Distribution & Brand Deals</li>
-                        <li>One-to-one Personal Assistance for Channel Growth & Query Resolution</li>
+                        <li>Content Translation & Dubbing</li>
+                        <li>Content Strategy for new region & language</li>
+                        <li>Subtitles in Regional language</li>
+                        <li>Complete video in Regional language</li>
+                        <li>Trend-Analysis for the region</li>
+                        <li>Location of Metadata</li>
                         
                     </ul>
                     <div class="btngroups mt-0 pt-3 joinus-btn">
