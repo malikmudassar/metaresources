@@ -49,11 +49,12 @@
                         <span><img src="public/markup/img/wygi3.png"></span>
                     </div>
                     <ul class="">
-                        <li>Content-id Management & Copyright Strike Resolution</li>
-                        <li>Youtube Channel Audit & Channel Development Program</li>
-                        <li>Cross-platform Content Distribution & Brand Deals</li>
-                        <li>One-to-one Personal Assistance for Channel Growth & Query Resolution</li>
-                        
+                        <li>World's Largest Database of Youtube Channels</li>
+                        <li>1500+ Curated Youtube Channels</li>
+                        <li>120+ Categories in 40+ Languages</li>
+                        <li>20+ Trending Channels</li>
+                        <li>User-Recommended Database Updation</li>
+                        <li>Channel Promotion</li>
                     </ul>
                     <div class="btngroups mt-0 pt-3 joinus-btn">
                         <button class="btn-primary">Join Us</button>
