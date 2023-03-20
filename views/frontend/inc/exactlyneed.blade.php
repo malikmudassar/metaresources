@@ -5,7 +5,7 @@
                 <div class="you-needContent">
                     <h3>What Exactly Do You Need?</h3>
                     <p>To Grown on YouTube Organically</p>
-                    <ul>
+                    <ul style="padding-left: 15px;">
                         <li>How to grow faster on Youtube?</li>
                         <li>How to optimize my videos?</li>
                         <li>How to keep up with the changes on the platform?</li>
