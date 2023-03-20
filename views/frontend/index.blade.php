@@ -50,5 +50,8 @@
             flex: 0 0 45.333333%;
             max-width: 45.333333%;
         }
+        .you-need-sec {
+            height: auto !important;
+        }
     }
 </style>
