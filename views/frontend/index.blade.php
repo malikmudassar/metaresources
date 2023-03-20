@@ -41,14 +41,14 @@
     @media (min-width: 1200px){
         .col-md-4 {
             -ms-flex: 0 0 33.333333%;
-            flex: 0 0 33.333333%;
-            max-width: 33.333333%;
+            flex: 0 0 33.333333%  !important;
+            max-width: 33.333333%  !important;
         }
     }
     @media (min-width: 768px){
         .col-md-4 {
-            flex: 0 0 45.333333% !important;
-            max-width: 45.333333% !important;
+            flex: 0 0 45.333333%;
+            max-width: 45.333333%;
         }
         .you-need-sec {
             height: auto !important;
