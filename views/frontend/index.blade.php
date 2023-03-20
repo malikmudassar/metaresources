@@ -53,5 +53,11 @@
         .you-need-sec {
             height: auto !important;
         }
+        .card {
+            padding: 25px 25px 58px 45px;
+        }
+        .btngroups .btn-primary {
+            padding: 15px 95px !important; 
+        }
     }
 </style>
