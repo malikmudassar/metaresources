@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en"> 
 @include('frontend.inc.head')
-
+<link rel="stylesheet" href="public/markup/css/style.css">
 <body>
 
 <!-------------- HEADER-SEC -------------------->
