@@ -43,7 +43,7 @@
                                     
                                 </div>
                                 <div class="delivered_outer_text">
-                                    <h5 class="card-title">456+</h5>
+                                    <h5 class="card-title">65+</h5>
                                     <p class="card-text">likes</p>
                                 </div>
                             </div>
