@@ -4,9 +4,12 @@
         <div class="row owl-carousel owl-theme">
             <div class="col-md-3 item">
                 <div class="card">
-                    <img src="public/markup/img/Rectangle 45.png" class="card-img-top">
+                    <!-- <img src="public/markup/img/Rectangle 45.png" class="card-img-top"> -->
+                    <iframe src="https://www.youtube.com/embed/0Hafj-1sttk"
+                    title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; 
+                    clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     <div class="cardHeader">
-                        <h6>Channel Name</h6>
+                        <h6>Skininspired</h6>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
                     </div>
                     <div class="card-body">
@@ -23,7 +26,7 @@
                                     </svg>
                                 </div>
                                 <div class="delivered_outer_text">
-                                    <h5 class="card-title">123,456+</h5>
+                                    <h5 class="card-title">27K+</h5>
                                     <p class="card-text">Views</p>
                                 </div>
                             </div>
@@ -53,7 +56,7 @@
                                     </svg>
                                 </div>
                                 <div class="delivered_outer_text">
-                                    <h5 class="card-title">1456+</h5>
+                                    <h5 class="card-title">1.98K</h5>
                                     <p class="card-text">Subcribes</p>
                                 </div>
                             </div>
