@@ -240,6 +240,6 @@
 </section>
 <style>
 .col-md-3 .item {
-    min-height: 332px !important;
+    
 }
 </style>
