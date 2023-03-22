@@ -19,5 +19,6 @@
             </div>
             <div class="offset-6"></div>
         </div>
+        <div class="hero-bg-small"></div>
     </div>
 </section>
