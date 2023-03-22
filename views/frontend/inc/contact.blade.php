@@ -43,7 +43,9 @@
                             <textarea class="form-control" id="inputMessage" rows="6" placeholder="Description" required></textarea>
                         </div>
                         <div class="recapchaimg text-center pt-3">
-                            <img src="public/markup/img/Rectangle 528.png" alt="">
+                        <div>
+                            <iframe title="reCAPTCHA" src="https://www.google.com/recaptcha/api2/anchor?ar=2&amp;k=6LeEByQUAAAAAEQsmEsy72gugz9AXaYuZcC4r1HC&amp;co=aHR0cHM6Ly9haXIuaW86NDQz&amp;hl=en&amp;v=Trd6gj1dhC_fx0ma_AWHc1me&amp;size=normal&amp;cb=ur508d332k9l" width="304" height="78" role="presentation" name="a-fajcs18ctp2x" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox" data-gtm-yt-inspected-1707970_303="true" data-gtm-yt-inspected-1707970_626="true" data-gtm-yt-inspected-13="true"></iframe>
+                        </div>
                         </div>
                         <input type="submit" class="btn-primary m-auto" value="Submit">
                     </form>
