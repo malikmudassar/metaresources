@@ -44,6 +44,10 @@
             flex: 0 0 33.333333%  !important;
             max-width: 33.333333%  !important;
         }
+        
+        .btngroups .btn-primary {
+            padding: 15px 72px !important;
+        }
     }
     @media (min-width: 768px){
         .col-md-4 {
