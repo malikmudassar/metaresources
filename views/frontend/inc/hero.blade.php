@@ -11,10 +11,10 @@
                     <form action="" class="herofieds d-flex">                        
                         <button type="button" class="btn-primary">Become a Meta Creator</button>
                     </form>
-                    <!-- <div class="heroImages mt-3">
+                    <div class="heroImages mt-3">
                         <img src="public/markup/img/Group 3601.png" alt="">
                         <img src="public/markup/img/Group 3602.png" alt="">
-                    </div> -->
+                    </div>
                 </div>
             </div>
             <div class="offset-6"></div>
