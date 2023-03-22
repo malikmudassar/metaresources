@@ -4,13 +4,10 @@
         <div class="row owl-carousel owl-theme">
             <div class="col-md-3 item">
                 <div class="card">
-                    <!-- <img src="public/markup/img/Rectangle 45.png" class="card-img-top"> -->
-                    <iframe src="https://www.youtube.com/embed/0Hafj-1sttk"
-                    title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; 
-                    clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <img src="public/markup/img/vid1.png" class="card-img-top">
                     <div class="cardHeader">
                         <h6>Skininspired</h6>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+                        <p>High-quality informative interviews of board-certified dermatologists every week</p>
                     </div>
                     <div class="card-body">
                         <div class="row delivered_Outer">
@@ -67,10 +64,10 @@
             </div>
             <div class="col-md-3 item">
                 <div class="card">
-                    <img src="public/markup/img/Rectangle 45.png" class="card-img-top">
+                    <img src="public/markup/img/vid2.png" class="card-img-top">
                     <div class="cardHeader">
-                        <h6>Channel Name</h6>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+                        <h6>HB FILMS</h6>
+                        <p>HB Films is a Popular Gujarati Music Label & Production House</p>
                     </div>
                     <div class="card-body">
                         <div class="row delivered_Outer">
@@ -83,7 +80,7 @@
                                     </svg>
                                 </div>
                                 <div class="delivered_outer_text">
-                                    <h5 class="card-title">123,456+</h5>
+                                    <h5 class="card-title">1.2M+</h5>
                                     <p class="card-text">Views</p>
                                 </div>
                             </div>
@@ -100,7 +97,7 @@
                                         
                                 </div>
                                 <div class="delivered_outer_text">
-                                    <h5 class="card-title">456+</h5>
+                                    <h5 class="card-title">91K+</h5>
                                     <p class="card-text">likes</p>
                                 </div>
                             </div>
@@ -113,7 +110,7 @@
                                     </svg>
                                 </div>
                                 <div class="delivered_outer_text">
-                                    <h5 class="card-title">1456+</h5>
+                                    <h5 class="card-title">117K</h5>
                                     <p class="card-text">Subcribes</p>
                                 </div>
                             </div>
@@ -124,10 +121,10 @@
             </div>
             <div class="col-md-3 item">
                 <div class="card">
-                    <img src="public/markup/img/Rectangle 45.png" class="card-img-top">
+                    <img src="public/markup/img/vid3.png" class="card-img-top">
                     <div class="cardHeader">
-                        <h6>Channel Name</h6>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+                        <h6>SURAJ FILM DEESA</h6>
+                        <p>Suraj film foundation is a music recording studio based in deesa</p>
                     </div>
                     <div class="card-body">
                         <div class="row delivered_Outer">
@@ -140,7 +137,7 @@
                                     </svg>
                                 </div>
                                 <div class="delivered_outer_text">
-                                    <h5 class="card-title">123,456+</h5>
+                                    <h5 class="card-title">1.5M+</h5>
                                     <p class="card-text">Views</p>
                                 </div>
                             </div>
@@ -157,7 +154,7 @@
                                         
                                 </div>
                                 <div class="delivered_outer_text">
-                                    <h5 class="card-title">456+</h5>
+                                    <h5 class="card-title">12K+</h5>
                                     <p class="card-text">likes</p>
                                 </div>
                             </div>
@@ -170,7 +167,7 @@
                                     </svg>
                                 </div>
                                 <div class="delivered_outer_text">
-                                    <h5 class="card-title">1456+</h5>
+                                    <h5 class="card-title">48.4K</h5>
                                     <p class="card-text">Subcribes</p>
                                 </div>
                             </div>
@@ -181,10 +178,10 @@
             </div>
             <div class="col-md-3 item">
                 <div class="card">
-                    <img src="public/markup/img/Rectangle 45.png" class="card-img-top">
+                    <img src="public/markup/img/vid4.png" class="card-img-top">
                     <div class="cardHeader">
-                        <h6>Channel Name</h6>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+                        <h6>KAMALDEEP MUSIC</h6>
+                        <p>KM is dedicated to bring an experience of Divine spirituality</p>
                     </div>
                     <div class="card-body">
                         <div class="row delivered_Outer">
@@ -197,7 +194,7 @@
                                     </svg>
                                 </div>
                                 <div class="delivered_outer_text">
-                                    <h5 class="card-title">123,456+</h5>
+                                    <h5 class="card-title">9.1M+</h5>
                                     <p class="card-text">Views</p>
                                 </div>
                             </div>
@@ -214,7 +211,7 @@
                                         
                                 </div>
                                 <div class="delivered_outer_text">
-                                    <h5 class="card-title">456+</h5>
+                                    <h5 class="card-title">64K+</h5>
                                     <p class="card-text">likes</p>
                                 </div>
                             </div>
@@ -227,7 +224,7 @@
                                     </svg>
                                 </div>
                                 <div class="delivered_outer_text">
-                                    <h5 class="card-title">1456+</h5>
+                                    <h5 class="card-title">53.7K</h5>
                                     <p class="card-text">Subcribes</p>
                                 </div>
                             </div>
