@@ -15,9 +15,7 @@
                             <div class="input-with-button__input-container">
                                 <input name="query" class="input-with-button__input " type="text" id="hero-enter-channel" placeholder="Enter YouTube channel name or URL" autocomplete="off">
                                 <button class="input-with-button__cancel" type="button">
-                                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <path fill-rule="evenodd" clip-rule="evenodd" d="M12 19.5C16.4183 19.5 20 15.9183 20 11.5C20 7.08172 16.4183 3.5 12 3.5C7.58172 3.5 4 7.08172 4 11.5C4 15.9183 7.58172 19.5 12 19.5ZM9.70711 7.79289C9.31658 7.40237 8.68342 7.40237 8.29289 7.79289C7.90237 8.18342 7.90237 8.81658 8.29289 9.20711L10.5858 11.5L8.29289 13.7929C7.90237 14.1834 7.90237 14.8166 8.29289 15.2071C8.68342 15.5976 9.31658 15.5976 9.70711 15.2071L12 12.9142L14.2929 15.2071C14.6834 15.5976 15.3166 15.5976 15.7071 15.2071C16.0976 14.8166 16.0976 14.1834 15.7071 13.7929L13.4142 11.5L15.7071 9.20711C16.0976 8.81658 16.0976 8.18342 15.7071 7.79289C15.3166 7.40237 14.6834 7.40237 14.2929 7.79289L12 10.0858L9.70711 7.79289Z" fill="currentColor"></path>
-                            </svg>
+                                <img src="https://icons-for-free.com/iconfiles/png/512/video+youtube+icon-1320192294490006733.png" style="height:24px;"/>
                                 <span class="visually-hidden">cancel</span>
                                 </button>
                             </div>
